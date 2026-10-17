@@ -1,0 +1,510 @@
+{
+  "schema_version": 1,
+  "id": "story_001",
+  "level": 1,
+  "topic": "daily_life",
+  "title": {
+    "th": "วันของผม",
+    "en": "My Day",
+    "zh-TW": "我的日常生活"
+  },
+  "learning_goals": [
+    "Read eight short Thai sentences.",
+    "Recognize common daily activities.",
+    "Answer four comprehension questions.",
+    "Write three simple Thai sentences."
+  ],
+  "sentences": [
+    {
+      "id": "story_001_sentence_01",
+      "th": "วันนี้ผมตื่นเช้า",
+      "en": "Today I wake up early.",
+      "zh-TW": "今天我很早起床。"
+    },
+    {
+      "id": "story_001_sentence_02",
+      "th": "ผมดื่มน้ำ",
+      "en": "I drink water.",
+      "zh-TW": "我喝水。"
+    },
+    {
+      "id": "story_001_sentence_03",
+      "th": "ผมกินอาหารเช้า",
+      "en": "I eat breakfast.",
+      "zh-TW": "我吃早餐。"
+    },
+    {
+      "id": "story_001_sentence_04",
+      "th": "ผมอาบน้ำและเตรียมตัว",
+      "en": "I take a shower and get ready.",
+      "zh-TW": "我洗澡並做準備。"
+    },
+    {
+      "id": "story_001_sentence_05",
+      "th": "ผมไปทำงาน",
+      "en": "I go to work.",
+      "zh-TW": "我去上班。"
+    },
+    {
+      "id": "story_001_sentence_06",
+      "th": "วันนี้ผมทำงานมาก",
+      "en": "I work a lot today.",
+      "zh-TW": "今天我工作很多。"
+    },
+    {
+      "id": "story_001_sentence_07",
+      "th": "ผมกลับบ้าน",
+      "en": "I return home.",
+      "zh-TW": "我回家。"
+    },
+    {
+      "id": "story_001_sentence_08",
+      "th": "ผมกินข้าวและนอน",
+      "en": "I eat a meal and sleep.",
+      "zh-TW": "我吃飯然後睡覺。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Thai verbs do not change form for tense. Time words and context help indicate when an action happens.",
+      "zh-TW": "泰語動詞不會因時態而改變形式。時間詞和上下文可幫助判斷動作發生的時間。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_004",
+      "th": "อาหาร",
+      "en": "food",
+      "zh-TW": "食物",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_005",
+      "th": "เตรียมตัว",
+      "en": "get ready",
+      "zh-TW": "做準備",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_006",
+      "th": "ทำงาน",
+      "en": "work",
+      "zh-TW": "工作",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_007",
+      "th": "มาก",
+      "en": "very; a lot",
+      "zh-TW": "很；非常；很多",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_008",
+      "th": "ตื่น",
+      "en": "wake up",
+      "zh-TW": "醒來",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_009",
+      "th": "เช้า",
+      "en": "morning; early",
+      "zh-TW": "早上；早",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_010",
+      "th": "ดื่ม",
+      "en": "drink",
+      "zh-TW": "喝",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_011",
+      "th": "กิน",
+      "en": "eat",
+      "zh-TW": "吃",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_012",
+      "th": "อาบน้ำ",
+      "en": "take a shower; bathe",
+      "zh-TW": "洗澡",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_013",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_014",
+      "th": "กลับบ้าน",
+      "en": "return home",
+      "zh-TW": "回家",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_015",
+      "th": "นอน",
+      "en": "sleep; lie down",
+      "zh-TW": "睡覺；躺下",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_016",
+      "th": "ข้าว",
+      "en": "rice; meal",
+      "zh-TW": "飯",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和；並且",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home; house",
+      "zh-TW": "家；房子",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "notes_en": "Previously encountered within กวาดบ้าน; not confirmed as a separate vocabulary-bank entry."
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Focus first on ผม, กิน, ดื่ม, ไป, and กลับบ้าน. Review the remaining entries gradually.",
+      "zh-TW": "先專注於 ผม、กิน、ดื่ม、ไป 和 กลับบ้าน，其餘詞彙逐步複習。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "draft_pending_full_school_reference_check",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole words in context first. Review selected spelling and tone rules afterward.",
+    "notes": [
+      {
+        "id": "story_001_reading_01",
+        "th": "ผม",
+        "school_reading": "phǒm",
+        "note_en": "High-class ผ, live syllable, no tone mark: rising tone."
+      },
+      {
+        "id": "story_001_reading_02",
+        "th": "วันนี้",
+        "school_reading": "wan-níi",
+        "note_en": "Two syllables. นี้ has a high tone."
+      },
+      {
+        "id": "story_001_reading_03",
+        "th": "น้ำ",
+        "school_reading": "náam",
+        "note_en": "High tone. Learn its pronunciation alongside its special vowel spelling."
+      },
+      {
+        "id": "story_001_reading_04",
+        "th": "กิน",
+        "school_reading": "kin",
+        "note_en": "Middle-class ก, live syllable, no tone mark: mid tone. Use k for ก."
+      },
+      {
+        "id": "story_001_reading_05",
+        "th": "ดื่ม",
+        "school_reading": "dʉ̀ʉm",
+        "note_en": "Middle-class ด with ่: low tone."
+      },
+      {
+        "id": "story_001_reading_06",
+        "th": "เช้า",
+        "school_reading": "cháao",
+        "note_en": "Low-class ช with ้: high tone."
+      },
+      {
+        "id": "story_001_reading_07",
+        "th": "ไป",
+        "school_reading": "pai",
+        "note_en": "Middle-class ป, live syllable, no tone mark: mid tone."
+      },
+      {
+        "id": "story_001_reading_08",
+        "th": "ทำงาน",
+        "school_reading": "tham-ŋaan",
+        "note_en": "Two syllables. ง is represented by ŋ."
+      },
+      {
+        "id": "story_001_reading_09",
+        "th": "กลับ",
+        "school_reading": "klàp",
+        "note_en": "Middle-class ก with a short dead syllable: low tone. Final บ sounds like p."
+      },
+      {
+        "id": "story_001_reading_10",
+        "th": "บ้าน",
+        "school_reading": "bâan",
+        "note_en": "Middle-class บ with ้: falling tone."
+      },
+      {
+        "id": "story_001_reading_11",
+        "th": "นอน",
+        "school_reading": "nɔɔn",
+        "note_en": "Low-class น, live syllable, no tone mark: mid tone."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_001_pattern_01",
+      "name_en": "Subject + verb + object",
+      "pattern_th": "ผม + verb + object",
+      "explanation_en": "Say what you do using a subject, an action, and an object.",
+      "examples": [
+        {
+          "th": "ผมดื่มน้ำ",
+          "en": "I drink water.",
+          "zh-TW": "我喝水。"
+        },
+        {
+          "th": "ผมกินข้าว",
+          "en": "I eat a meal.",
+          "zh-TW": "我吃飯。"
+        }
+      ]
+    },
+    {
+      "id": "story_001_pattern_02",
+      "name_en": "Time + subject + action",
+      "pattern_th": "วันนี้ + ผม + action",
+      "explanation_en": "Place วันนี้ before the subject to say what you do today.",
+      "examples": [
+        {
+          "th": "วันนี้ผมทำงาน",
+          "en": "Today I work.",
+          "zh-TW": "今天我上班。"
+        },
+        {
+          "th": "วันนี้ผมไปทำงาน",
+          "en": "Today I go to work.",
+          "zh-TW": "今天我去上班。"
+        }
+      ]
+    },
+    {
+      "id": "story_001_pattern_03",
+      "name_en": "Connect two actions",
+      "pattern_th": "ผม + action + และ + action",
+      "explanation_en": "และ connects actions or ideas. It means and. Learn แล้ว for explicit sequencing in a later lesson.",
+      "examples": [
+        {
+          "th": "ผมกินข้าวและนอน",
+          "en": "I eat a meal and sleep.",
+          "zh-TW": "我吃飯並睡覺。"
+        },
+        {
+          "th": "ผมอาบน้ำและเตรียมตัว",
+          "en": "I take a shower and get ready.",
+          "zh-TW": "我洗澡並做準備。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_001_quiz_01",
+      "question_th": "วันนี้ผมตื่นเมื่อไร",
+      "question_en": "When do I wake up?",
+      "hint_en": "เมื่อไร means when.",
+      "choices": [
+        { "id": "a", "th": "ตอนเช้า", "en": "In the morning" },
+        { "id": "b", "th": "ตอนเย็น", "en": "In the evening" },
+        { "id": "c", "th": "ตอนกลางคืน", "en": "At night" }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_001_sentence_01",
+      "explanation_en": "The story says ตื่นเช้า: wake up early."
+    },
+    {
+      "id": "story_001_quiz_02",
+      "question_th": "ผมดื่มอะไร",
+      "question_en": "What do I drink?",
+      "hint_en": "อะไร means what.",
+      "choices": [
+        { "id": "a", "th": "กาแฟ", "en": "Coffee" },
+        { "id": "b", "th": "น้ำ", "en": "Water" },
+        { "id": "c", "th": "นม", "en": "Milk" }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_001_sentence_02",
+      "explanation_en": "ผมดื่มน้ำ means I drink water."
+    },
+    {
+      "id": "story_001_quiz_03",
+      "question_th": "ผมไปไหน",
+      "question_en": "Where do I go?",
+      "hint_en": "ไหน means where in this question.",
+      "choices": [
+        { "id": "a", "th": "ไปโรงเรียน", "en": "Go to school" },
+        { "id": "b", "th": "ไปตลาด", "en": "Go to the market" },
+        { "id": "c", "th": "ไปทำงาน", "en": "Go to work" }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_001_sentence_05",
+      "explanation_en": "ผมไปทำงาน means I go to work."
+    },
+    {
+      "id": "story_001_quiz_04",
+      "question_th": "หลังทำงาน ผมไปไหน",
+      "question_en": "Where do I go after work?",
+      "hint_en": "หลังทำงาน means after work.",
+      "choices": [
+        { "id": "a", "th": "กลับบ้าน", "en": "Return home" },
+        { "id": "b", "th": "ไปวัด", "en": "Go to a temple" },
+        { "id": "c", "th": "ไปตลาด", "en": "Go to the market" }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_001_sentence_07",
+      "explanation_en": "After the work sentences, the story says ผมกลับบ้าน: I return home."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate each prompt into Thai before checking the suggested answer. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_001_writing_01",
+        "en": "Today I drink water.",
+        "zh-TW": "今天我喝水。",
+        "suggested_answer_th": "วันนี้ผมดื่มน้ำ"
+      },
+      {
+        "id": "story_001_writing_02",
+        "en": "I go to work.",
+        "zh-TW": "我去上班。",
+        "suggested_answer_th": "ผมไปทำงาน"
+      },
+      {
+        "id": "story_001_writing_03",
+        "en": "I return home.",
+        "zh-TW": "我回家。",
+        "suggested_answer_th": "ผมกลับบ้าน"
+      }
+    ],
+    "personalization_en": "Write one sentence about your own day. You can replace น้ำ with กาแฟ, meaning coffee.",
+    "pronoun_note_en": "This story uses ผม for a male speaker. Learners may use ฉัน or another suitable self-reference."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_001_speaking_01",
+        "instruction_en": "Read all eight Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_001_speaking_02",
+        "instruction_en": "Read again, aiming to pause between phrases rather than after every word."
+      },
+      {
+        "id": "story_001_speaking_03",
+        "instruction_en": "Hide the story and describe your own day using at least three Thai sentences."
+      }
+    ],
+    "optional_task_en": "Record yourself if you want to compare your reading over time."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Review vocabulary and pronunciation notes.",
+      "task_zh-TW": "複習詞彙和發音筆記。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer the four comprehension questions and complete the three writing prompts.",
+      "task_zh-TW": "回答四道閱讀理解題，完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell your day from memory.",
+      "task_zh-TW": "朗讀故事，並憑記憶描述你的一天。"
+    }
+  ]
+}

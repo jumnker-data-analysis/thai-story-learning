@@ -1,0 +1,561 @@
+{
+  "schema_version": 1,
+  "id": "story_002",
+  "level": 1,
+  "topic": "family",
+  "title": {
+    "th": "ครอบครัวของผม",
+    "en": "My Family",
+    "zh-TW": "我的家庭"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read eight short sentences about a fictional family.",
+    "Learn seven priority words about family, having, and preferences.",
+    "Reuse daily-life vocabulary from Story 01.",
+    "Answer four questions and write three simple sentences."
+  ],
+  "sentences": [
+    {
+      "id": "story_002_sentence_01",
+      "th": "ผมมีครอบครัว",
+      "en": "I have a family.",
+      "zh-TW": "我有一個家庭。"
+    },
+    {
+      "id": "story_002_sentence_02",
+      "th": "ครอบครัวของผมมีสี่คน",
+      "en": "There are four people in my family.",
+      "zh-TW": "我的家庭有四個人。"
+    },
+    {
+      "id": "story_002_sentence_03",
+      "th": "ผมมีพ่อ แม่ และพี่สาว",
+      "en": "I have a father, a mother, and an older sister.",
+      "zh-TW": "我有爸爸、媽媽和姊姊。"
+    },
+    {
+      "id": "story_002_sentence_04",
+      "th": "พ่อชอบกาแฟ",
+      "en": "My father likes coffee.",
+      "zh-TW": "爸爸喜歡咖啡。"
+    },
+    {
+      "id": "story_002_sentence_05",
+      "th": "แม่ดื่มน้ำ",
+      "en": "My mother drinks water.",
+      "zh-TW": "媽媽喝水。"
+    },
+    {
+      "id": "story_002_sentence_06",
+      "th": "พี่สาวชอบกาแฟ",
+      "en": "My older sister likes coffee.",
+      "zh-TW": "姊姊喜歡咖啡。"
+    },
+    {
+      "id": "story_002_sentence_07",
+      "th": "วันนี้เรากินข้าวที่บ้าน",
+      "en": "Today we eat a meal at home.",
+      "zh-TW": "今天我們在家吃飯。"
+    },
+    {
+      "id": "story_002_sentence_08",
+      "th": "ผมชอบกินข้าวที่บ้าน",
+      "en": "I like eating meals at home.",
+      "zh-TW": "我喜歡在家吃飯。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is a fictional four-person family: the narrator, father, mother, and older sister. Personalize it to your own family later.",
+      "zh-TW": "這是一個虛構的四人家庭：主角、爸爸、媽媽和姊姊。之後可依自己的家庭改寫。"
+    },
+    {
+      "en": "มี can mean have, there is, or there are. คน follows a number when counting people.",
+      "zh-TW": "มี 可表示擁有或存在。計算人數時，คน 放在數字後面。"
+    },
+    {
+      "en": "In this story เรา means we. ที่บ้าน means at home.",
+      "zh-TW": "本故事中的 เรา 表示我們；ที่บ้าน 表示在家。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "have; there is / there are",
+      "zh-TW": "有",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_020",
+      "th": "ครอบครัว",
+      "en": "family",
+      "zh-TW": "家庭",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_021",
+      "th": "ของ",
+      "en": "of; belonging to",
+      "zh-TW": "的",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_022",
+      "th": "สี่",
+      "en": "four",
+      "zh-TW": "四",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_023",
+      "th": "คน",
+      "en": "person; classifier for people",
+      "zh-TW": "人；人的量詞",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_024",
+      "th": "พ่อ",
+      "en": "father",
+      "zh-TW": "爸爸",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_025",
+      "th": "แม่",
+      "en": "mother",
+      "zh-TW": "媽媽",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和；並且",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_026",
+      "th": "พี่สาว",
+      "en": "older sister",
+      "zh-TW": "姊姊",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_027",
+      "th": "ชอบ",
+      "en": "like",
+      "zh-TW": "喜歡",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_028",
+      "th": "กาแฟ",
+      "en": "coffee",
+      "zh-TW": "咖啡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_010",
+      "th": "ดื่ม",
+      "en": "drink",
+      "zh-TW": "喝",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_029",
+      "th": "เรา",
+      "en": "we (in this story)",
+      "zh-TW": "我們（本故事中的意思）",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_011",
+      "th": "กิน",
+      "en": "eat",
+      "zh-TW": "吃",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_016",
+      "th": "ข้าว",
+      "en": "rice; meal",
+      "zh-TW": "飯",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_030",
+      "th": "ที่",
+      "en": "at (before a place in this lesson)",
+      "zh-TW": "在（本課地點前的用法）",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home; house",
+      "zh-TW": "家；房子",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven priority words: มี, ครอบครัว, คน, พ่อ, แม่, พี่สาว, ชอบ. Other new words are supporting vocabulary; learn them gradually. Previously encountered means used in Story 01 or its exercises, not mastered.",
+      "zh-TW": "七個重點詞：มี、ครอบครัว、คน、พ่อ、แม่、พี่สาว、ชอบ。其他新詞是輔助詞彙，可逐步學習。「曾接觸」表示在第一課或其練習中出現過，不代表已熟練。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "draft_pending_full_school_reference_check",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read the Thai story first. Use the school-style readings only as support. Review one or two tone examples at a time.",
+    "notes": [
+      {
+        "id": "story_002_reading_01",
+        "th": "มี",
+        "school_reading": "mii",
+        "note_en": "ม is low class. A live syllable without a tone mark has a mid tone."
+      },
+      {
+        "id": "story_002_reading_02",
+        "th": "คน",
+        "school_reading": "khon",
+        "note_en": "ค is aspirated: kh. Final น is n. Mid tone."
+      },
+      {
+        "id": "story_002_reading_03",
+        "th": "พ่อ",
+        "school_reading": "phɔ̂ɔ",
+        "note_en": "Low-class พ with ่ has a falling tone. Use ph for พ."
+      },
+      {
+        "id": "story_002_reading_04",
+        "th": "แม่",
+        "school_reading": "mɛ̂ɛ",
+        "note_en": "Low-class ม with ่ has a falling tone. The vowel is long ɛɛ."
+      },
+      {
+        "id": "story_002_reading_05",
+        "th": "พี่สาว",
+        "school_reading": "phîi-sǎao",
+        "note_en": "Two syllables: พี่ has a falling tone; สาว has a rising tone."
+      },
+      {
+        "id": "story_002_reading_06",
+        "th": "ชอบ",
+        "school_reading": "chɔ̂ɔp",
+        "note_en": "Falling tone. Final บ is pronounced p. The ch spelling is provisional pending the full school chart."
+      },
+      {
+        "id": "story_002_reading_07",
+        "th": "กิน",
+        "school_reading": "kin",
+        "note_en": "Use k for ก, following your correction. Mid tone."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_002_pattern_01",
+      "name_en": "Having something",
+      "pattern_th": "subject + มี + noun",
+      "explanation_en": "Use มี to say someone has something.",
+      "examples": [
+        {
+          "th": "ผมมีพี่สาว",
+          "en": "I have an older sister.",
+          "zh-TW": "我有姊姊。"
+        },
+        {
+          "th": "ผมมีครอบครัว",
+          "en": "I have a family.",
+          "zh-TW": "我有一個家庭。"
+        }
+      ]
+    },
+    {
+      "id": "story_002_pattern_02",
+      "name_en": "Counting people in a family",
+      "pattern_th": "ครอบครัวของ + person + มี + number + คน",
+      "explanation_en": "ของ links the family to a person. Put คน after the number when counting people.",
+      "examples": [
+        {
+          "th": "ครอบครัวของผมมีสี่คน",
+          "en": "There are four people in my family.",
+          "zh-TW": "我的家庭有四個人。"
+        },
+        {
+          "th": "ครอบครัวของผมมีสามคน",
+          "en": "There are three people in my family.",
+          "zh-TW": "我的家庭有三個人。"
+        }
+      ]
+    },
+    {
+      "id": "story_002_pattern_03",
+      "name_en": "Likes and preferences",
+      "pattern_th": "subject + ชอบ + noun or action",
+      "explanation_en": "Use ชอบ with a thing or an activity that someone likes.",
+      "examples": [
+        {
+          "th": "พ่อชอบกาแฟ",
+          "en": "My father likes coffee.",
+          "zh-TW": "爸爸喜歡咖啡。"
+        },
+        {
+          "th": "ผมชอบกินข้าวที่บ้าน",
+          "en": "I like eating meals at home.",
+          "zh-TW": "我喜歡在家吃飯。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_002_quiz_01",
+      "question_th": "ครอบครัวของผมมีกี่คน",
+      "question_en": "How many people are in my family?",
+      "hint_en": "กี่คน means how many people.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สามคน",
+          "en": "Three people"
+        },
+        {
+          "id": "b",
+          "th": "สี่คน",
+          "en": "Four people"
+        },
+        {
+          "id": "c",
+          "th": "ห้าคน",
+          "en": "Five people"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_002_sentence_02",
+      "explanation_en": "The story says ครอบครัวของผมมีสี่คน: four people."
+    },
+    {
+      "id": "story_002_quiz_02",
+      "question_th": "พ่อชอบอะไร",
+      "question_en": "What does my father like?",
+      "hint_en": "อะไร means what.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กาแฟ",
+          "en": "Coffee"
+        },
+        {
+          "id": "b",
+          "th": "น้ำ",
+          "en": "Water"
+        },
+        {
+          "id": "c",
+          "th": "ข้าว",
+          "en": "Rice / a meal"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_002_sentence_04",
+      "explanation_en": "พ่อชอบกาแฟ means my father likes coffee."
+    },
+    {
+      "id": "story_002_quiz_03",
+      "question_th": "แม่ดื่มอะไร",
+      "question_en": "What does my mother drink?",
+      "hint_en": "ดื่ม means drink.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กาแฟ",
+          "en": "Coffee"
+        },
+        {
+          "id": "b",
+          "th": "นม",
+          "en": "Milk"
+        },
+        {
+          "id": "c",
+          "th": "น้ำ",
+          "en": "Water"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_002_sentence_05",
+      "explanation_en": "แม่ดื่มน้ำ means my mother drinks water."
+    },
+    {
+      "id": "story_002_quiz_04",
+      "question_th": "วันนี้เรากินข้าวที่ไหน",
+      "question_en": "Where do we eat today?",
+      "hint_en": "ที่ไหน means where.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ที่ร้านกาแฟ",
+          "en": "At a café"
+        },
+        {
+          "id": "b",
+          "th": "ที่บ้าน",
+          "en": "At home"
+        },
+        {
+          "id": "c",
+          "th": "ที่โรงเรียน",
+          "en": "At school"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_002_sentence_07",
+      "explanation_en": "วันนี้เรากินข้าวที่บ้าน says we eat at home today."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the three prompts into Thai. Compare with the suggested answers afterward; other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_002_writing_01",
+        "en": "I have an older sister.",
+        "zh-TW": "我有姊姊。",
+        "suggested_answer_th": "ผมมีพี่สาว"
+      },
+      {
+        "id": "story_002_writing_02",
+        "en": "My father likes coffee.",
+        "zh-TW": "爸爸喜歡咖啡。",
+        "suggested_answer_th": "พ่อชอบกาแฟ"
+      },
+      {
+        "id": "story_002_writing_03",
+        "en": "Today we eat at home.",
+        "zh-TW": "今天我們在家吃飯。",
+        "suggested_answer_th": "วันนี้เรากินข้าวที่บ้าน"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your family. You can change the number of people or a preference. Ask for a family word you need rather than using a fictional detail as your own.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference if appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_002_speaking_01",
+        "instruction_en": "Read all eight sentences aloud slowly."
+      },
+      {
+        "id": "story_002_speaking_02",
+        "instruction_en": "Read again, grouping words into short phrases."
+      },
+      {
+        "id": "story_002_speaking_03",
+        "instruction_en": "Hide the story and describe your own family in three short Thai sentences."
+      }
+    ],
+    "optional_task_en": "Record a short introduction to your family, if you want to compare your speaking over time."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the aligned translations.",
+      "task_zh-TW": "先讀泰語故事，再查看對應翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study the seven priority words and selected pronunciation notes. Review repeated words from Story 01.",
+      "task_zh-TW": "學習七個重點詞與部分發音筆記，複習第一課的舊詞。"
+    },
+    {
+      "day": 3,
+      "task_en": "Complete the four comprehension questions and three writing prompts.",
+      "task_zh-TW": "完成四道閱讀理解題和三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and describe your own family from memory.",
+      "task_zh-TW": "朗讀，並憑記憶描述自己的家庭。"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thai Story Learning</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">THAI STORY LEARNING</p>
+      <h1 id="story-title">Loading story…</h1>
+      <p id="story-subtitle"></p>
+      <div class="story-picker">
+        <label for="story-select">Choose a story:</label>
+        <select id="story-select">
+          <option value="story_001">01 — My Day</option>
+          <option value="story_002">02 — My Family</option>
+          <option value="story_003">03 — My Home</option>
+        </select>
+</div>
+    </header>
+
+    <p id="status" role="status">Loading lesson data…</p>
+
+    <div id="lesson" hidden>
+      <section>
+        <h2>1. Read the Thai story</h2>
+        <p class="hint">Read first. Try recognizing words before checking translations.</p>
+        <div id="thai-story"></div>
+      </section>
+
+      <section>
+        <h2>2. Translations</h2>
+        <label for="translation-language">Show:</label>
+        <select id="translation-language">
+          <option value="none">Choose a translation</option>
+          <option value="en">English</option>
+          <option value="zh-TW">繁體中文</option>
+        </select>
+        <div id="translations"></div>
+        <div id="language-notes"></div>
+      </section>
+
+      <section>
+        <h2>3. Vocabulary</h2>
+        <p class="hint">★ marks the priority words for this lesson.</p>
+        <div id="vocabulary-notes"></div>
+        <div id="vocabulary-list"></div>
+      </section>
+
+      <section>
+        <h2>4. Pronunciation and reading notes</h2>
+        <p id="pronunciation-advice" class="hint"></p>
+        <p class="hint">School-style readings are a draft for review. ก = k.</p>
+        <div id="pronunciation-list"></div>
+      </section>
+
+      <section>
+        <h2>5. Sentence patterns</h2>
+        <div id="patterns"></div>
+      </section>
+
+      <section>
+        <h2>6. Reading comprehension</h2>
+        <p class="hint">Answer from the Thai story. Open English help if needed.</p>
+        <form id="quiz-form">
+          <div id="quiz-questions"></div>
+          <button type="submit">Check my answers</button>
+          <button type="button" id="quiz-reset" class="secondary">
+            Try again
+          </button>
+          <p id="quiz-score" role="status"></p>
+        </form>
+      </section>
+
+      <section>
+        <h2>7. Writing practice</h2>
+        <p id="writing-instructions" class="hint"></p>
+        <div id="writing-prompts"></div>
+        <p id="writing-personalization"></p>
+        <p id="writing-pronoun-note" class="hint"></p>
+      </section>
+
+      <section>
+        <h2>8. Speaking practice</h2>
+        <ol id="speaking-tasks"></ol>
+        <p id="speaking-optional" class="hint"></p>
+      </section>
+
+      <section>
+        <h2>9. Study schedule</h2>
+        <div id="study-schedule"></div>
+      </section>
+    </div>
+
+    <footer>Small stories. Consistent practice.</footer>
+  </main>
+</body>
+</html>

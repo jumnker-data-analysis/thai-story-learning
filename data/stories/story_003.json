@@ -1,0 +1,527 @@
+{
+  "schema_version": 1,
+  "id": "story_003",
+  "level": 1,
+  "topic": "home",
+  "title": {
+    "th": "บ้านของผม",
+    "en": "My Home",
+    "zh-TW": "我的家"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read eight short sentences about a home.",
+    "Learn seven focus words for objects, locations, and reading.",
+    "Use อยู่, มี, and simple descriptions.",
+    "Answer four questions and write three short sentences."
+  ],
+  "sentences": [
+    {
+      "th": "ผมอยู่ที่บ้าน",
+      "en": "I am at home.",
+      "zh-TW": "我在家。",
+      "id": "story_003_sentence_01"
+    },
+    {
+      "th": "บ้านของผมเล็ก",
+      "en": "My home is small.",
+      "zh-TW": "我的家很小。",
+      "id": "story_003_sentence_02"
+    },
+    {
+      "th": "ในบ้านมีโต๊ะและเก้าอี้",
+      "en": "There are a table and a chair in the house.",
+      "zh-TW": "家裡有一張桌子和一張椅子。",
+      "id": "story_003_sentence_03"
+    },
+    {
+      "th": "หนังสืออยู่บนโต๊ะ",
+      "en": "The book is on the table.",
+      "zh-TW": "書在桌上。",
+      "id": "story_003_sentence_04"
+    },
+    {
+      "th": "เก้าอี้อยู่ใกล้โต๊ะ",
+      "en": "The chair is near the table.",
+      "zh-TW": "椅子在桌子附近。",
+      "id": "story_003_sentence_05"
+    },
+    {
+      "th": "ผมอ่านหนังสือที่บ้าน",
+      "en": "I read a book at home.",
+      "zh-TW": "我在家看書。",
+      "id": "story_003_sentence_06"
+    },
+    {
+      "th": "วันนี้ผมดื่มน้ำและอ่านหนังสือ",
+      "en": "Today I drink water and read a book.",
+      "zh-TW": "今天我喝水並看書。",
+      "id": "story_003_sentence_07"
+    },
+    {
+      "th": "ผมชอบบ้านของผม",
+      "en": "I like my home.",
+      "zh-TW": "我喜歡我的家。",
+      "id": "story_003_sentence_08"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is a fictional example. Personalize the home details during practice.",
+      "zh-TW": "這是虛構的例子。練習時可依自己的家改寫。"
+    },
+    {
+      "en": "Thai nouns do not require articles such as a or the. The translations use natural English articles.",
+      "zh-TW": "泰語名詞不需要像英文 a 或 the 這樣的冠詞。英文翻譯依語境使用自然的冠詞。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home; house",
+      "zh-TW": "家；房子",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_021",
+      "th": "ของ",
+      "en": "of; belonging to",
+      "zh-TW": "的",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_031",
+      "th": "เล็ก",
+      "en": "small",
+      "zh-TW": "小",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "have; there is / there are",
+      "zh-TW": "有",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和；並且",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_030",
+      "th": "ที่",
+      "en": "at (before a place in this lesson)",
+      "zh-TW": "在（本課地點前的用法）",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_010",
+      "th": "ดื่ม",
+      "en": "drink",
+      "zh-TW": "喝",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_027",
+      "th": "ชอบ",
+      "en": "like",
+      "zh-TW": "喜歡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_032",
+      "th": "อยู่",
+      "en": "be; be located; live",
+      "zh-TW": "在；位於；居住",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_033",
+      "th": "ใน",
+      "en": "in; inside",
+      "zh-TW": "在……裡面",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_034",
+      "th": "โต๊ะ",
+      "en": "table; desk",
+      "zh-TW": "桌子",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_035",
+      "th": "เก้าอี้",
+      "en": "chair",
+      "zh-TW": "椅子",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_036",
+      "th": "หนังสือ",
+      "en": "book",
+      "zh-TW": "書",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_037",
+      "th": "บน",
+      "en": "on; on top of",
+      "zh-TW": "在……上面",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_038",
+      "th": "อ่าน",
+      "en": "read",
+      "zh-TW": "閱讀",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_039",
+      "th": "ใกล้",
+      "en": "near",
+      "zh-TW": "近",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus words: อยู่, ใน, โต๊ะ, เก้าอี้, หนังสือ, บน, อ่าน. ใกล้ and เล็ก were previously encountered in the textbook bank. Other recycled words come from earlier stories or their vocabulary lists; this does not mean they are mastered.",
+      "zh-TW": "七個重點詞：อยู่、ใน、โต๊ะ、เก้าอี้、หนังสือ、บน、อ่าน。ใกล้ 和 เล็ก 曾在課本詞彙庫接觸。其他複習詞來自前面的故事或詞彙表，不代表已熟練。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Recognize meaningful groups first: ในบ้าน, บนโต๊ะ, ใกล้โต๊ะ, อ่านหนังสือ. School-style transcriptions have not been added to this lesson yet.",
+    "notes": [
+      {
+        "id": "story_003_reading_01",
+        "th": "ในบ้าน",
+        "school_reading": "",
+        "note_en": "Recognize this group as inside the house."
+      },
+      {
+        "id": "story_003_reading_02",
+        "th": "บนโต๊ะ",
+        "school_reading": "",
+        "note_en": "Recognize this group as on the table."
+      },
+      {
+        "id": "story_003_reading_03",
+        "th": "ใกล้โต๊ะ",
+        "school_reading": "",
+        "note_en": "Recognize this group as near the table."
+      },
+      {
+        "id": "story_003_reading_04",
+        "th": "อ่านหนังสือ",
+        "school_reading": "",
+        "note_en": "Recognize this group as read a book."
+      },
+      {
+        "id": "story_003_reading_05",
+        "th": "เก้าอี้",
+        "school_reading": "",
+        "note_en": "Notice the two syllables: เก้า-อี้. The hyphen is a reading aid only."
+      },
+      {
+        "id": "story_003_reading_06",
+        "th": "หนังสือ",
+        "school_reading": "",
+        "note_en": "Notice the two syllables: หนัง-สือ. Normal spelling has no hyphen."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_003_pattern_01",
+      "name_en": "Say where something is",
+      "pattern_th": "thing + อยู่ + location",
+      "explanation_en": "Use อยู่ with a location to say where something is.",
+      "examples": [
+        {
+          "th": "หนังสืออยู่บนโต๊ะ",
+          "en": "The book is on the table.",
+          "zh-TW": "書在桌上。"
+        }
+      ]
+    },
+    {
+      "id": "story_003_pattern_02",
+      "name_en": "Say what a place contains",
+      "pattern_th": "ใน + place + มี + thing",
+      "explanation_en": "Start with ใน plus a place, then use มี to say what is there.",
+      "examples": [
+        {
+          "th": "ในบ้านมีเก้าอี้",
+          "en": "There is a chair in the house.",
+          "zh-TW": "家裡有椅子。"
+        }
+      ]
+    },
+    {
+      "id": "story_003_pattern_03",
+      "name_en": "Describe something",
+      "pattern_th": "thing + adjective",
+      "explanation_en": "Put an adjective after the thing being described. A separate word meaning is is not needed here.",
+      "examples": [
+        {
+          "th": "บ้านของผมเล็ก",
+          "en": "My home is small.",
+          "zh-TW": "我的家很小。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_003_quiz_01",
+      "question_th": "บ้านของผมเป็นอย่างไร",
+      "question_en": "What is my home like?",
+      "hint_en": "เป็นอย่างไร asks what something is like.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เล็ก",
+          "en": "Small"
+        },
+        {
+          "id": "b",
+          "th": "ใหญ่",
+          "en": "Big"
+        },
+        {
+          "id": "c",
+          "th": "ร้อน",
+          "en": "Hot"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_003_sentence_02",
+      "explanation_en": "บ้านของผมเล็ก means my home is small."
+    },
+    {
+      "id": "story_003_quiz_02",
+      "question_th": "หนังสืออยู่ที่ไหน",
+      "question_en": "Where is the book?",
+      "hint_en": "ที่ไหน means where.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "บนเก้าอี้",
+          "en": "On the chair"
+        },
+        {
+          "id": "b",
+          "th": "บนโต๊ะ",
+          "en": "On the table"
+        },
+        {
+          "id": "c",
+          "th": "ใกล้บ้าน",
+          "en": "Near the house"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_003_sentence_04",
+      "explanation_en": "หนังสืออยู่บนโต๊ะ means the book is on the table."
+    },
+    {
+      "id": "story_003_quiz_03",
+      "question_th": "ผมอ่านอะไร",
+      "question_en": "What do I read?",
+      "hint_en": "อะไร means what.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "หนังสือ",
+          "en": "A book"
+        },
+        {
+          "id": "b",
+          "th": "โต๊ะ",
+          "en": "A table"
+        },
+        {
+          "id": "c",
+          "th": "น้ำ",
+          "en": "Water"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_003_sentence_06",
+      "explanation_en": "ผมอ่านหนังสือที่บ้าน says I read a book at home."
+    },
+    {
+      "id": "story_003_quiz_04",
+      "question_th": "เก้าอี้อยู่ใกล้อะไร",
+      "question_en": "What is the chair near?",
+      "hint_en": "ใกล้อะไร means near what.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "บ้าน",
+          "en": "The house"
+        },
+        {
+          "id": "b",
+          "th": "หนังสือ",
+          "en": "The book"
+        },
+        {
+          "id": "c",
+          "th": "โต๊ะ",
+          "en": "The table"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_003_sentence_05",
+      "explanation_en": "เก้าอี้อยู่ใกล้โต๊ะ means the chair is near the table."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_003_writing_01",
+        "en": "My home is small.",
+        "zh-TW": "我的家很小。",
+        "suggested_answer_th": "บ้านของผมเล็ก"
+      },
+      {
+        "id": "story_003_writing_02",
+        "en": "The book is on the table.",
+        "zh-TW": "書在桌上。",
+        "suggested_answer_th": "หนังสืออยู่บนโต๊ะ"
+      },
+      {
+        "id": "story_003_writing_03",
+        "en": "I like reading books.",
+        "zh-TW": "我喜歡看書。",
+        "suggested_answer_th": "ผมชอบอ่านหนังสือ"
+      }
+    ],
+    "personalization_en": "Write two true sentences about objects and locations in your own home.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_003_speaking_01",
+        "instruction_en": "Read the eight Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_003_speaking_02",
+        "instruction_en": "Read again in meaningful groups rather than pausing after every word."
+      },
+      {
+        "id": "story_003_speaking_03",
+        "instruction_en": "Look around your home and say three sentences about what you see."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo describing your home."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the eight sentences, then check the translations.",
+      "task_zh-TW": "先讀八個句子，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Review the seven focus words and reading groups.",
+      "task_zh-TW": "複習七個重點詞和詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer the four comprehension questions and write three sentences.",
+      "task_zh-TW": "回答四道閱讀理解題，寫三個句子。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and describe your own home.",
+      "task_zh-TW": "朗讀並描述自己的家。"
+    }
+  ]
+}
