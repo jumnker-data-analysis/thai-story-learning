@@ -1,0 +1,530 @@
+{
+  "schema_version": 1,
+  "id": "story_004",
+  "level": 1,
+  "topic": "weather",
+  "title": {
+    "th": "วันนี้อากาศร้อน",
+    "en": "It's Hot Today",
+    "zh-TW": "今天天氣很熱"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read eight short Thai sentences.",
+    "Practise weather vocabulary.",
+    "Use three sentence patterns.",
+    "Answer four questions and write three sentences."
+  ],
+  "sentences": [
+    {
+      "id": "story_004_sentence_01",
+      "th": "วันนี้อากาศร้อนมาก",
+      "en": "The weather is very hot today.",
+      "zh-TW": "今天天氣非常熱。"
+    },
+    {
+      "id": "story_004_sentence_02",
+      "th": "แดดแรง",
+      "en": "The sun is strong.",
+      "zh-TW": "陽光很強。"
+    },
+    {
+      "id": "story_004_sentence_03",
+      "th": "ผมอยากดื่มน้ำ",
+      "en": "I want to drink water.",
+      "zh-TW": "我想喝水。"
+    },
+    {
+      "id": "story_004_sentence_04",
+      "th": "ผมดื่มน้ำเย็น",
+      "en": "I drink cold water.",
+      "zh-TW": "我喝冰水。"
+    },
+    {
+      "id": "story_004_sentence_05",
+      "th": "ผมไม่อยากออกไปข้างนอก",
+      "en": "I don’t want to go outside.",
+      "zh-TW": "我不想出去外面。"
+    },
+    {
+      "id": "story_004_sentence_06",
+      "th": "ผมอ่านหนังสือที่บ้าน",
+      "en": "I read a book at home.",
+      "zh-TW": "我在家看書。"
+    },
+    {
+      "id": "story_004_sentence_07",
+      "th": "ตอนเย็นอากาศเย็น",
+      "en": "The weather is cool in the evening.",
+      "zh-TW": "傍晚天氣涼爽。"
+    },
+    {
+      "id": "story_004_sentence_08",
+      "th": "ผมพักที่บ้าน",
+      "en": "I rest at home.",
+      "zh-TW": "我在家休息。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is an example hot day, not a weather report.",
+      "zh-TW": "這是炎熱一天的情境示例，不是即時天氣預報。"
+    },
+    {
+      "en": "เย็น can describe a cool temperature. ตอนเย็น means in the evening.",
+      "zh-TW": "同一個詞可描述涼爽的溫度，也可出現在表示傍晚的詞組中。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_040",
+      "th": "อากาศ",
+      "en": "weather; air",
+      "zh-TW": "天氣；空氣",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_041",
+      "th": "แดด",
+      "en": "sunlight; sunshine",
+      "zh-TW": "陽光",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_042",
+      "th": "แรง",
+      "en": "strong; intense",
+      "zh-TW": "強烈",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_043",
+      "th": "อยาก",
+      "en": "want to (before an action)",
+      "zh-TW": "想要（做某事）",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_044",
+      "th": "เย็น",
+      "en": "cool; cold",
+      "zh-TW": "涼；冷",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_045",
+      "th": "ข้างนอก",
+      "en": "outside",
+      "zh-TW": "外面",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_046",
+      "th": "พัก",
+      "en": "rest",
+      "zh-TW": "休息",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_047",
+      "th": "ร้อน",
+      "en": "hot",
+      "zh-TW": "熱",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_048",
+      "th": "มาก",
+      "en": "very; a lot",
+      "zh-TW": "很；非常",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_010",
+      "th": "ดื่ม",
+      "en": "drink",
+      "zh-TW": "喝",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_049",
+      "th": "ไม่",
+      "en": "not",
+      "zh-TW": "不",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_050",
+      "th": "ออกไป",
+      "en": "go out",
+      "zh-TW": "出去",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_038",
+      "th": "อ่าน",
+      "en": "read",
+      "zh-TW": "閱讀",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_036",
+      "th": "หนังสือ",
+      "en": "book",
+      "zh-TW": "書",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_030",
+      "th": "ที่",
+      "en": "at",
+      "zh-TW": "在",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home",
+      "zh-TW": "家",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_051",
+      "th": "ตอนเย็น",
+      "en": "in the evening",
+      "zh-TW": "傍晚",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven priority entries are marked for focused study. Supporting words and numbers can be reviewed gradually. Previously encountered refers to earlier lesson vocabulary, not mastery.",
+      "zh-TW": "七個重點詞供集中學習。其他輔助詞與數字可逐步複習。「曾接觸」不代表已熟練。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read the Thai story first, then practise these meaningful groups. Romanized school readings are not supplied in this draft. ก = k.",
+    "notes": [
+      {
+        "id": "story_004_reading_01",
+        "th": "อากาศร้อนมาก",
+        "school_reading": "",
+        "note_en": "Read as a weather description: the weather is very hot."
+      },
+      {
+        "id": "story_004_reading_02",
+        "th": "น้ำเย็น",
+        "school_reading": "",
+        "note_en": "น้ำ + เย็น means cold water. The description follows the noun."
+      },
+      {
+        "id": "story_004_reading_03",
+        "th": "ไม่อยาก",
+        "school_reading": "",
+        "note_en": "Read these together as do not want to."
+      },
+      {
+        "id": "story_004_reading_04",
+        "th": "ออกไปข้างนอก",
+        "school_reading": "",
+        "note_en": "Recognize this group as go outside."
+      },
+      {
+        "id": "story_004_reading_05",
+        "th": "ตอนเย็น / อากาศเย็น",
+        "school_reading": "",
+        "note_en": "เย็น refers to evening in ตอนเย็น and cool temperature in อากาศเย็น."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_004_pattern_01",
+      "name_en": "Describe the weather",
+      "pattern_th": "อากาศ + adjective",
+      "explanation_en": "Place the weather description after อากาศ.",
+      "examples": [
+        {
+          "th": "อากาศร้อนมาก",
+          "en": "The weather is very hot.",
+          "zh-TW": "天氣非常熱。"
+        }
+      ]
+    },
+    {
+      "id": "story_004_pattern_02",
+      "name_en": "Say what you want to do",
+      "pattern_th": "ผม + อยาก + action",
+      "explanation_en": "อยาก before an action means want to do it.",
+      "examples": [
+        {
+          "th": "ผมอยากดื่มน้ำ",
+          "en": "I want to drink water.",
+          "zh-TW": "我想喝水。"
+        }
+      ]
+    },
+    {
+      "id": "story_004_pattern_03",
+      "name_en": "Say what you do not want to do",
+      "pattern_th": "ผม + ไม่อยาก + action",
+      "explanation_en": "Place ไม่ before อยาก to express not wanting to do something.",
+      "examples": [
+        {
+          "th": "ผมไม่อยากออกไปข้างนอก",
+          "en": "I don’t want to go outside.",
+          "zh-TW": "我不想出去外面。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_004_quiz_01",
+      "question_th": "วันนี้อากาศเป็นอย่างไร",
+      "question_en": "What is the weather like today?",
+      "hint_en": "เป็นอย่างไร asks what something is like.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ร้อนมาก",
+          "en": "Very hot"
+        },
+        {
+          "id": "b",
+          "th": "หนาว",
+          "en": "Cold"
+        },
+        {
+          "id": "c",
+          "th": "เย็น",
+          "en": "Cool"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_004_sentence_01",
+      "explanation_en": "The first sentence says อากาศร้อนมาก: very hot weather."
+    },
+    {
+      "id": "story_004_quiz_02",
+      "question_th": "ผมอยากดื่มอะไร",
+      "question_en": "What do I want to drink?",
+      "hint_en": "อยากดื่ม means want to drink.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กาแฟ",
+          "en": "Coffee"
+        },
+        {
+          "id": "b",
+          "th": "น้ำ",
+          "en": "Water"
+        },
+        {
+          "id": "c",
+          "th": "ชา",
+          "en": "Tea"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_004_sentence_03",
+      "explanation_en": "ผมอยากดื่มน้ำ means I want to drink water."
+    },
+    {
+      "id": "story_004_quiz_03",
+      "question_th": "ผมอ่านหนังสือที่ไหน",
+      "question_en": "Where do I read a book?",
+      "hint_en": "ที่ไหน means where.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ที่ตลาด",
+          "en": "At the market"
+        },
+        {
+          "id": "b",
+          "th": "ที่โรงเรียน",
+          "en": "At school"
+        },
+        {
+          "id": "c",
+          "th": "ที่บ้าน",
+          "en": "At home"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_004_sentence_06",
+      "explanation_en": "The story says ผมอ่านหนังสือที่บ้าน."
+    },
+    {
+      "id": "story_004_quiz_04",
+      "question_th": "ตอนเย็นอากาศเป็นอย่างไร",
+      "question_en": "What is the weather like in the evening?",
+      "hint_en": "ตอนเย็น means in the evening.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ร้อนมาก",
+          "en": "Very hot"
+        },
+        {
+          "id": "b",
+          "th": "เย็น",
+          "en": "Cool"
+        },
+        {
+          "id": "c",
+          "th": "หนาวมาก",
+          "en": "Very cold"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_004_sentence_07",
+      "explanation_en": "ตอนเย็นอากาศเย็น says the evening weather is cool."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_004_writing_01",
+        "en": "The weather is very hot today.",
+        "zh-TW": "今天天氣非常熱。",
+        "suggested_answer_th": "วันนี้อากาศร้อนมาก"
+      },
+      {
+        "id": "story_004_writing_02",
+        "en": "I want to drink water.",
+        "zh-TW": "我想喝水。",
+        "suggested_answer_th": "ผมอยากดื่มน้ำ"
+      },
+      {
+        "id": "story_004_writing_03",
+        "en": "I rest at home.",
+        "zh-TW": "我在家休息。",
+        "suggested_answer_th": "ผมพักที่บ้าน"
+      }
+    ],
+    "personalization_en": "Write two true sentences using this lesson’s patterns. Adapt the example situation to your own life.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_004_speaking_01",
+        "instruction_en": "Read all eight sentences aloud slowly."
+      },
+      {
+        "id": "story_004_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_004_speaking_03",
+        "instruction_en": "Hide the story and say three sentences using this lesson’s vocabulary."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with a later attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story, then check translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Review the seven focus words and reading notes.",
+      "task_zh-TW": "複習七個重點詞和閱讀筆記。"
+    },
+    {
+      "day": 3,
+      "task_en": "Complete four comprehension questions and three writing prompts.",
+      "task_zh-TW": "完成四道理解題和三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀，並用自己的話重述故事。"
+    }
+  ]
+}

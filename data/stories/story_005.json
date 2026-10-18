@@ -1,0 +1,548 @@
+{
+  "schema_version": 1,
+  "id": "story_005",
+  "level": 1,
+  "topic": "shopping",
+  "title": {
+    "th": "ผมไปซื้อของ",
+    "en": "I Go Shopping",
+    "zh-TW": "我去買東西"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read eight short Thai sentences.",
+    "Practise shopping vocabulary.",
+    "Use three sentence patterns.",
+    "Answer four questions and write three sentences."
+  ],
+  "sentences": [
+    {
+      "id": "story_005_sentence_01",
+      "th": "วันนี้ผมไปตลาด",
+      "en": "Today I go to the market.",
+      "zh-TW": "今天我去市場。"
+    },
+    {
+      "id": "story_005_sentence_02",
+      "th": "ผมอยากซื้อน้ำและกล้วย",
+      "en": "I want to buy water and bananas.",
+      "zh-TW": "我想買水和香蕉。"
+    },
+    {
+      "id": "story_005_sentence_03",
+      "th": "น้ำหนึ่งขวดราคาสิบบาท",
+      "en": "One bottle of water costs ten baht.",
+      "zh-TW": "一瓶水十泰銖。"
+    },
+    {
+      "id": "story_005_sentence_04",
+      "th": "ผมซื้อน้ำสองขวด",
+      "en": "I buy two bottles of water.",
+      "zh-TW": "我買兩瓶水。"
+    },
+    {
+      "id": "story_005_sentence_05",
+      "th": "กล้วยหนึ่งถุงราคายี่สิบบาท",
+      "en": "One bag of bananas costs twenty baht.",
+      "zh-TW": "一袋香蕉二十泰銖。"
+    },
+    {
+      "id": "story_005_sentence_06",
+      "th": "ผมซื้อกล้วยหนึ่งถุง",
+      "en": "I buy one bag of bananas.",
+      "zh-TW": "我買一袋香蕉。"
+    },
+    {
+      "id": "story_005_sentence_07",
+      "th": "ผมจ่ายเงินสี่สิบบาท",
+      "en": "I pay forty baht.",
+      "zh-TW": "我付四十泰銖。"
+    },
+    {
+      "id": "story_005_sentence_08",
+      "th": "ผมกลับบ้าน",
+      "en": "I return home.",
+      "zh-TW": "我回家。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Prices are fictional learning examples, not current market prices. Two bottles at 10 baht plus one bag at 20 baht total 40 baht.",
+      "zh-TW": "價格為虛構的學習例子，不代表目前市價。兩瓶水各十泰銖，加一袋香蕉二十泰銖，共四十泰銖。"
+    },
+    {
+      "en": "Thai commonly counts things using noun + number + classifier.",
+      "zh-TW": "泰語常用「名詞＋數字＋量詞」計算物品。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_052",
+      "th": "ตลาด",
+      "en": "market",
+      "zh-TW": "市場",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_053",
+      "th": "ซื้อ",
+      "en": "buy",
+      "zh-TW": "買",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_054",
+      "th": "ขวด",
+      "en": "bottle; classifier for bottles",
+      "zh-TW": "瓶；瓶的量詞",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_055",
+      "th": "ราคา",
+      "en": "price; cost",
+      "zh-TW": "價格；售價",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_056",
+      "th": "ถุง",
+      "en": "bag; classifier for bags",
+      "zh-TW": "袋；袋的量詞",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_057",
+      "th": "จ่าย",
+      "en": "pay",
+      "zh-TW": "支付",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_058",
+      "th": "บาท",
+      "en": "baht (Thai currency unit)",
+      "zh-TW": "泰銖",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_059",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_043",
+      "th": "อยาก",
+      "en": "want to",
+      "zh-TW": "想要",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_060",
+      "th": "กล้วย",
+      "en": "banana",
+      "zh-TW": "香蕉",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_061",
+      "th": "หนึ่ง",
+      "en": "one",
+      "zh-TW": "一",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_062",
+      "th": "สอง",
+      "en": "two",
+      "zh-TW": "二",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_063",
+      "th": "สิบ",
+      "en": "ten",
+      "zh-TW": "十",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_064",
+      "th": "ยี่สิบ",
+      "en": "twenty",
+      "zh-TW": "二十",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_065",
+      "th": "สี่สิบ",
+      "en": "forty",
+      "zh-TW": "四十",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_066",
+      "th": "เงิน",
+      "en": "money",
+      "zh-TW": "錢",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_067",
+      "th": "กลับบ้าน",
+      "en": "return home",
+      "zh-TW": "回家",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_068",
+      "th": "ซื้อของ",
+      "en": "go shopping; buy things",
+      "zh-TW": "買東西",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven priority entries are marked for focused study. Supporting words and numbers can be reviewed gradually. Previously encountered refers to earlier lesson vocabulary, not mastery.",
+      "zh-TW": "七個重點詞供集中學習。其他輔助詞與數字可逐步複習。「曾接觸」不代表已熟練。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read the Thai story first, then practise these meaningful groups. Romanized school readings are not supplied in this draft. ก = k.",
+    "notes": [
+      {
+        "id": "story_005_reading_01",
+        "th": "น้ำสองขวด",
+        "school_reading": "",
+        "note_en": "Read this quantity group as two bottles of water."
+      },
+      {
+        "id": "story_005_reading_02",
+        "th": "กล้วยหนึ่งถุง",
+        "school_reading": "",
+        "note_en": "Read this quantity group as one bag of bananas."
+      },
+      {
+        "id": "story_005_reading_03",
+        "th": "สิบ / ยี่สิบ / สี่สิบ",
+        "school_reading": "",
+        "note_en": "Practise recognizing ten, twenty, and forty."
+      },
+      {
+        "id": "story_005_reading_04",
+        "th": "จ่ายเงิน",
+        "school_reading": "",
+        "note_en": "Recognize this group as pay money."
+      },
+      {
+        "id": "story_005_reading_05",
+        "th": "ซื้อของ",
+        "school_reading": "",
+        "note_en": "The title uses this common group for shopping or buying things."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_005_pattern_01",
+      "name_en": "Say what you buy",
+      "pattern_th": "ผม + ซื้อ + item",
+      "explanation_en": "Place the item after ซื้อ.",
+      "examples": [
+        {
+          "th": "ผมซื้อน้ำ",
+          "en": "I buy water.",
+          "zh-TW": "我買水。"
+        }
+      ]
+    },
+    {
+      "id": "story_005_pattern_02",
+      "name_en": "Count items",
+      "pattern_th": "item + number + classifier",
+      "explanation_en": "ขวด counts bottles; ถุง counts bags. Keep one whole phrase together.",
+      "examples": [
+        {
+          "th": "ผมซื้อน้ำสองขวด",
+          "en": "I buy two bottles of water.",
+          "zh-TW": "我買兩瓶水。"
+        }
+      ]
+    },
+    {
+      "id": "story_005_pattern_03",
+      "name_en": "State a price",
+      "pattern_th": "item + quantity + ราคา + amount + บาท",
+      "explanation_en": "ราคา introduces the price. These prices belong to the fictional story.",
+      "examples": [
+        {
+          "th": "กล้วยหนึ่งถุงราคายี่สิบบาท",
+          "en": "One bag of bananas costs twenty baht.",
+          "zh-TW": "一袋香蕉二十泰銖。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_005_quiz_01",
+      "question_th": "วันนี้ผมไปไหน",
+      "question_en": "Where do I go today?",
+      "hint_en": "ไปไหน means go where.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ไปตลาด",
+          "en": "Go to the market"
+        },
+        {
+          "id": "b",
+          "th": "ไปโรงเรียน",
+          "en": "Go to school"
+        },
+        {
+          "id": "c",
+          "th": "ไปทำงาน",
+          "en": "Go to work"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_005_sentence_01",
+      "explanation_en": "วันนี้ผมไปตลาด says I go to the market."
+    },
+    {
+      "id": "story_005_quiz_02",
+      "question_th": "ผมซื้อน้ำกี่ขวด",
+      "question_en": "How many bottles of water do I buy?",
+      "hint_en": "กี่ขวด means how many bottles.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "หนึ่งขวด",
+          "en": "One bottle"
+        },
+        {
+          "id": "b",
+          "th": "สองขวด",
+          "en": "Two bottles"
+        },
+        {
+          "id": "c",
+          "th": "สามขวด",
+          "en": "Three bottles"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_005_sentence_04",
+      "explanation_en": "ผมซื้อน้ำสองขวด says two bottles."
+    },
+    {
+      "id": "story_005_quiz_03",
+      "question_th": "กล้วยหนึ่งถุงราคาเท่าไร",
+      "question_en": "How much does one bag of bananas cost?",
+      "hint_en": "ราคาเท่าไร asks how much something costs.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สิบบาท",
+          "en": "Ten baht"
+        },
+        {
+          "id": "b",
+          "th": "สี่สิบบาท",
+          "en": "Forty baht"
+        },
+        {
+          "id": "c",
+          "th": "ยี่สิบบาท",
+          "en": "Twenty baht"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_005_sentence_05",
+      "explanation_en": "The story gives a price of ยี่สิบบาท: twenty baht."
+    },
+    {
+      "id": "story_005_quiz_04",
+      "question_th": "ผมจ่ายเงินกี่บาท",
+      "question_en": "How many baht do I pay?",
+      "hint_en": "กี่บาท asks how many baht.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ยี่สิบบาท",
+          "en": "Twenty baht"
+        },
+        {
+          "id": "b",
+          "th": "สี่สิบบาท",
+          "en": "Forty baht"
+        },
+        {
+          "id": "c",
+          "th": "สิบบาท",
+          "en": "Ten baht"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_005_sentence_07",
+      "explanation_en": "Two bottles at ten baht plus one bag at twenty baht: 2 × 10 + 20 = 40 baht."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_005_writing_01",
+        "en": "I go to the market.",
+        "zh-TW": "我去市場。",
+        "suggested_answer_th": "ผมไปตลาด"
+      },
+      {
+        "id": "story_005_writing_02",
+        "en": "I buy two bottles of water.",
+        "zh-TW": "我買兩瓶水。",
+        "suggested_answer_th": "ผมซื้อน้ำสองขวด"
+      },
+      {
+        "id": "story_005_writing_03",
+        "en": "I pay forty baht.",
+        "zh-TW": "我付四十泰銖。",
+        "suggested_answer_th": "ผมจ่ายเงินสี่สิบบาท"
+      }
+    ],
+    "personalization_en": "Write two true sentences using this lesson’s patterns. Adapt the example situation to your own life.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_005_speaking_01",
+        "instruction_en": "Read all eight sentences aloud slowly."
+      },
+      {
+        "id": "story_005_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_005_speaking_03",
+        "instruction_en": "Hide the story and say three sentences using this lesson’s vocabulary."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with a later attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story, then check translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Review the seven focus words and reading notes.",
+      "task_zh-TW": "複習七個重點詞和閱讀筆記。"
+    },
+    {
+      "day": 3,
+      "task_en": "Complete four comprehension questions and three writing prompts.",
+      "task_zh-TW": "完成四道理解題和三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀，並用自己的話重述故事。"
+    }
+  ]
+}

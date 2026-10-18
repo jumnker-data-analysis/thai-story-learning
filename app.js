@@ -6,7 +6,9 @@ const get = (id) => document.getElementById(id);
 const availableStories = [
   "story_001",
   "story_002",
-  "story_003"
+  "story_003",
+  "story_004",
+  "story_005"
 ];
 const params = new URLSearchParams(window.location.search);
 const requestedStory = params.get("story");
