@@ -1,0 +1,602 @@
+{
+  "schema_version": 1,
+  "id": "story_008",
+  "level": 2,
+  "topic": "restaurant_work",
+  "title": {
+    "th": "ผมทำงานที่ร้านอาหาร",
+    "en": "I Work at a Restaurant",
+    "zh-TW": "我在餐廳工作"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_008_sentence_01",
+      "th": "ผมทำงานที่ร้านอาหาร",
+      "en": "I work at a restaurant.",
+      "zh-TW": "我在餐廳工作。"
+    },
+    {
+      "id": "story_008_sentence_02",
+      "th": "ร้านเปิดตอนสิบเอ็ดโมง",
+      "en": "The restaurant opens at eleven in the morning.",
+      "zh-TW": "餐廳上午十一點營業。"
+    },
+    {
+      "id": "story_008_sentence_03",
+      "th": "ผมมาถึงร้านตอนสิบโมง",
+      "en": "I arrive at the restaurant at ten in the morning.",
+      "zh-TW": "我上午十點到餐廳。"
+    },
+    {
+      "id": "story_008_sentence_04",
+      "th": "ก่อนเปิดร้านผมเตรียมโต๊ะ",
+      "en": "Before opening the restaurant I prepare the tables.",
+      "zh-TW": "開店前我準備桌子。"
+    },
+    {
+      "id": "story_008_sentence_05",
+      "th": "เพื่อนร่วมงานเตรียมอาหาร",
+      "en": "My coworker prepares food.",
+      "zh-TW": "同事準備食物。"
+    },
+    {
+      "id": "story_008_sentence_06",
+      "th": "ผมนำแก้วน้ำไปวางบนโต๊ะ",
+      "en": "I take the drinking glasses and put them on the tables.",
+      "zh-TW": "我把水杯拿去放在桌上。"
+    },
+    {
+      "id": "story_008_sentence_07",
+      "th": "เราช่วยกันทำงาน",
+      "en": "We help each other with the work.",
+      "zh-TW": "我們互相幫忙工作。"
+    },
+    {
+      "id": "story_008_sentence_08",
+      "th": "ตอนเที่ยงลูกค้ามาที่ร้าน",
+      "en": "At noon customers come to the restaurant.",
+      "zh-TW": "中午客人來到餐廳。"
+    },
+    {
+      "id": "story_008_sentence_09",
+      "th": "ผมพูดสวัสดีครับ",
+      "en": "I say hello politely.",
+      "zh-TW": "我禮貌地說您好。"
+    },
+    {
+      "id": "story_008_sentence_10",
+      "th": "ผมชอบทำงานกับเพื่อนร่วมงาน",
+      "en": "I like working with my coworkers.",
+      "zh-TW": "我喜歡和同事一起工作。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is a fictional work routine, not a statement of your actual restaurant hours.",
+      "zh-TW": "這是虛構的工作流程，不代表你實際工作的餐廳營業時間。"
+    },
+    {
+      "en": "The morning times are ten and eleven; noon is เที่ยง. Thai time expressions will be expanded in later lessons.",
+      "zh-TW": "本課時間為上午十點、十一點和中午，後續課程再擴充時間表達。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_087",
+      "th": "เปิด",
+      "en": "open",
+      "zh-TW": "開；營業",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_088",
+      "th": "มาถึง",
+      "en": "arrive",
+      "zh-TW": "到達",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_089",
+      "th": "ก่อน",
+      "en": "before",
+      "zh-TW": "在……之前",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_090",
+      "th": "เตรียม",
+      "en": "prepare",
+      "zh-TW": "準備",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_091",
+      "th": "เพื่อนร่วมงาน",
+      "en": "coworker",
+      "zh-TW": "同事",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_092",
+      "th": "วาง",
+      "en": "put; place",
+      "zh-TW": "放置",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_093",
+      "th": "ช่วยกัน",
+      "en": "help one another; cooperate",
+      "zh-TW": "互相幫忙",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_094",
+      "th": "ร้านอาหาร",
+      "en": "restaurant",
+      "zh-TW": "餐廳",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_095",
+      "th": "ร้าน",
+      "en": "shop; restaurant in this story",
+      "zh-TW": "店；本故事指餐廳",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_096",
+      "th": "ตอน",
+      "en": "at; during (before a time)",
+      "zh-TW": "在……時",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_097",
+      "th": "สิบโมง",
+      "en": "ten in the morning",
+      "zh-TW": "上午十點",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_098",
+      "th": "สิบเอ็ดโมง",
+      "en": "eleven in the morning",
+      "zh-TW": "上午十一點",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_099",
+      "th": "นำ",
+      "en": "take; bring",
+      "zh-TW": "拿；帶",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_100",
+      "th": "แก้วน้ำ",
+      "en": "drinking glass",
+      "zh-TW": "水杯",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_101",
+      "th": "ตอนเที่ยง",
+      "en": "at noon",
+      "zh-TW": "中午",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_102",
+      "th": "ลูกค้า",
+      "en": "customer",
+      "zh-TW": "客人",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_103",
+      "th": "พูด",
+      "en": "speak; say",
+      "zh-TW": "說",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_104",
+      "th": "สวัสดีครับ",
+      "en": "hello (polite male form)",
+      "zh-TW": "您好（男性禮貌用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_105",
+      "th": "กับ",
+      "en": "with",
+      "zh-TW": "和；與",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_086",
+      "th": "ทำงาน",
+      "en": "work",
+      "zh-TW": "工作",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_030",
+      "th": "ที่",
+      "en": "at",
+      "zh-TW": "在",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_034",
+      "th": "โต๊ะ",
+      "en": "table",
+      "zh-TW": "桌子",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_106",
+      "th": "อาหาร",
+      "en": "food",
+      "zh-TW": "食物",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_037",
+      "th": "บน",
+      "en": "on",
+      "zh-TW": "在……上面",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_029",
+      "th": "เรา",
+      "en": "we",
+      "zh-TW": "我們",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_107",
+      "th": "มา",
+      "en": "come",
+      "zh-TW": "來",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_027",
+      "th": "ชอบ",
+      "en": "like",
+      "zh-TW": "喜歡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_008_reading_01",
+        "th": "ผมทำงานที่ร้านอาหาร",
+        "school_reading": "",
+        "note_en": "ที่ introduces the workplace."
+      },
+      {
+        "id": "story_008_reading_02",
+        "th": "ก่อนเปิดร้านผมเตรียมโต๊ะ",
+        "school_reading": "",
+        "note_en": "ก่อน sets the event that the action happens before."
+      },
+      {
+        "id": "story_008_reading_03",
+        "th": "เราช่วยกันทำงาน",
+        "school_reading": "",
+        "note_en": "ช่วยกัน describes people cooperating on an action."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_008_pattern_01",
+      "name_en": "Work at a place",
+      "pattern_th": "subject + ทำงานที่ + place",
+      "explanation_en": "ที่ introduces the workplace.",
+      "examples": [
+        {
+          "th": "ผมทำงานที่ร้านอาหาร",
+          "en": "I work at a restaurant.",
+          "zh-TW": "我在餐廳工作。"
+        }
+      ]
+    },
+    {
+      "id": "story_008_pattern_02",
+      "name_en": "Do something before an event",
+      "pattern_th": "ก่อน + event + subject + action",
+      "explanation_en": "ก่อน sets the event that the action happens before.",
+      "examples": [
+        {
+          "th": "ก่อนเปิดร้านผมเตรียมโต๊ะ",
+          "en": "Before opening the restaurant I prepare the tables.",
+          "zh-TW": "開店前我準備桌子。"
+        }
+      ]
+    },
+    {
+      "id": "story_008_pattern_03",
+      "name_en": "Cooperate",
+      "pattern_th": "subject + ช่วยกัน + action",
+      "explanation_en": "ช่วยกัน describes people cooperating on an action.",
+      "examples": [
+        {
+          "th": "เราช่วยกันทำงาน",
+          "en": "We help each other with the work.",
+          "zh-TW": "我們互相幫忙工作。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_008_quiz_01",
+      "question_th": "ผมทำงานที่ไหน",
+      "question_en": "Where do I work?",
+      "hint_en": "ที่ไหน means where.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ที่ร้านอาหาร",
+          "en": "At a restaurant"
+        },
+        {
+          "id": "b",
+          "th": "ที่โรงเรียน",
+          "en": "At a school"
+        },
+        {
+          "id": "c",
+          "th": "ที่บ้าน",
+          "en": "At home"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_008_sentence_01",
+      "explanation_en": "The story says: ผมทำงานที่ร้านอาหาร — I work at a restaurant."
+    },
+    {
+      "id": "story_008_quiz_02",
+      "question_th": "ร้านเปิดกี่โมง",
+      "question_en": "What time does the restaurant open?",
+      "hint_en": "กี่โมง asks what time.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สิบโมง",
+          "en": "Ten in the morning"
+        },
+        {
+          "id": "b",
+          "th": "สิบเอ็ดโมง",
+          "en": "Eleven in the morning"
+        },
+        {
+          "id": "c",
+          "th": "เที่ยง",
+          "en": "Noon"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_008_sentence_02",
+      "explanation_en": "The story says: ร้านเปิดตอนสิบเอ็ดโมง — The restaurant opens at eleven in the morning."
+    },
+    {
+      "id": "story_008_quiz_03",
+      "question_th": "ผมวางแก้วน้ำที่ไหน",
+      "question_en": "Where do I put the drinking glasses?",
+      "hint_en": "วาง means put or place.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "บนเก้าอี้",
+          "en": "On the chairs"
+        },
+        {
+          "id": "b",
+          "th": "ในถุง",
+          "en": "In a bag"
+        },
+        {
+          "id": "c",
+          "th": "บนโต๊ะ",
+          "en": "On the tables"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_008_sentence_06",
+      "explanation_en": "The story says: ผมนำแก้วน้ำไปวางบนโต๊ะ — I take the drinking glasses and put them on the tables."
+    },
+    {
+      "id": "story_008_quiz_04",
+      "question_th": "ใครเตรียมอาหาร",
+      "question_en": "Who prepares the food?",
+      "hint_en": "ใคร means who.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ลูกค้า",
+          "en": "The customers"
+        },
+        {
+          "id": "b",
+          "th": "เพื่อนร่วมงาน",
+          "en": "The coworker"
+        },
+        {
+          "id": "c",
+          "th": "แม่",
+          "en": "My mother"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_008_sentence_05",
+      "explanation_en": "The story says: เพื่อนร่วมงานเตรียมอาหาร — My coworker prepares food."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_008_writing_01",
+        "en": "I work at a restaurant.",
+        "zh-TW": "我在餐廳工作。",
+        "suggested_answer_th": "ผมทำงานที่ร้านอาหาร"
+      },
+      {
+        "id": "story_008_writing_02",
+        "en": "My coworker prepares food.",
+        "zh-TW": "同事準備食物。",
+        "suggested_answer_th": "เพื่อนร่วมงานเตรียมอาหาร"
+      },
+      {
+        "id": "story_008_writing_03",
+        "en": "We help each other with the work.",
+        "zh-TW": "我們互相幫忙工作。",
+        "suggested_answer_th": "เราช่วยกันทำงาน"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_008_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_008_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_008_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "schema_version": 1,
+  "id": "story_009",
+  "level": 2,
+  "topic": "taking_orders",
+  "title": {
+    "th": "ลูกค้าสั่งอาหาร",
+    "en": "A Customer Orders Food",
+    "zh-TW": "客人點餐"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_009_sentence_01",
+      "th": "ลูกค้าสองคนเข้ามาในร้าน",
+      "en": "Two customers come into the restaurant.",
+      "zh-TW": "兩位客人走進餐廳。"
+    },
+    {
+      "id": "story_009_sentence_02",
+      "th": "ผมพูดว่าเชิญนั่งครับ",
+      "en": "I say, Please have a seat.",
+      "zh-TW": "我說：「請坐。」"
+    },
+    {
+      "id": "story_009_sentence_03",
+      "th": "ลูกค้าคนหนึ่งอยากกินข้าวผัด",
+      "en": "One customer wants fried rice.",
+      "zh-TW": "一位客人想吃炒飯。"
+    },
+    {
+      "id": "story_009_sentence_04",
+      "th": "อีกคนอยากกินข้าวต้ม",
+      "en": "The other customer wants rice soup.",
+      "zh-TW": "另一位客人想吃稀飯。"
+    },
+    {
+      "id": "story_009_sentence_05",
+      "th": "ผมถามว่ารับน้ำอะไรครับ",
+      "en": "I ask, What would you like to drink?",
+      "zh-TW": "我問：「請問要喝什麼？」"
+    },
+    {
+      "id": "story_009_sentence_06",
+      "th": "ลูกค้าสั่งน้ำเปล่าสองแก้ว",
+      "en": "The customers order two glasses of plain water.",
+      "zh-TW": "客人點了兩杯白開水。"
+    },
+    {
+      "id": "story_009_sentence_07",
+      "th": "ผมจดรายการอาหาร",
+      "en": "I write down the food order.",
+      "zh-TW": "我記下點餐內容。"
+    },
+    {
+      "id": "story_009_sentence_08",
+      "th": "ผมทวนรายการให้ลูกค้าฟัง",
+      "en": "I repeat the order back to the customers.",
+      "zh-TW": "我向客人複述點餐內容。"
+    },
+    {
+      "id": "story_009_sentence_09",
+      "th": "ลูกค้าพูดว่าถูกต้องครับ",
+      "en": "A customer says, That is correct.",
+      "zh-TW": "一位客人說：「正確。」"
+    },
+    {
+      "id": "story_009_sentence_10",
+      "th": "ผมพูดว่าขอบคุณครับ",
+      "en": "I say, Thank you.",
+      "zh-TW": "我說：「謝謝。」"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This lesson includes short service phrases and reported speech. English glosses support the new phrases.",
+      "zh-TW": "本課加入簡短服務用語與引述話語，英文解釋可協助理解。"
+    },
+    {
+      "en": "ครับ is used by the male narrator. The quoted customer response also uses a male polite ending in this fictional scene.",
+      "zh-TW": "主角使用男性禮貌語尾；此虛構情境中的客人回應也使用男性語尾。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_108",
+      "th": "สั่ง",
+      "en": "order",
+      "zh-TW": "點餐；訂購",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_109",
+      "th": "ข้าวผัด",
+      "en": "fried rice",
+      "zh-TW": "炒飯",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_110",
+      "th": "อีก",
+      "en": "other; another",
+      "zh-TW": "另外；另一個",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_111",
+      "th": "น้ำเปล่า",
+      "en": "plain drinking water",
+      "zh-TW": "白開水",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_112",
+      "th": "จด",
+      "en": "write down; take notes",
+      "zh-TW": "記下",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_113",
+      "th": "รายการ",
+      "en": "list; order items (here)",
+      "zh-TW": "清單；此處指點餐項目",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_114",
+      "th": "ทวน",
+      "en": "repeat; go over again",
+      "zh-TW": "複述；重複核對",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_102",
+      "th": "ลูกค้า",
+      "en": "customer",
+      "zh-TW": "客人",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_062",
+      "th": "สอง",
+      "en": "two",
+      "zh-TW": "二",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_023",
+      "th": "คน",
+      "en": "person; classifier for people",
+      "zh-TW": "人；人的量詞",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_115",
+      "th": "เข้ามา",
+      "en": "come in",
+      "zh-TW": "進來",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_033",
+      "th": "ใน",
+      "en": "in",
+      "zh-TW": "在……裡面",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_095",
+      "th": "ร้าน",
+      "en": "shop; restaurant here",
+      "zh-TW": "店；本故事指餐廳",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_116",
+      "th": "พูดว่า",
+      "en": "say that; say (introducing speech)",
+      "zh-TW": "說（引出話語）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_117",
+      "th": "เชิญนั่งครับ",
+      "en": "please have a seat (polite male form)",
+      "zh-TW": "請坐（男性禮貌用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_061",
+      "th": "หนึ่ง",
+      "en": "one",
+      "zh-TW": "一",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_043",
+      "th": "อยาก",
+      "en": "want to",
+      "zh-TW": "想要",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_011",
+      "th": "กิน",
+      "en": "eat",
+      "zh-TW": "吃",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_077",
+      "th": "ข้าวต้ม",
+      "en": "rice soup",
+      "zh-TW": "稀飯",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_118",
+      "th": "ถามว่า",
+      "en": "ask (introducing a question)",
+      "zh-TW": "問（引出問題）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_119",
+      "th": "รับ",
+      "en": "take; receive; have (polite service use)",
+      "zh-TW": "收取；接受；餐飲禮貌用語",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_120",
+      "th": "อะไร",
+      "en": "what",
+      "zh-TW": "什麼",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_121",
+      "th": "แก้ว",
+      "en": "glass; classifier for drinks in glasses",
+      "zh-TW": "杯；飲品量詞",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_106",
+      "th": "อาหาร",
+      "en": "food",
+      "zh-TW": "食物",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_122",
+      "th": "ให้ลูกค้าฟัง",
+      "en": "for the customers to hear",
+      "zh-TW": "讓客人聽",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_123",
+      "th": "ถูกต้อง",
+      "en": "correct",
+      "zh-TW": "正確",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_124",
+      "th": "ขอบคุณครับ",
+      "en": "thank you (polite male form)",
+      "zh-TW": "謝謝（男性禮貌用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_009_reading_01",
+        "th": "ผมพูดว่าเชิญนั่งครับ",
+        "school_reading": "",
+        "note_en": "พูดว่า introduces spoken words."
+      },
+      {
+        "id": "story_009_reading_02",
+        "th": "ลูกค้าสั่งน้ำเปล่าสองแก้ว",
+        "school_reading": "",
+        "note_en": "Place the number before the classifier แก้ว."
+      },
+      {
+        "id": "story_009_reading_03",
+        "th": "ผมทวนรายการให้ลูกค้าฟัง",
+        "school_reading": "",
+        "note_en": "The final phrase means for the customers to hear."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_009_pattern_01",
+      "name_en": "Report what someone says",
+      "pattern_th": "subject + พูดว่า + speech",
+      "explanation_en": "พูดว่า introduces spoken words.",
+      "examples": [
+        {
+          "th": "ผมพูดว่าเชิญนั่งครับ",
+          "en": "I say, Please have a seat.",
+          "zh-TW": "我說：「請坐。」"
+        }
+      ]
+    },
+    {
+      "id": "story_009_pattern_02",
+      "name_en": "Order drinks with a quantity",
+      "pattern_th": "subject + สั่ง + drink + number + แก้ว",
+      "explanation_en": "Place the number before the classifier แก้ว.",
+      "examples": [
+        {
+          "th": "ลูกค้าสั่งน้ำเปล่าสองแก้ว",
+          "en": "The customers order two glasses of plain water.",
+          "zh-TW": "客人點了兩杯白開水。"
+        }
+      ]
+    },
+    {
+      "id": "story_009_pattern_03",
+      "name_en": "Repeat an order back",
+      "pattern_th": "ผม + ทวนรายการ + ให้ลูกค้าฟัง",
+      "explanation_en": "The final phrase means for the customers to hear.",
+      "examples": [
+        {
+          "th": "ผมทวนรายการให้ลูกค้าฟัง",
+          "en": "I repeat the order back to the customers.",
+          "zh-TW": "我向客人複述點餐內容。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_009_quiz_01",
+      "question_th": "ลูกค้าเข้ามากี่คน",
+      "question_en": "How many customers come in?",
+      "hint_en": "กี่คน asks how many people.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สองคน",
+          "en": "Two people"
+        },
+        {
+          "id": "b",
+          "th": "สามคน",
+          "en": "Three people"
+        },
+        {
+          "id": "c",
+          "th": "หนึ่งคน",
+          "en": "One person"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_009_sentence_01",
+      "explanation_en": "The story says: ลูกค้าสองคนเข้ามาในร้าน — Two customers come into the restaurant."
+    },
+    {
+      "id": "story_009_quiz_02",
+      "question_th": "ลูกค้าคนหนึ่งอยากกินอะไร",
+      "question_en": "What does one customer want to eat?",
+      "hint_en": "คนหนึ่ง means one person.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กล้วย",
+          "en": "Bananas"
+        },
+        {
+          "id": "b",
+          "th": "ข้าวผัด",
+          "en": "Fried rice"
+        },
+        {
+          "id": "c",
+          "th": "ไข่ต้ม",
+          "en": "A boiled egg"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_009_sentence_03",
+      "explanation_en": "The story says: ลูกค้าคนหนึ่งอยากกินข้าวผัด — One customer wants fried rice."
+    },
+    {
+      "id": "story_009_quiz_03",
+      "question_th": "ลูกค้าสั่งน้ำอะไร",
+      "question_en": "What water do the customers order?",
+      "hint_en": "น้ำอะไร asks what water or drink.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กาแฟ",
+          "en": "Coffee"
+        },
+        {
+          "id": "b",
+          "th": "ชา",
+          "en": "Tea"
+        },
+        {
+          "id": "c",
+          "th": "น้ำเปล่า",
+          "en": "Plain water"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_009_sentence_06",
+      "explanation_en": "The story says: ลูกค้าสั่งน้ำเปล่าสองแก้ว — The customers order two glasses of plain water."
+    },
+    {
+      "id": "story_009_quiz_04",
+      "question_th": "ผมทวนรายการให้ใครฟัง",
+      "question_en": "Who do I repeat the order to?",
+      "hint_en": "ให้ใครฟัง asks who listens to it.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "แม่",
+          "en": "My mother"
+        },
+        {
+          "id": "b",
+          "th": "ลูกค้า",
+          "en": "The customers"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อนร่วมงาน",
+          "en": "The coworker"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_009_sentence_08",
+      "explanation_en": "The story says: ผมทวนรายการให้ลูกค้าฟัง — I repeat the order back to the customers."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_009_writing_01",
+        "en": "One customer wants fried rice.",
+        "zh-TW": "一位客人想吃炒飯。",
+        "suggested_answer_th": "ลูกค้าคนหนึ่งอยากกินข้าวผัด"
+      },
+      {
+        "id": "story_009_writing_02",
+        "en": "The customers order two glasses of plain water.",
+        "zh-TW": "客人點了兩杯白開水。",
+        "suggested_answer_th": "ลูกค้าสั่งน้ำเปล่าสองแก้ว"
+      },
+      {
+        "id": "story_009_writing_03",
+        "en": "I write down the food order.",
+        "zh-TW": "我記下點餐內容。",
+        "suggested_answer_th": "ผมจดรายการอาหาร"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_009_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_009_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_009_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

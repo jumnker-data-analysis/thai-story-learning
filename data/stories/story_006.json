@@ -1,0 +1,500 @@
+{
+  "schema_version": 1,
+  "id": "story_006",
+  "level": 2,
+  "topic": "drinks_and_preferences",
+  "title": {
+    "th": "ผมชอบกาแฟ",
+    "en": "I Like Coffee",
+    "zh-TW": "我喜歡咖啡"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 8 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_006_sentence_01",
+      "th": "ผมชอบกาแฟ",
+      "en": "I like coffee.",
+      "zh-TW": "我喜歡咖啡。"
+    },
+    {
+      "id": "story_006_sentence_02",
+      "th": "ตอนเช้าผมดื่มกาแฟร้อน",
+      "en": "In the morning I drink hot coffee.",
+      "zh-TW": "早上我喝熱咖啡。"
+    },
+    {
+      "id": "story_006_sentence_03",
+      "th": "ผมใส่นมในกาแฟ",
+      "en": "I add milk to my coffee.",
+      "zh-TW": "我在咖啡裡加牛奶。"
+    },
+    {
+      "id": "story_006_sentence_04",
+      "th": "ผมไม่ใส่น้ำตาล",
+      "en": "I do not add sugar.",
+      "zh-TW": "我不加糖。"
+    },
+    {
+      "id": "story_006_sentence_05",
+      "th": "แม่ชอบชา",
+      "en": "My mother likes tea.",
+      "zh-TW": "媽媽喜歡茶。"
+    },
+    {
+      "id": "story_006_sentence_06",
+      "th": "แม่ดื่มชาร้อน",
+      "en": "My mother drinks hot tea.",
+      "zh-TW": "媽媽喝熱茶。"
+    },
+    {
+      "id": "story_006_sentence_07",
+      "th": "เรานั่งดื่มด้วยกัน",
+      "en": "We sit and drink together.",
+      "zh-TW": "我們坐著一起喝飲品。"
+    },
+    {
+      "id": "story_006_sentence_08",
+      "th": "ผมมีความสุข",
+      "en": "I am happy.",
+      "zh-TW": "我很開心。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Drink preferences in this story are fictional. Adapt them to your own tastes.",
+      "zh-TW": "故事中的飲品喜好是虛構的，可依自己的喜好改寫。"
+    },
+    {
+      "en": "มีความสุข is a common expression meaning be happy.",
+      "zh-TW": "表示「有快樂」的詞組常用來表達開心。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_069",
+      "th": "ตอนเช้า",
+      "en": "in the morning",
+      "zh-TW": "早上",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_070",
+      "th": "ใส่",
+      "en": "put in; add",
+      "zh-TW": "放入；加入",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_071",
+      "th": "นม",
+      "en": "milk",
+      "zh-TW": "牛奶",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_072",
+      "th": "น้ำตาล",
+      "en": "sugar",
+      "zh-TW": "糖",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_073",
+      "th": "นั่ง",
+      "en": "sit",
+      "zh-TW": "坐",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_074",
+      "th": "ด้วยกัน",
+      "en": "together",
+      "zh-TW": "一起",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_075",
+      "th": "ความสุข",
+      "en": "happiness",
+      "zh-TW": "快樂；幸福",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_027",
+      "th": "ชอบ",
+      "en": "like",
+      "zh-TW": "喜歡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_028",
+      "th": "กาแฟ",
+      "en": "coffee",
+      "zh-TW": "咖啡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_010",
+      "th": "ดื่ม",
+      "en": "drink",
+      "zh-TW": "喝",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_047",
+      "th": "ร้อน",
+      "en": "hot",
+      "zh-TW": "熱",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_033",
+      "th": "ใน",
+      "en": "in; inside",
+      "zh-TW": "在……裡面",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_049",
+      "th": "ไม่",
+      "en": "not",
+      "zh-TW": "不",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_025",
+      "th": "แม่",
+      "en": "mother",
+      "zh-TW": "媽媽",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_076",
+      "th": "ชา",
+      "en": "tea",
+      "zh-TW": "茶",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_029",
+      "th": "เรา",
+      "en": "we",
+      "zh-TW": "我們",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "have",
+      "zh-TW": "有",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_006_reading_01",
+        "th": "ผมชอบกาแฟ",
+        "school_reading": "",
+        "note_en": "Use ชอบ to say what someone likes."
+      },
+      {
+        "id": "story_006_reading_02",
+        "th": "ผมใส่นมในกาแฟ",
+        "school_reading": "",
+        "note_en": "ใส่ means add or put in; ใน introduces what it goes into."
+      },
+      {
+        "id": "story_006_reading_03",
+        "th": "ผมไม่ใส่น้ำตาล",
+        "school_reading": "",
+        "note_en": "ไม่ before the verb makes the action negative."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_006_pattern_01",
+      "name_en": "Express a preference",
+      "pattern_th": "subject + ชอบ + thing",
+      "explanation_en": "Use ชอบ to say what someone likes.",
+      "examples": [
+        {
+          "th": "ผมชอบกาแฟ",
+          "en": "I like coffee.",
+          "zh-TW": "我喜歡咖啡。"
+        }
+      ]
+    },
+    {
+      "id": "story_006_pattern_02",
+      "name_en": "Add something",
+      "pattern_th": "subject + ใส่ + ingredient + ใน + drink",
+      "explanation_en": "ใส่ means add or put in; ใน introduces what it goes into.",
+      "examples": [
+        {
+          "th": "ผมใส่นมในกาแฟ",
+          "en": "I add milk to my coffee.",
+          "zh-TW": "我在咖啡裡加牛奶。"
+        }
+      ]
+    },
+    {
+      "id": "story_006_pattern_03",
+      "name_en": "Say what you do not add",
+      "pattern_th": "subject + ไม่ + ใส่ + ingredient",
+      "explanation_en": "ไม่ before the verb makes the action negative.",
+      "examples": [
+        {
+          "th": "ผมไม่ใส่น้ำตาล",
+          "en": "I do not add sugar.",
+          "zh-TW": "我不加糖。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_006_quiz_01",
+      "question_th": "ผมดื่มกาแฟเมื่อไร",
+      "question_en": "When do I drink coffee?",
+      "hint_en": "เมื่อไร means when.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ตอนเช้า",
+          "en": "In the morning"
+        },
+        {
+          "id": "b",
+          "th": "ตอนเย็น",
+          "en": "In the evening"
+        },
+        {
+          "id": "c",
+          "th": "ตอนกลางคืน",
+          "en": "At night"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_006_sentence_02",
+      "explanation_en": "The story says: ตอนเช้าผมดื่มกาแฟร้อน — In the morning I drink hot coffee."
+    },
+    {
+      "id": "story_006_quiz_02",
+      "question_th": "ผมใส่อะไรในกาแฟ",
+      "question_en": "What do I add to coffee?",
+      "hint_en": "ใส่ means add.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "น้ำตาล",
+          "en": "Sugar"
+        },
+        {
+          "id": "b",
+          "th": "นม",
+          "en": "Milk"
+        },
+        {
+          "id": "c",
+          "th": "ชา",
+          "en": "Tea"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_006_sentence_03",
+      "explanation_en": "The story says: ผมใส่นมในกาแฟ — I add milk to my coffee."
+    },
+    {
+      "id": "story_006_quiz_03",
+      "question_th": "แม่ชอบอะไร",
+      "question_en": "What does my mother like?",
+      "hint_en": "ชอบ means like.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กาแฟ",
+          "en": "Coffee"
+        },
+        {
+          "id": "b",
+          "th": "นม",
+          "en": "Milk"
+        },
+        {
+          "id": "c",
+          "th": "ชา",
+          "en": "Tea"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_006_sentence_05",
+      "explanation_en": "The story says: แม่ชอบชา — My mother likes tea."
+    },
+    {
+      "id": "story_006_quiz_04",
+      "question_th": "ผมใส่น้ำตาลหรือไม่",
+      "question_en": "Do I add sugar?",
+      "hint_en": "หรือไม่ turns this into a yes/no question.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ใส่",
+          "en": "Yes, I add it"
+        },
+        {
+          "id": "b",
+          "th": "ไม่ใส่",
+          "en": "No, I do not"
+        },
+        {
+          "id": "c",
+          "th": "ไม่ทราบ",
+          "en": "Not known"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_006_sentence_04",
+      "explanation_en": "The story says: ผมไม่ใส่น้ำตาล — I do not add sugar."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_006_writing_01",
+        "en": "I like coffee.",
+        "zh-TW": "我喜歡咖啡。",
+        "suggested_answer_th": "ผมชอบกาแฟ"
+      },
+      {
+        "id": "story_006_writing_02",
+        "en": "I add milk to my coffee.",
+        "zh-TW": "我在咖啡裡加牛奶。",
+        "suggested_answer_th": "ผมใส่นมในกาแฟ"
+      },
+      {
+        "id": "story_006_writing_03",
+        "en": "I do not add sugar.",
+        "zh-TW": "我不加糖。",
+        "suggested_answer_th": "ผมไม่ใส่น้ำตาล"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_006_speaking_01",
+        "instruction_en": "Read the 8 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_006_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_006_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

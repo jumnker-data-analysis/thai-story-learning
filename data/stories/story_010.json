@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "id": "story_010",
+  "level": 2,
+  "topic": "busy_restaurant",
+  "title": {
+    "th": "วันนี้ร้านยุ่งมาก",
+    "en": "The Restaurant Is Very Busy",
+    "zh-TW": "今天餐廳很忙"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_010_sentence_01",
+      "th": "วันนี้ร้านยุ่งมาก",
+      "en": "The restaurant is very busy today.",
+      "zh-TW": "今天餐廳非常忙。"
+    },
+    {
+      "id": "story_010_sentence_02",
+      "th": "ตอนเที่ยงมีลูกค้าหลายคน",
+      "en": "At noon there are many customers.",
+      "zh-TW": "中午有很多客人。"
+    },
+    {
+      "id": "story_010_sentence_03",
+      "th": "ลูกค้าบางคนรอโต๊ะ",
+      "en": "Some customers wait for a table.",
+      "zh-TW": "有些客人在等桌位。"
+    },
+    {
+      "id": "story_010_sentence_04",
+      "th": "ผมเดินไปมาระหว่างโต๊ะ",
+      "en": "I walk back and forth between the tables.",
+      "zh-TW": "我在桌子之間來回走動。"
+    },
+    {
+      "id": "story_010_sentence_05",
+      "th": "ผมนำอาหารไปให้ลูกค้า",
+      "en": "I take food to the customers.",
+      "zh-TW": "我把食物送給客人。"
+    },
+    {
+      "id": "story_010_sentence_06",
+      "th": "เพื่อนร่วมงานช่วยเก็บจาน",
+      "en": "My coworker helps clear the plates.",
+      "zh-TW": "同事幫忙收盤子。"
+    },
+    {
+      "id": "story_010_sentence_07",
+      "th": "เราทำงานเร็วแต่ระวัง",
+      "en": "We work quickly but carefully.",
+      "zh-TW": "我們動作很快，但仍小心。"
+    },
+    {
+      "id": "story_010_sentence_08",
+      "th": "ผมเหนื่อยและหิวน้ำ",
+      "en": "I am tired and thirsty.",
+      "zh-TW": "我很累，也很渴。"
+    },
+    {
+      "id": "story_010_sentence_09",
+      "th": "ตอนบ่ายลูกค้าน้อยลง",
+      "en": "In the afternoon there are fewer customers.",
+      "zh-TW": "下午客人變少了。"
+    },
+    {
+      "id": "story_010_sentence_10",
+      "th": "ผมได้นั่งพักและดื่มน้ำ",
+      "en": "I get to sit down, rest, and drink water.",
+      "zh-TW": "我終於能坐下休息並喝水。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is a fictional shift. The story moves from a busy noon to a quieter afternoon.",
+      "zh-TW": "這是虛構的班次，故事從忙碌的中午進展到較清閒的下午。"
+    },
+    {
+      "en": "ได้ before an action can mean get to do it. Here it describes having an opportunity to rest.",
+      "zh-TW": "放在動作前的詞在此表示有機會做某事，也就是能休息了。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_125",
+      "th": "หลาย",
+      "en": "many; several",
+      "zh-TW": "很多；好幾個",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_126",
+      "th": "รอ",
+      "en": "wait",
+      "zh-TW": "等待",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_127",
+      "th": "ระหว่าง",
+      "en": "between; during",
+      "zh-TW": "在……之間；期間",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_128",
+      "th": "เก็บ",
+      "en": "collect; clear away",
+      "zh-TW": "收拾",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_129",
+      "th": "ระวัง",
+      "en": "be careful",
+      "zh-TW": "小心",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_130",
+      "th": "เหนื่อย",
+      "en": "tired",
+      "zh-TW": "累",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_131",
+      "th": "น้อยลง",
+      "en": "fewer; less than before",
+      "zh-TW": "變少",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_095",
+      "th": "ร้าน",
+      "en": "shop; restaurant here",
+      "zh-TW": "店；本故事指餐廳",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_132",
+      "th": "ยุ่ง",
+      "en": "busy",
+      "zh-TW": "忙碌",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_048",
+      "th": "มาก",
+      "en": "very",
+      "zh-TW": "非常",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_101",
+      "th": "ตอนเที่ยง",
+      "en": "at noon",
+      "zh-TW": "中午",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "there are; have",
+      "zh-TW": "有",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_102",
+      "th": "ลูกค้า",
+      "en": "customer",
+      "zh-TW": "客人",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_023",
+      "th": "คน",
+      "en": "person; classifier for people",
+      "zh-TW": "人；人的量詞",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_133",
+      "th": "บางคน",
+      "en": "some people",
+      "zh-TW": "有些人",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_034",
+      "th": "โต๊ะ",
+      "en": "table",
+      "zh-TW": "桌子",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_134",
+      "th": "เดินไปมา",
+      "en": "walk back and forth",
+      "zh-TW": "來回走動",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_099",
+      "th": "นำ",
+      "en": "take; bring",
+      "zh-TW": "拿；帶",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_106",
+      "th": "อาหาร",
+      "en": "food",
+      "zh-TW": "食物",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_135",
+      "th": "ไปให้",
+      "en": "take to; give to",
+      "zh-TW": "送給；拿去給",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_091",
+      "th": "เพื่อนร่วมงาน",
+      "en": "coworker",
+      "zh-TW": "同事",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_136",
+      "th": "ช่วย",
+      "en": "help",
+      "zh-TW": "幫忙",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_137",
+      "th": "จาน",
+      "en": "plate; dish",
+      "zh-TW": "盤子",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_029",
+      "th": "เรา",
+      "en": "we",
+      "zh-TW": "我們",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_086",
+      "th": "ทำงาน",
+      "en": "work",
+      "zh-TW": "工作",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_138",
+      "th": "เร็ว",
+      "en": "quickly; fast",
+      "zh-TW": "快",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_139",
+      "th": "แต่",
+      "en": "but",
+      "zh-TW": "但是",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_140",
+      "th": "หิวน้ำ",
+      "en": "thirsty",
+      "zh-TW": "口渴",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_141",
+      "th": "ตอนบ่าย",
+      "en": "in the afternoon",
+      "zh-TW": "下午",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_142",
+      "th": "ได้",
+      "en": "get to; have the chance to (here)",
+      "zh-TW": "此處表示能夠；有機會",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_143",
+      "th": "นั่งพัก",
+      "en": "sit and rest",
+      "zh-TW": "坐下休息",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_010",
+      "th": "ดื่ม",
+      "en": "drink",
+      "zh-TW": "喝",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_010_reading_01",
+        "th": "ตอนเที่ยงมีลูกค้าหลายคน",
+        "school_reading": "",
+        "note_en": "หลายคน describes several or many people."
+      },
+      {
+        "id": "story_010_reading_02",
+        "th": "เราทำงานเร็วแต่ระวัง",
+        "school_reading": "",
+        "note_en": "แต่ means but. Work quickly while still being careful."
+      },
+      {
+        "id": "story_010_reading_03",
+        "th": "ตอนบ่ายลูกค้าน้อยลง",
+        "school_reading": "",
+        "note_en": "น้อยลง means less or fewer than before."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_010_pattern_01",
+      "name_en": "Describe how many people",
+      "pattern_th": "มี + ลูกค้า + หลายคน",
+      "explanation_en": "หลายคน describes several or many people.",
+      "examples": [
+        {
+          "th": "ตอนเที่ยงมีลูกค้าหลายคน",
+          "en": "At noon there are many customers.",
+          "zh-TW": "中午有很多客人。"
+        }
+      ]
+    },
+    {
+      "id": "story_010_pattern_02",
+      "name_en": "Connect contrasting ideas",
+      "pattern_th": "action + แต่ + contrasting description",
+      "explanation_en": "แต่ means but. Work quickly while still being careful.",
+      "examples": [
+        {
+          "th": "เราทำงานเร็วแต่ระวัง",
+          "en": "We work quickly but carefully.",
+          "zh-TW": "我們動作很快，但仍小心。"
+        }
+      ]
+    },
+    {
+      "id": "story_010_pattern_03",
+      "name_en": "Describe a decrease",
+      "pattern_th": "subject + น้อยลง",
+      "explanation_en": "น้อยลง means less or fewer than before.",
+      "examples": [
+        {
+          "th": "ตอนบ่ายลูกค้าน้อยลง",
+          "en": "In the afternoon there are fewer customers.",
+          "zh-TW": "下午客人變少了。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_010_quiz_01",
+      "question_th": "ตอนเที่ยงมีลูกค้าหลายคนหรือไม่",
+      "question_en": "Are there many customers at noon?",
+      "hint_en": "หรือไม่ forms a yes/no question.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "มีหลายคน",
+          "en": "Yes, many"
+        },
+        {
+          "id": "b",
+          "th": "ไม่มีลูกค้า",
+          "en": "No customers"
+        },
+        {
+          "id": "c",
+          "th": "มีคนเดียว",
+          "en": "Only one"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_010_sentence_02",
+      "explanation_en": "The story says: ตอนเที่ยงมีลูกค้าหลายคน — At noon there are many customers."
+    },
+    {
+      "id": "story_010_quiz_02",
+      "question_th": "ลูกค้าบางคนรออะไร",
+      "question_en": "What do some customers wait for?",
+      "hint_en": "รอ means wait for.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กาแฟ",
+          "en": "Coffee"
+        },
+        {
+          "id": "b",
+          "th": "โต๊ะ",
+          "en": "A table"
+        },
+        {
+          "id": "c",
+          "th": "รถไฟ",
+          "en": "A train"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_010_sentence_03",
+      "explanation_en": "The story says: ลูกค้าบางคนรอโต๊ะ — Some customers wait for a table."
+    },
+    {
+      "id": "story_010_quiz_03",
+      "question_th": "ใครช่วยเก็บจาน",
+      "question_en": "Who helps clear the plates?",
+      "hint_en": "ใคร means who.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ลูกค้า",
+          "en": "The customers"
+        },
+        {
+          "id": "b",
+          "th": "แม่",
+          "en": "My mother"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อนร่วมงาน",
+          "en": "The coworker"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_010_sentence_06",
+      "explanation_en": "The story says: เพื่อนร่วมงานช่วยเก็บจาน — My coworker helps clear the plates."
+    },
+    {
+      "id": "story_010_quiz_04",
+      "question_th": "ตอนบ่ายลูกค้าเป็นอย่างไร",
+      "question_en": "What happens to customer numbers in the afternoon?",
+      "hint_en": "น้อยลง means fewer than before.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "มากขึ้น",
+          "en": "More customers"
+        },
+        {
+          "id": "b",
+          "th": "น้อยลง",
+          "en": "Fewer customers"
+        },
+        {
+          "id": "c",
+          "th": "เท่าเดิม",
+          "en": "The same number"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_010_sentence_09",
+      "explanation_en": "The story says: ตอนบ่ายลูกค้าน้อยลง — In the afternoon there are fewer customers."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_010_writing_01",
+        "en": "The restaurant is very busy today.",
+        "zh-TW": "今天餐廳非常忙。",
+        "suggested_answer_th": "วันนี้ร้านยุ่งมาก"
+      },
+      {
+        "id": "story_010_writing_02",
+        "en": "Some customers wait for a table.",
+        "zh-TW": "有些客人在等桌位。",
+        "suggested_answer_th": "ลูกค้าบางคนรอโต๊ะ"
+      },
+      {
+        "id": "story_010_writing_03",
+        "en": "I am tired and thirsty.",
+        "zh-TW": "我很累，也很渴。",
+        "suggested_answer_th": "ผมเหนื่อยและหิวน้ำ"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_010_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_010_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_010_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

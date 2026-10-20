@@ -1,0 +1,554 @@
+{
+  "schema_version": 1,
+  "id": "story_007",
+  "level": 2,
+  "topic": "breakfast",
+  "title": {
+    "th": "อาหารเช้าของผม",
+    "en": "My Breakfast",
+    "zh-TW": "我的早餐"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 8 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_007_sentence_01",
+      "th": "ผมกินอาหารเช้าที่บ้าน",
+      "en": "I eat breakfast at home.",
+      "zh-TW": "我在家吃早餐。"
+    },
+    {
+      "id": "story_007_sentence_02",
+      "th": "วันนี้ผมกินข้าวต้ม",
+      "en": "Today I eat rice soup.",
+      "zh-TW": "今天我吃稀飯。"
+    },
+    {
+      "id": "story_007_sentence_03",
+      "th": "ในข้าวต้มมีไก่",
+      "en": "There is chicken in the rice soup.",
+      "zh-TW": "稀飯裡有雞肉。"
+    },
+    {
+      "id": "story_007_sentence_04",
+      "th": "ข้าวต้มร้อนมาก",
+      "en": "The rice soup is very hot.",
+      "zh-TW": "稀飯非常燙。"
+    },
+    {
+      "id": "story_007_sentence_05",
+      "th": "ผมใช้ช้อนกินข้าวต้ม",
+      "en": "I use a spoon to eat rice soup.",
+      "zh-TW": "我用湯匙吃稀飯。"
+    },
+    {
+      "id": "story_007_sentence_06",
+      "th": "แม่กินไข่ต้มหนึ่งฟอง",
+      "en": "My mother eats one boiled egg.",
+      "zh-TW": "媽媽吃一顆水煮蛋。"
+    },
+    {
+      "id": "story_007_sentence_07",
+      "th": "หลังอาหารเช้าผมดื่มน้ำ",
+      "en": "After breakfast I drink water.",
+      "zh-TW": "早餐後我喝水。"
+    },
+    {
+      "id": "story_007_sentence_08",
+      "th": "แล้วผมไปทำงาน",
+      "en": "Then I go to work.",
+      "zh-TW": "然後我去上班。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "ข้าวต้ม is rice soup, with grains in broth. Do not assume it is the same dish as every type of congee.",
+      "zh-TW": "本課的米湯料理是米粒在湯中的稀飯，不一定等同所有種類的粥。"
+    },
+    {
+      "en": "Thai classifiers follow the number: ไข่ต้มหนึ่งฟอง.",
+      "zh-TW": "泰語量詞放在數字後面，例如一顆水煮蛋。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_077",
+      "th": "ข้าวต้ม",
+      "en": "rice soup",
+      "zh-TW": "稀飯",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_078",
+      "th": "ใช้",
+      "en": "use",
+      "zh-TW": "使用",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_079",
+      "th": "ช้อน",
+      "en": "spoon",
+      "zh-TW": "湯匙",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_080",
+      "th": "ไข่ต้ม",
+      "en": "boiled egg",
+      "zh-TW": "水煮蛋",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_081",
+      "th": "ฟอง",
+      "en": "classifier for eggs",
+      "zh-TW": "顆（蛋的量詞）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_082",
+      "th": "หลัง",
+      "en": "after (in this lesson)",
+      "zh-TW": "在……之後",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_083",
+      "th": "แล้ว",
+      "en": "then; after that",
+      "zh-TW": "然後",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_084",
+      "th": "อาหารเช้า",
+      "en": "breakfast",
+      "zh-TW": "早餐",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_011",
+      "th": "กิน",
+      "en": "eat",
+      "zh-TW": "吃",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_030",
+      "th": "ที่",
+      "en": "at",
+      "zh-TW": "在",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home",
+      "zh-TW": "家",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_033",
+      "th": "ใน",
+      "en": "in",
+      "zh-TW": "在……裡面",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "there is; have",
+      "zh-TW": "有",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_085",
+      "th": "ไก่",
+      "en": "chicken",
+      "zh-TW": "雞；雞肉",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_047",
+      "th": "ร้อน",
+      "en": "hot",
+      "zh-TW": "熱；燙",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_048",
+      "th": "มาก",
+      "en": "very",
+      "zh-TW": "很；非常",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_025",
+      "th": "แม่",
+      "en": "mother",
+      "zh-TW": "媽媽",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_061",
+      "th": "หนึ่ง",
+      "en": "one",
+      "zh-TW": "一",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_010",
+      "th": "ดื่ม",
+      "en": "drink",
+      "zh-TW": "喝",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_059",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_086",
+      "th": "ทำงาน",
+      "en": "work",
+      "zh-TW": "工作",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_007_reading_01",
+        "th": "ผมใช้ช้อนกินข้าวต้ม",
+        "school_reading": "",
+        "note_en": "Place the tool after ใช้ and the action afterward."
+      },
+      {
+        "id": "story_007_reading_02",
+        "th": "แม่กินไข่ต้มหนึ่งฟอง",
+        "school_reading": "",
+        "note_en": "ฟอง is the classifier used here for eggs."
+      },
+      {
+        "id": "story_007_reading_03",
+        "th": "หลังอาหารเช้าผมดื่มน้ำ",
+        "school_reading": "",
+        "note_en": "หลัง introduces something that happens before the following action."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_007_pattern_01",
+      "name_en": "Use a tool",
+      "pattern_th": "subject + ใช้ + tool + action",
+      "explanation_en": "Place the tool after ใช้ and the action afterward.",
+      "examples": [
+        {
+          "th": "ผมใช้ช้อนกินข้าวต้ม",
+          "en": "I use a spoon to eat rice soup.",
+          "zh-TW": "我用湯匙吃稀飯。"
+        }
+      ]
+    },
+    {
+      "id": "story_007_pattern_02",
+      "name_en": "Count eggs",
+      "pattern_th": "ไข่ต้ม + number + ฟอง",
+      "explanation_en": "ฟอง is the classifier used here for eggs.",
+      "examples": [
+        {
+          "th": "แม่กินไข่ต้มหนึ่งฟอง",
+          "en": "My mother eats one boiled egg.",
+          "zh-TW": "媽媽吃一顆水煮蛋。"
+        }
+      ]
+    },
+    {
+      "id": "story_007_pattern_03",
+      "name_en": "Describe what happens afterward",
+      "pattern_th": "หลัง + event + subject + action",
+      "explanation_en": "หลัง introduces something that happens before the following action.",
+      "examples": [
+        {
+          "th": "หลังอาหารเช้าผมดื่มน้ำ",
+          "en": "After breakfast I drink water.",
+          "zh-TW": "早餐後我喝水。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_007_quiz_01",
+      "question_th": "วันนี้ผมกินอะไรเป็นอาหารเช้า",
+      "question_en": "What do I eat for breakfast today?",
+      "hint_en": "เป็นอาหารเช้า means as breakfast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ข้าวต้ม",
+          "en": "Rice soup"
+        },
+        {
+          "id": "b",
+          "th": "ข้าวผัด",
+          "en": "Fried rice"
+        },
+        {
+          "id": "c",
+          "th": "กล้วย",
+          "en": "Bananas"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_007_sentence_02",
+      "explanation_en": "The story says: วันนี้ผมกินข้าวต้ม — Today I eat rice soup."
+    },
+    {
+      "id": "story_007_quiz_02",
+      "question_th": "ในข้าวต้มมีอะไร",
+      "question_en": "What is in the rice soup?",
+      "hint_en": "ใน means in.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ปลา",
+          "en": "Fish"
+        },
+        {
+          "id": "b",
+          "th": "ไก่",
+          "en": "Chicken"
+        },
+        {
+          "id": "c",
+          "th": "กล้วย",
+          "en": "Bananas"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_007_sentence_03",
+      "explanation_en": "The story says: ในข้าวต้มมีไก่ — There is chicken in the rice soup."
+    },
+    {
+      "id": "story_007_quiz_03",
+      "question_th": "ผมใช้อะไรกินข้าวต้ม",
+      "question_en": "What do I use to eat rice soup?",
+      "hint_en": "ใช้ means use.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "แก้ว",
+          "en": "A glass"
+        },
+        {
+          "id": "b",
+          "th": "ถุง",
+          "en": "A bag"
+        },
+        {
+          "id": "c",
+          "th": "ช้อน",
+          "en": "A spoon"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_007_sentence_05",
+      "explanation_en": "The story says: ผมใช้ช้อนกินข้าวต้ม — I use a spoon to eat rice soup."
+    },
+    {
+      "id": "story_007_quiz_04",
+      "question_th": "แม่กินไข่ต้มกี่ฟอง",
+      "question_en": "How many boiled eggs does my mother eat?",
+      "hint_en": "กี่ฟอง asks how many eggs.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สองฟอง",
+          "en": "Two eggs"
+        },
+        {
+          "id": "b",
+          "th": "หนึ่งฟอง",
+          "en": "One egg"
+        },
+        {
+          "id": "c",
+          "th": "สามฟอง",
+          "en": "Three eggs"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_007_sentence_06",
+      "explanation_en": "The story says: แม่กินไข่ต้มหนึ่งฟอง — My mother eats one boiled egg."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_007_writing_01",
+        "en": "I eat breakfast at home.",
+        "zh-TW": "我在家吃早餐。",
+        "suggested_answer_th": "ผมกินอาหารเช้าที่บ้าน"
+      },
+      {
+        "id": "story_007_writing_02",
+        "en": "I use a spoon to eat rice soup.",
+        "zh-TW": "我用湯匙吃稀飯。",
+        "suggested_answer_th": "ผมใช้ช้อนกินข้าวต้ม"
+      },
+      {
+        "id": "story_007_writing_03",
+        "en": "Then I go to work.",
+        "zh-TW": "然後我去上班。",
+        "suggested_answer_th": "แล้วผมไปทำงาน"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_007_speaking_01",
+        "instruction_en": "Read the 8 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_007_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_007_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}
