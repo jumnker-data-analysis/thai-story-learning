@@ -1,0 +1,665 @@
+{
+  "schema_version": 1,
+  "id": "story_011",
+  "level": 3,
+  "topic": "living_in_bangkok",
+  "title": {
+    "th": "ผมอยู่กรุงเทพฯ",
+    "en": "I Live in Bangkok",
+    "zh-TW": "我住在曼谷"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_011_sentence_01",
+      "th": "ผมอยู่กรุงเทพฯ",
+      "en": "I live in Bangkok.",
+      "zh-TW": "我住在曼谷。"
+    },
+    {
+      "id": "story_011_sentence_02",
+      "th": "บ้านของผมอยู่ใกล้สถานีรถไฟฟ้า",
+      "en": "My home is near a train station.",
+      "zh-TW": "我的家在捷運站附近。"
+    },
+    {
+      "id": "story_011_sentence_03",
+      "th": "แถวบ้านมีร้านอาหารหลายร้าน",
+      "en": "There are many restaurants near my home.",
+      "zh-TW": "我家附近有很多餐廳。"
+    },
+    {
+      "id": "story_011_sentence_04",
+      "th": "มีร้านกาแฟอยู่ข้างร้านอาหาร",
+      "en": "There is a café beside a restaurant.",
+      "zh-TW": "餐廳旁邊有一家咖啡店。"
+    },
+    {
+      "id": "story_011_sentence_05",
+      "th": "ตอนเช้าผมเดินไปร้านกาแฟ",
+      "en": "In the morning I walk to the café.",
+      "zh-TW": "早上我走去咖啡店。"
+    },
+    {
+      "id": "story_011_sentence_06",
+      "th": "ผมซื้อกาแฟหนึ่งแก้ว",
+      "en": "I buy one cup of coffee.",
+      "zh-TW": "我買一杯咖啡。"
+    },
+    {
+      "id": "story_011_sentence_07",
+      "th": "ตอนบ่ายผมไปเรียนภาษาไทย",
+      "en": "In the afternoon I go to study Thai.",
+      "zh-TW": "下午我去學泰語。"
+    },
+    {
+      "id": "story_011_sentence_08",
+      "th": "โรงเรียนอยู่ไม่ไกลจากบ้าน",
+      "en": "The school is not far from home.",
+      "zh-TW": "學校離家不遠。"
+    },
+    {
+      "id": "story_011_sentence_09",
+      "th": "ตอนเย็นผมกลับมากินข้าวที่บ้าน",
+      "en": "In the evening I come home to eat.",
+      "zh-TW": "傍晚我回家吃飯。"
+    },
+    {
+      "id": "story_011_sentence_10",
+      "th": "ผมชอบชีวิตในกรุงเทพฯ",
+      "en": "I like life in Bangkok.",
+      "zh-TW": "我喜歡在曼谷的生活。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "The neighborhood and school locations are fictional examples, not confirmed details of your address.",
+      "zh-TW": "社區與學校位置是虛構例子，不代表你實際住址的資訊。"
+    },
+    {
+      "en": "กรุงเทพฯ is the usual abbreviated written name used here for Bangkok.",
+      "zh-TW": "本課使用曼谷名稱的常見書面縮寫。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_144",
+      "th": "กรุงเทพฯ",
+      "en": "Bangkok",
+      "zh-TW": "曼谷",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_145",
+      "th": "สถานี",
+      "en": "station",
+      "zh-TW": "車站",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_146",
+      "th": "แถว",
+      "en": "around; in the area of",
+      "zh-TW": "附近；一帶",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_147",
+      "th": "ข้าง",
+      "en": "beside; next to",
+      "zh-TW": "旁邊",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_148",
+      "th": "โรงเรียน",
+      "en": "school",
+      "zh-TW": "學校",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_149",
+      "th": "จาก",
+      "en": "from",
+      "zh-TW": "從；距離",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_150",
+      "th": "ชีวิต",
+      "en": "life",
+      "zh-TW": "生活；人生",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_151",
+      "th": "รถไฟฟ้า",
+      "en": "urban electric train; BTS in this curriculum",
+      "zh-TW": "捷運；本課程指 BTS",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_152",
+      "th": "ร้านกาแฟ",
+      "en": "café; coffee shop",
+      "zh-TW": "咖啡店",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_153",
+      "th": "เดิน",
+      "en": "walk",
+      "zh-TW": "走路",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_154",
+      "th": "เรียน",
+      "en": "study; learn",
+      "zh-TW": "學習",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_155",
+      "th": "ภาษาไทย",
+      "en": "Thai language",
+      "zh-TW": "泰語",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_156",
+      "th": "กลับมา",
+      "en": "come back",
+      "zh-TW": "回來",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_157",
+      "th": "ไม่ไกล",
+      "en": "not far",
+      "zh-TW": "不遠",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_032",
+      "th": "อยู่",
+      "en": "live; be located",
+      "zh-TW": "住；位於",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home",
+      "zh-TW": "家",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_021",
+      "th": "ของ",
+      "en": "of; belonging to",
+      "zh-TW": "的",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_039",
+      "th": "ใกล้",
+      "en": "near",
+      "zh-TW": "近",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "there is; have",
+      "zh-TW": "有",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_094",
+      "th": "ร้านอาหาร",
+      "en": "restaurant",
+      "zh-TW": "餐廳",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_125",
+      "th": "หลาย",
+      "en": "many",
+      "zh-TW": "很多",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_095",
+      "th": "ร้าน",
+      "en": "classifier for shops; shop",
+      "zh-TW": "間（店的量詞）；店",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_069",
+      "th": "ตอนเช้า",
+      "en": "in the morning",
+      "zh-TW": "早上",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_059",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_053",
+      "th": "ซื้อ",
+      "en": "buy",
+      "zh-TW": "買",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_028",
+      "th": "กาแฟ",
+      "en": "coffee",
+      "zh-TW": "咖啡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_061",
+      "th": "หนึ่ง",
+      "en": "one",
+      "zh-TW": "一",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_121",
+      "th": "แก้ว",
+      "en": "cup; glass",
+      "zh-TW": "杯",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_141",
+      "th": "ตอนบ่าย",
+      "en": "in the afternoon",
+      "zh-TW": "下午",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_051",
+      "th": "ตอนเย็น",
+      "en": "in the evening",
+      "zh-TW": "傍晚",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_158",
+      "th": "กินข้าว",
+      "en": "eat a meal",
+      "zh-TW": "吃飯",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_030",
+      "th": "ที่",
+      "en": "at",
+      "zh-TW": "在",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_027",
+      "th": "ชอบ",
+      "en": "like",
+      "zh-TW": "喜歡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_033",
+      "th": "ใน",
+      "en": "in",
+      "zh-TW": "在……裡面",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_011_reading_01",
+        "th": "ผมอยู่กรุงเทพฯ",
+        "school_reading": "",
+        "note_en": "Use อยู่ to describe residence or location."
+      },
+      {
+        "id": "story_011_reading_02",
+        "th": "บ้านของผมอยู่ใกล้สถานีรถไฟฟ้า",
+        "school_reading": "",
+        "note_en": "อยู่ใกล้ means be near."
+      },
+      {
+        "id": "story_011_reading_03",
+        "th": "โรงเรียนอยู่ไม่ไกลจากบ้าน",
+        "school_reading": "",
+        "note_en": "ไม่ไกลจาก means not far from."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_011_pattern_01",
+      "name_en": "Say where you live",
+      "pattern_th": "subject + อยู่ + place",
+      "explanation_en": "Use อยู่ to describe residence or location.",
+      "examples": [
+        {
+          "th": "ผมอยู่กรุงเทพฯ",
+          "en": "I live in Bangkok.",
+          "zh-TW": "我住在曼谷。"
+        }
+      ]
+    },
+    {
+      "id": "story_011_pattern_02",
+      "name_en": "Locate a place nearby",
+      "pattern_th": "place + อยู่ใกล้ + landmark",
+      "explanation_en": "อยู่ใกล้ means be near.",
+      "examples": [
+        {
+          "th": "บ้านของผมอยู่ใกล้สถานีรถไฟฟ้า",
+          "en": "My home is near a train station.",
+          "zh-TW": "我的家在捷運站附近。"
+        }
+      ]
+    },
+    {
+      "id": "story_011_pattern_03",
+      "name_en": "Describe distance",
+      "pattern_th": "place + อยู่ไม่ไกลจาก + place",
+      "explanation_en": "ไม่ไกลจาก means not far from.",
+      "examples": [
+        {
+          "th": "โรงเรียนอยู่ไม่ไกลจากบ้าน",
+          "en": "The school is not far from home.",
+          "zh-TW": "學校離家不遠。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_011_quiz_01",
+      "question_th": "ผมอยู่ที่ไหน",
+      "question_en": "Where do I live?",
+      "hint_en": "อยู่ means live or be located.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "กรุงเทพฯ",
+          "en": "Bangkok"
+        },
+        {
+          "id": "b",
+          "th": "ไต้หวัน",
+          "en": "Taiwan"
+        },
+        {
+          "id": "c",
+          "th": "ฮ่องกง",
+          "en": "Hong Kong"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_011_sentence_01",
+      "explanation_en": "The story says: ผมอยู่กรุงเทพฯ — I live in Bangkok."
+    },
+    {
+      "id": "story_011_quiz_02",
+      "question_th": "บ้านของผมอยู่ใกล้อะไร",
+      "question_en": "What is my home near?",
+      "hint_en": "ใกล้ means near.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ตลาด",
+          "en": "A market"
+        },
+        {
+          "id": "b",
+          "th": "สถานีรถไฟฟ้า",
+          "en": "A train station"
+        },
+        {
+          "id": "c",
+          "th": "โรงพยาบาล",
+          "en": "A hospital"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_011_sentence_02",
+      "explanation_en": "The story says: บ้านของผมอยู่ใกล้สถานีรถไฟฟ้า — My home is near a train station."
+    },
+    {
+      "id": "story_011_quiz_03",
+      "question_th": "ผมไปเรียนอะไรตอนบ่าย",
+      "question_en": "What do I go to study in the afternoon?",
+      "hint_en": "เรียนอะไร means study what.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ภาษาอังกฤษ",
+          "en": "English"
+        },
+        {
+          "id": "b",
+          "th": "ภาษาจีน",
+          "en": "Chinese"
+        },
+        {
+          "id": "c",
+          "th": "ภาษาไทย",
+          "en": "Thai"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_011_sentence_07",
+      "explanation_en": "The story says: ตอนบ่ายผมไปเรียนภาษาไทย — In the afternoon I go to study Thai."
+    },
+    {
+      "id": "story_011_quiz_04",
+      "question_th": "โรงเรียนอยู่ไกลจากบ้านหรือไม่",
+      "question_en": "Is the school far from home?",
+      "hint_en": "หรือไม่ forms a yes/no question.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ไกลมาก",
+          "en": "Very far"
+        },
+        {
+          "id": "b",
+          "th": "ไม่ไกล",
+          "en": "Not far"
+        },
+        {
+          "id": "c",
+          "th": "ไม่ทราบ",
+          "en": "Not known"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_011_sentence_08",
+      "explanation_en": "The story says: โรงเรียนอยู่ไม่ไกลจากบ้าน — The school is not far from home."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_011_writing_01",
+        "en": "I live in Bangkok.",
+        "zh-TW": "我住在曼谷。",
+        "suggested_answer_th": "ผมอยู่กรุงเทพฯ"
+      },
+      {
+        "id": "story_011_writing_02",
+        "en": "My home is near a train station.",
+        "zh-TW": "我的家在捷運站附近。",
+        "suggested_answer_th": "บ้านของผมอยู่ใกล้สถานีรถไฟฟ้า"
+      },
+      {
+        "id": "story_011_writing_03",
+        "en": "The school is not far from home.",
+        "zh-TW": "學校離家不遠。",
+        "suggested_answer_th": "โรงเรียนอยู่ไม่ไกลจากบ้าน"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_011_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_011_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_011_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

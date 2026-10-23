@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "id": "story_014",
+  "level": 3,
+  "topic": "rain_and_plans",
+  "title": {
+    "th": "วันนี้ฝนตก",
+    "en": "It’s Raining Today",
+    "zh-TW": "今天下雨"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_014_sentence_01",
+      "th": "ตอนเช้าผมอยากไปตลาด",
+      "en": "In the morning I want to go to the market.",
+      "zh-TW": "早上我想去市場。"
+    },
+    {
+      "id": "story_014_sentence_02",
+      "th": "แต่วันนี้ฝนตก",
+      "en": "But it is raining today.",
+      "zh-TW": "但是今天下雨。"
+    },
+    {
+      "id": "story_014_sentence_03",
+      "th": "ผมมองออกไปนอกหน้าต่าง",
+      "en": "I look out of the window.",
+      "zh-TW": "我望向窗外。"
+    },
+    {
+      "id": "story_014_sentence_04",
+      "th": "ถนนเปียกและมีน้ำ",
+      "en": "The road is wet and there is water on it.",
+      "zh-TW": "路面濕了，而且有水。"
+    },
+    {
+      "id": "story_014_sentence_05",
+      "th": "ผมหาร่มในบ้าน",
+      "en": "I look for an umbrella in the house.",
+      "zh-TW": "我在家裡找雨傘。"
+    },
+    {
+      "id": "story_014_sentence_06",
+      "th": "ร่มอยู่ข้างประตู",
+      "en": "The umbrella is beside the door.",
+      "zh-TW": "雨傘在門旁邊。"
+    },
+    {
+      "id": "story_014_sentence_07",
+      "th": "ผมหยิบร่มแล้วใส่รองเท้า",
+      "en": "I pick up the umbrella and then put on my shoes.",
+      "zh-TW": "我拿起雨傘，然後穿鞋。"
+    },
+    {
+      "id": "story_014_sentence_08",
+      "th": "ผมเดินไปตลาดอย่างระวัง",
+      "en": "I walk carefully to the market.",
+      "zh-TW": "我小心地走去市場。"
+    },
+    {
+      "id": "story_014_sentence_09",
+      "th": "หลังซื้อของฝนหยุดตก",
+      "en": "After I finish shopping, it stops raining.",
+      "zh-TW": "買完東西後，雨停了。"
+    },
+    {
+      "id": "story_014_sentence_10",
+      "th": "ผมกลับบ้านและเก็บร่ม",
+      "en": "I return home and put away the umbrella.",
+      "zh-TW": "我回家並收好雨傘。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is a fictional rainy-day story, not a report of current weather or road conditions.",
+      "zh-TW": "這是虛構的雨天故事，不是即時天氣或路況報告。"
+    },
+    {
+      "en": "ใส่ can mean put in or put on. With shoes in this lesson it means put on.",
+      "zh-TW": "同一個詞可表示放入或穿上；本課搭配鞋子時表示穿上。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_189",
+      "th": "ฝนตก",
+      "en": "rain; be raining",
+      "zh-TW": "下雨",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_190",
+      "th": "มอง",
+      "en": "look",
+      "zh-TW": "看；望",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_191",
+      "th": "หน้าต่าง",
+      "en": "window",
+      "zh-TW": "窗戶",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_192",
+      "th": "เปียก",
+      "en": "wet",
+      "zh-TW": "濕",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_193",
+      "th": "ร่ม",
+      "en": "umbrella",
+      "zh-TW": "雨傘",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_194",
+      "th": "หยิบ",
+      "en": "pick up",
+      "zh-TW": "拿起",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_195",
+      "th": "หยุด",
+      "en": "stop",
+      "zh-TW": "停止",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_196",
+      "th": "นอก",
+      "en": "outside",
+      "zh-TW": "外面",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_197",
+      "th": "ถนน",
+      "en": "road; street",
+      "zh-TW": "道路",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_198",
+      "th": "หา",
+      "en": "look for",
+      "zh-TW": "尋找",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_199",
+      "th": "รองเท้า",
+      "en": "shoes",
+      "zh-TW": "鞋子",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_200",
+      "th": "อย่างระวัง",
+      "en": "carefully",
+      "zh-TW": "小心地",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_201",
+      "th": "หยุดตก",
+      "en": "stop falling; stop raining in context",
+      "zh-TW": "停止下；此處指雨停",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_069",
+      "th": "ตอนเช้า",
+      "en": "in the morning",
+      "zh-TW": "早上",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_043",
+      "th": "อยาก",
+      "en": "want to",
+      "zh-TW": "想要",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_059",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_052",
+      "th": "ตลาด",
+      "en": "market",
+      "zh-TW": "市場",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_139",
+      "th": "แต่",
+      "en": "but",
+      "zh-TW": "但是",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_050",
+      "th": "ออกไป",
+      "en": "go out; outward",
+      "zh-TW": "出去；向外",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "there is; have",
+      "zh-TW": "有",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_003",
+      "th": "น้ำ",
+      "en": "water",
+      "zh-TW": "水",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_033",
+      "th": "ใน",
+      "en": "in",
+      "zh-TW": "在……裡面",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home",
+      "zh-TW": "家",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_032",
+      "th": "อยู่",
+      "en": "be located",
+      "zh-TW": "位於",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_147",
+      "th": "ข้าง",
+      "en": "beside",
+      "zh-TW": "旁邊",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_169",
+      "th": "ประตู",
+      "en": "door",
+      "zh-TW": "門",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_083",
+      "th": "แล้ว",
+      "en": "then",
+      "zh-TW": "然後",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_070",
+      "th": "ใส่",
+      "en": "put on; wear (here)",
+      "zh-TW": "此處指穿上",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_153",
+      "th": "เดิน",
+      "en": "walk",
+      "zh-TW": "走路",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_082",
+      "th": "หลัง",
+      "en": "after",
+      "zh-TW": "在……之後",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_068",
+      "th": "ซื้อของ",
+      "en": "shop; buy things",
+      "zh-TW": "買東西",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_067",
+      "th": "กลับบ้าน",
+      "en": "return home",
+      "zh-TW": "回家",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_128",
+      "th": "เก็บ",
+      "en": "put away",
+      "zh-TW": "收好",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_014_reading_01",
+        "th": "แต่วันนี้ฝนตก",
+        "school_reading": "",
+        "note_en": "แต่ means but and introduces a contrasting situation."
+      },
+      {
+        "id": "story_014_reading_02",
+        "th": "ผมหาร่มในบ้าน",
+        "school_reading": "",
+        "note_en": "หา means look for; include the search location after the object."
+      },
+      {
+        "id": "story_014_reading_03",
+        "th": "ผมหยิบร่มแล้วใส่รองเท้า",
+        "school_reading": "",
+        "note_en": "แล้ว introduces the next action."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_014_pattern_01",
+      "name_en": "Connect a plan with a contrast",
+      "pattern_th": "plan + แต่ + situation",
+      "explanation_en": "แต่ means but and introduces a contrasting situation.",
+      "examples": [
+        {
+          "th": "แต่วันนี้ฝนตก",
+          "en": "But it is raining today.",
+          "zh-TW": "但是今天下雨。"
+        }
+      ]
+    },
+    {
+      "id": "story_014_pattern_02",
+      "name_en": "Look for an object",
+      "pattern_th": "subject + หา + object + location",
+      "explanation_en": "หา means look for; include the search location after the object.",
+      "examples": [
+        {
+          "th": "ผมหาร่มในบ้าน",
+          "en": "I look for an umbrella in the house.",
+          "zh-TW": "我在家裡找雨傘。"
+        }
+      ]
+    },
+    {
+      "id": "story_014_pattern_03",
+      "name_en": "Sequence two actions",
+      "pattern_th": "subject + action + แล้ว + action",
+      "explanation_en": "แล้ว introduces the next action.",
+      "examples": [
+        {
+          "th": "ผมหยิบร่มแล้วใส่รองเท้า",
+          "en": "I pick up the umbrella and then put on my shoes.",
+          "zh-TW": "我拿起雨傘，然後穿鞋。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_014_quiz_01",
+      "question_th": "วันนี้อากาศเป็นอย่างไร",
+      "question_en": "What is the weather like today?",
+      "hint_en": "ฝนตก means be raining.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ฝนตก",
+          "en": "It is raining"
+        },
+        {
+          "id": "b",
+          "th": "แดดแรง",
+          "en": "Strong sunshine"
+        },
+        {
+          "id": "c",
+          "th": "หนาวมาก",
+          "en": "Very cold"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_014_sentence_02",
+      "explanation_en": "The story says: แต่วันนี้ฝนตก — But it is raining today."
+    },
+    {
+      "id": "story_014_quiz_02",
+      "question_th": "ร่มอยู่ที่ไหน",
+      "question_en": "Where is the umbrella?",
+      "hint_en": "ร่ม means umbrella.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "บนโต๊ะ",
+          "en": "On the table"
+        },
+        {
+          "id": "b",
+          "th": "ข้างประตู",
+          "en": "Beside the door"
+        },
+        {
+          "id": "c",
+          "th": "ในร้าน",
+          "en": "In the shop"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_014_sentence_06",
+      "explanation_en": "The story says: ร่มอยู่ข้างประตู — The umbrella is beside the door."
+    },
+    {
+      "id": "story_014_quiz_03",
+      "question_th": "ผมหยิบอะไร",
+      "question_en": "What do I pick up?",
+      "hint_en": "หยิบ means pick up.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "หนังสือ",
+          "en": "A book"
+        },
+        {
+          "id": "b",
+          "th": "แก้วน้ำ",
+          "en": "A drinking glass"
+        },
+        {
+          "id": "c",
+          "th": "ร่ม",
+          "en": "An umbrella"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_014_sentence_07",
+      "explanation_en": "The story says: ผมหยิบร่มแล้วใส่รองเท้า — I pick up the umbrella and then put on my shoes."
+    },
+    {
+      "id": "story_014_quiz_04",
+      "question_th": "หลังซื้อของฝนเป็นอย่างไร",
+      "question_en": "What happens to the rain after shopping?",
+      "hint_en": "หยุด means stop.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ตกหนักขึ้น",
+          "en": "It gets heavier"
+        },
+        {
+          "id": "b",
+          "th": "หยุดตก",
+          "en": "It stops"
+        },
+        {
+          "id": "c",
+          "th": "ไม่ทราบ",
+          "en": "Not known"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_014_sentence_09",
+      "explanation_en": "The story says: หลังซื้อของฝนหยุดตก — After I finish shopping, it stops raining."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_014_writing_01",
+        "en": "I look for an umbrella in the house.",
+        "zh-TW": "我在家裡找雨傘。",
+        "suggested_answer_th": "ผมหาร่มในบ้าน"
+      },
+      {
+        "id": "story_014_writing_02",
+        "en": "The umbrella is beside the door.",
+        "zh-TW": "雨傘在門旁邊。",
+        "suggested_answer_th": "ร่มอยู่ข้างประตู"
+      },
+      {
+        "id": "story_014_writing_03",
+        "en": "I pick up the umbrella and then put on my shoes.",
+        "zh-TW": "我拿起雨傘，然後穿鞋。",
+        "suggested_answer_th": "ผมหยิบร่มแล้วใส่รองเท้า"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_014_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_014_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_014_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

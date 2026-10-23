@@ -1,0 +1,629 @@
+{
+  "schema_version": 1,
+  "id": "story_012",
+  "level": 3,
+  "topic": "taking_the_train",
+  "title": {
+    "th": "ผมนั่งรถไฟฟ้า",
+    "en": "I Take the BTS",
+    "zh-TW": "我搭 BTS 捷運"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_012_sentence_01",
+      "th": "ผมออกจากบ้านตอนแปดโมง",
+      "en": "I leave home at eight in the morning.",
+      "zh-TW": "我早上八點出門。"
+    },
+    {
+      "id": "story_012_sentence_02",
+      "th": "ผมเดินไปสถานีรถไฟฟ้า",
+      "en": "I walk to the train station.",
+      "zh-TW": "我走去捷運站。"
+    },
+    {
+      "id": "story_012_sentence_03",
+      "th": "ผมมีบัตรโดยสาร",
+      "en": "I have a travel card.",
+      "zh-TW": "我有一張乘車卡。"
+    },
+    {
+      "id": "story_012_sentence_04",
+      "th": "ผมใช้บัตรแตะที่ประตู",
+      "en": "I tap the card at the gate.",
+      "zh-TW": "我在閘門感應乘車卡。"
+    },
+    {
+      "id": "story_012_sentence_05",
+      "th": "ผมรอรถไฟฟ้าบนชานชาลา",
+      "en": "I wait for the train on the platform.",
+      "zh-TW": "我在月台等車。"
+    },
+    {
+      "id": "story_012_sentence_06",
+      "th": "เมื่อรถมาถึงผมขึ้นรถ",
+      "en": "When the train arrives, I get on.",
+      "zh-TW": "列車到站後，我上車。"
+    },
+    {
+      "id": "story_012_sentence_07",
+      "th": "ในรถมีคนหลายคน",
+      "en": "There are many people on the train.",
+      "zh-TW": "車上有很多人。"
+    },
+    {
+      "id": "story_012_sentence_08",
+      "th": "ผมยืนใกล้ประตู",
+      "en": "I stand near the door.",
+      "zh-TW": "我站在門邊。"
+    },
+    {
+      "id": "story_012_sentence_09",
+      "th": "ผมลงรถที่สถานีถัดไป",
+      "en": "I get off at the next station.",
+      "zh-TW": "我在下一站下車。"
+    },
+    {
+      "id": "story_012_sentence_10",
+      "th": "แล้วผมเดินไปโรงเรียน",
+      "en": "Then I walk to school.",
+      "zh-TW": "然後我走去學校。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is a fictional journey for language practice, not a route or fare guide.",
+      "zh-TW": "這是語言練習的虛構行程，不是路線或票價指南。"
+    },
+    {
+      "en": "นั่งรถไฟฟ้า in the title means take the train; it does not guarantee that the narrator sits down.",
+      "zh-TW": "標題中的搭車表達不代表主角一定有坐下。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_159",
+      "th": "บัตรโดยสาร",
+      "en": "travel card; ticket",
+      "zh-TW": "乘車卡；車票",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_160",
+      "th": "แตะ",
+      "en": "tap; touch lightly",
+      "zh-TW": "輕觸；感應",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_161",
+      "th": "ชานชาลา",
+      "en": "platform",
+      "zh-TW": "月台",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_162",
+      "th": "ขึ้นรถ",
+      "en": "get on a vehicle",
+      "zh-TW": "上車",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_163",
+      "th": "ยืน",
+      "en": "stand",
+      "zh-TW": "站立",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_164",
+      "th": "ลงรถ",
+      "en": "get off a vehicle",
+      "zh-TW": "下車",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_165",
+      "th": "ถัดไป",
+      "en": "next",
+      "zh-TW": "下一個",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_166",
+      "th": "ออกจาก",
+      "en": "leave; go out of",
+      "zh-TW": "離開",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_167",
+      "th": "แปดโมง",
+      "en": "eight in the morning",
+      "zh-TW": "早上八點",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_168",
+      "th": "บัตร",
+      "en": "card",
+      "zh-TW": "卡片",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_169",
+      "th": "ประตู",
+      "en": "door; gate",
+      "zh-TW": "門；閘門",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_170",
+      "th": "เมื่อ",
+      "en": "when",
+      "zh-TW": "當……時",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_171",
+      "th": "รถ",
+      "en": "vehicle; train in this story",
+      "zh-TW": "車；本故事指列車",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_018",
+      "th": "บ้าน",
+      "en": "home",
+      "zh-TW": "家",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_153",
+      "th": "เดิน",
+      "en": "walk",
+      "zh-TW": "走路",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_059",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_145",
+      "th": "สถานี",
+      "en": "station",
+      "zh-TW": "車站",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_151",
+      "th": "รถไฟฟ้า",
+      "en": "urban electric train; BTS here",
+      "zh-TW": "捷運；此處指 BTS",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_019",
+      "th": "มี",
+      "en": "have; there are",
+      "zh-TW": "有",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_078",
+      "th": "ใช้",
+      "en": "use",
+      "zh-TW": "使用",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_030",
+      "th": "ที่",
+      "en": "at",
+      "zh-TW": "在",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_126",
+      "th": "รอ",
+      "en": "wait",
+      "zh-TW": "等",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_037",
+      "th": "บน",
+      "en": "on",
+      "zh-TW": "在……上面",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_088",
+      "th": "มาถึง",
+      "en": "arrive",
+      "zh-TW": "到達",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_033",
+      "th": "ใน",
+      "en": "in",
+      "zh-TW": "在……裡面",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_023",
+      "th": "คน",
+      "en": "person; people",
+      "zh-TW": "人",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_125",
+      "th": "หลาย",
+      "en": "many",
+      "zh-TW": "很多",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_039",
+      "th": "ใกล้",
+      "en": "near",
+      "zh-TW": "近",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_083",
+      "th": "แล้ว",
+      "en": "then",
+      "zh-TW": "然後",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_148",
+      "th": "โรงเรียน",
+      "en": "school",
+      "zh-TW": "學校",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_012_reading_01",
+        "th": "ผมเดินไปสถานีรถไฟฟ้า",
+        "school_reading": "",
+        "note_en": "เดินไป means walk to a destination."
+      },
+      {
+        "id": "story_012_reading_02",
+        "th": "เมื่อรถมาถึงผมขึ้นรถ",
+        "school_reading": "",
+        "note_en": "เมื่อ introduces when something happens."
+      },
+      {
+        "id": "story_012_reading_03",
+        "th": "ผมลงรถที่สถานีถัดไป",
+        "school_reading": "",
+        "note_en": "ลงรถ means get off; ที่ introduces the location."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_012_pattern_01",
+      "name_en": "Travel to a place",
+      "pattern_th": "subject + เดินไป + place",
+      "explanation_en": "เดินไป means walk to a destination.",
+      "examples": [
+        {
+          "th": "ผมเดินไปสถานีรถไฟฟ้า",
+          "en": "I walk to the train station.",
+          "zh-TW": "我走去捷運站。"
+        }
+      ]
+    },
+    {
+      "id": "story_012_pattern_02",
+      "name_en": "Describe an event and response",
+      "pattern_th": "เมื่อ + event + subject + action",
+      "explanation_en": "เมื่อ introduces when something happens.",
+      "examples": [
+        {
+          "th": "เมื่อรถมาถึงผมขึ้นรถ",
+          "en": "When the train arrives, I get on.",
+          "zh-TW": "列車到站後，我上車。"
+        }
+      ]
+    },
+    {
+      "id": "story_012_pattern_03",
+      "name_en": "Say where you get off",
+      "pattern_th": "subject + ลงรถที่ + station",
+      "explanation_en": "ลงรถ means get off; ที่ introduces the location.",
+      "examples": [
+        {
+          "th": "ผมลงรถที่สถานีถัดไป",
+          "en": "I get off at the next station.",
+          "zh-TW": "我在下一站下車。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_012_quiz_01",
+      "question_th": "ผมออกจากบ้านกี่โมง",
+      "question_en": "What time do I leave home?",
+      "hint_en": "กี่โมง asks what time.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "แปดโมง",
+          "en": "Eight in the morning"
+        },
+        {
+          "id": "b",
+          "th": "สิบโมง",
+          "en": "Ten in the morning"
+        },
+        {
+          "id": "c",
+          "th": "สิบเอ็ดโมง",
+          "en": "Eleven in the morning"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_012_sentence_01",
+      "explanation_en": "The story says: ผมออกจากบ้านตอนแปดโมง — I leave home at eight in the morning."
+    },
+    {
+      "id": "story_012_quiz_02",
+      "question_th": "ผมรอรถไฟฟ้าที่ไหน",
+      "question_en": "Where do I wait for the train?",
+      "hint_en": "ชานชาลา means platform.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ที่บ้าน",
+          "en": "At home"
+        },
+        {
+          "id": "b",
+          "th": "บนชานชาลา",
+          "en": "On the platform"
+        },
+        {
+          "id": "c",
+          "th": "ในร้านอาหาร",
+          "en": "In a restaurant"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_012_sentence_05",
+      "explanation_en": "The story says: ผมรอรถไฟฟ้าบนชานชาลา — I wait for the train on the platform."
+    },
+    {
+      "id": "story_012_quiz_03",
+      "question_th": "ผมยืนใกล้อะไร",
+      "question_en": "What do I stand near?",
+      "hint_en": "ยืน means stand.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "โต๊ะ",
+          "en": "A table"
+        },
+        {
+          "id": "b",
+          "th": "ร้านกาแฟ",
+          "en": "A café"
+        },
+        {
+          "id": "c",
+          "th": "ประตู",
+          "en": "The door"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_012_sentence_08",
+      "explanation_en": "The story says: ผมยืนใกล้ประตู — I stand near the door."
+    },
+    {
+      "id": "story_012_quiz_04",
+      "question_th": "ผมลงรถที่สถานีไหน",
+      "question_en": "At which station do I get off?",
+      "hint_en": "สถานีไหน means which station.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สถานีก่อนหน้า",
+          "en": "The previous station"
+        },
+        {
+          "id": "b",
+          "th": "สถานีถัดไป",
+          "en": "The next station"
+        },
+        {
+          "id": "c",
+          "th": "ไม่ทราบ",
+          "en": "Not known"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_012_sentence_09",
+      "explanation_en": "The story says: ผมลงรถที่สถานีถัดไป — I get off at the next station."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_012_writing_01",
+        "en": "I walk to the train station.",
+        "zh-TW": "我走去捷運站。",
+        "suggested_answer_th": "ผมเดินไปสถานีรถไฟฟ้า"
+      },
+      {
+        "id": "story_012_writing_02",
+        "en": "I stand near the door.",
+        "zh-TW": "我站在門邊。",
+        "suggested_answer_th": "ผมยืนใกล้ประตู"
+      },
+      {
+        "id": "story_012_writing_03",
+        "en": "I get off at the next station.",
+        "zh-TW": "我在下一站下車。",
+        "suggested_answer_th": "ผมลงรถที่สถานีถัดไป"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_012_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_012_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_012_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

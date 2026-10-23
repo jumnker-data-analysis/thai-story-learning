@@ -1,0 +1,692 @@
+{
+  "schema_version": 1,
+  "id": "story_013",
+  "level": 3,
+  "topic": "market_with_a_friend",
+  "title": {
+    "th": "ไปตลาดกัน",
+    "en": "Let’s Go to the Market",
+    "zh-TW": "一起去市場吧"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_013_sentence_01",
+      "th": "วันนี้ผมไปตลาดกับเพื่อน",
+      "en": "Today I go to the market with a friend.",
+      "zh-TW": "今天我和朋友去市場。"
+    },
+    {
+      "id": "story_013_sentence_02",
+      "th": "เพื่อนอยากซื้อผลไม้",
+      "en": "My friend wants to buy fruit.",
+      "zh-TW": "朋友想買水果。"
+    },
+    {
+      "id": "story_013_sentence_03",
+      "th": "เราเห็นส้มและกล้วย",
+      "en": "We see oranges and bananas.",
+      "zh-TW": "我們看到橘子和香蕉。"
+    },
+    {
+      "id": "story_013_sentence_04",
+      "th": "ผมถามว่าส้มกิโลละเท่าไรครับ",
+      "en": "I ask, How much are the oranges per kilo?",
+      "zh-TW": "我問：「橘子一公斤多少錢？」"
+    },
+    {
+      "id": "story_013_sentence_05",
+      "th": "แม่ค้าบอกว่ากิโลละสี่สิบบาท",
+      "en": "The vendor says, Forty baht per kilo.",
+      "zh-TW": "女攤販說：「一公斤四十泰銖。」"
+    },
+    {
+      "id": "story_013_sentence_06",
+      "th": "เพื่อนซื้อส้มหนึ่งกิโล",
+      "en": "My friend buys one kilo of oranges.",
+      "zh-TW": "朋友買一公斤橘子。"
+    },
+    {
+      "id": "story_013_sentence_07",
+      "th": "ผมซื้อผักหนึ่งถุง",
+      "en": "I buy one bag of vegetables.",
+      "zh-TW": "我買一袋蔬菜。"
+    },
+    {
+      "id": "story_013_sentence_08",
+      "th": "ผักถุงนี้ราคายี่สิบบาท",
+      "en": "This bag of vegetables costs twenty baht.",
+      "zh-TW": "這袋蔬菜二十泰銖。"
+    },
+    {
+      "id": "story_013_sentence_09",
+      "th": "เราจ่ายเงินแล้วเดินกลับบ้าน",
+      "en": "We pay and then walk home.",
+      "zh-TW": "我們付錢後走回家。"
+    },
+    {
+      "id": "story_013_sentence_10",
+      "th": "เราจะทำอาหารเย็นด้วยกัน",
+      "en": "We will make dinner together.",
+      "zh-TW": "我們要一起做晚餐。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "All prices are fictional study examples. The friend buys the oranges; the narrator buys the vegetables.",
+      "zh-TW": "所有價格均為虛構學習例子。朋友買橘子，主角買蔬菜。"
+    },
+    {
+      "en": "แม่ค้า refers to a female seller. พ่อค้า is a male seller, a supporting word for later study.",
+      "zh-TW": "本課女攤販的詞可與之後學習的男攤販用詞一起比較。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_172",
+      "th": "ผลไม้",
+      "en": "fruit",
+      "zh-TW": "水果",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_173",
+      "th": "เห็น",
+      "en": "see",
+      "zh-TW": "看見",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_174",
+      "th": "ส้ม",
+      "en": "orange (fruit)",
+      "zh-TW": "橘子",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_175",
+      "th": "กิโล",
+      "en": "kilo; kilogram (informal)",
+      "zh-TW": "公斤（口語）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_176",
+      "th": "แม่ค้า",
+      "en": "female vendor",
+      "zh-TW": "女攤販",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_177",
+      "th": "ผัก",
+      "en": "vegetables",
+      "zh-TW": "蔬菜",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_178",
+      "th": "จะ",
+      "en": "will; going to",
+      "zh-TW": "將；要",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_179",
+      "th": "กิโลละ",
+      "en": "per kilo",
+      "zh-TW": "每公斤",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_180",
+      "th": "เท่าไร",
+      "en": "how much",
+      "zh-TW": "多少",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_181",
+      "th": "บอกว่า",
+      "en": "say; tell (introducing speech)",
+      "zh-TW": "說（引出話語）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_182",
+      "th": "ถุงนี้",
+      "en": "this bag",
+      "zh-TW": "這袋",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_183",
+      "th": "อาหารเย็น",
+      "en": "dinner",
+      "zh-TW": "晚餐",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_184",
+      "th": "ทำอาหาร",
+      "en": "cook; prepare food",
+      "zh-TW": "做飯",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_185",
+      "th": "กัน",
+      "en": "together; mutual action (here)",
+      "zh-TW": "一起（此處）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_059",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_052",
+      "th": "ตลาด",
+      "en": "market",
+      "zh-TW": "市場",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_105",
+      "th": "กับ",
+      "en": "with",
+      "zh-TW": "和；與",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_186",
+      "th": "เพื่อน",
+      "en": "friend",
+      "zh-TW": "朋友",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_043",
+      "th": "อยาก",
+      "en": "want to",
+      "zh-TW": "想要",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_053",
+      "th": "ซื้อ",
+      "en": "buy",
+      "zh-TW": "買",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_029",
+      "th": "เรา",
+      "en": "we",
+      "zh-TW": "我們",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_060",
+      "th": "กล้วย",
+      "en": "banana",
+      "zh-TW": "香蕉",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_118",
+      "th": "ถามว่า",
+      "en": "ask (introducing speech)",
+      "zh-TW": "問（引出話語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_187",
+      "th": "ครับ",
+      "en": "male polite ending",
+      "zh-TW": "男性禮貌語尾",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_065",
+      "th": "สี่สิบ",
+      "en": "forty",
+      "zh-TW": "四十",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_058",
+      "th": "บาท",
+      "en": "baht",
+      "zh-TW": "泰銖",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_061",
+      "th": "หนึ่ง",
+      "en": "one",
+      "zh-TW": "一",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_056",
+      "th": "ถุง",
+      "en": "bag; classifier for bags",
+      "zh-TW": "袋",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_055",
+      "th": "ราคา",
+      "en": "price; cost",
+      "zh-TW": "價格",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_064",
+      "th": "ยี่สิบ",
+      "en": "twenty",
+      "zh-TW": "二十",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_188",
+      "th": "จ่ายเงิน",
+      "en": "pay money",
+      "zh-TW": "付錢",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_083",
+      "th": "แล้ว",
+      "en": "then",
+      "zh-TW": "然後",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_153",
+      "th": "เดิน",
+      "en": "walk",
+      "zh-TW": "走",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_067",
+      "th": "กลับบ้าน",
+      "en": "return home",
+      "zh-TW": "回家",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_074",
+      "th": "ด้วยกัน",
+      "en": "together",
+      "zh-TW": "一起",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_013_reading_01",
+        "th": "วันนี้ผมไปตลาดกับเพื่อน",
+        "school_reading": "",
+        "note_en": "กับ introduces the person accompanying you."
+      },
+      {
+        "id": "story_013_reading_02",
+        "th": "ผมถามว่าส้มกิโลละเท่าไรครับ",
+        "school_reading": "",
+        "note_en": "กิโลละ means per kilo; เท่าไร asks how much."
+      },
+      {
+        "id": "story_013_reading_03",
+        "th": "เราจะทำอาหารเย็นด้วยกัน",
+        "school_reading": "",
+        "note_en": "จะ marks a future intention; ด้วยกัน means together."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_013_pattern_01",
+      "name_en": "Go somewhere together",
+      "pattern_th": "subject + ไป + place + กับ + person",
+      "explanation_en": "กับ introduces the person accompanying you.",
+      "examples": [
+        {
+          "th": "วันนี้ผมไปตลาดกับเพื่อน",
+          "en": "Today I go to the market with a friend.",
+          "zh-TW": "今天我和朋友去市場。"
+        }
+      ]
+    },
+    {
+      "id": "story_013_pattern_02",
+      "name_en": "Ask a price per kilogram",
+      "pattern_th": "item + กิโลละเท่าไรครับ",
+      "explanation_en": "กิโลละ means per kilo; เท่าไร asks how much.",
+      "examples": [
+        {
+          "th": "ผมถามว่าส้มกิโลละเท่าไรครับ",
+          "en": "I ask, How much are the oranges per kilo?",
+          "zh-TW": "我問：「橘子一公斤多少錢？」"
+        }
+      ]
+    },
+    {
+      "id": "story_013_pattern_03",
+      "name_en": "Describe a future activity",
+      "pattern_th": "subject + จะ + action + ด้วยกัน",
+      "explanation_en": "จะ marks a future intention; ด้วยกัน means together.",
+      "examples": [
+        {
+          "th": "เราจะทำอาหารเย็นด้วยกัน",
+          "en": "We will make dinner together.",
+          "zh-TW": "我們要一起做晚餐。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_013_quiz_01",
+      "question_th": "ผมไปตลาดกับใคร",
+      "question_en": "Who do I go to the market with?",
+      "hint_en": "กับใคร means with whom.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อน",
+          "en": "A friend"
+        },
+        {
+          "id": "b",
+          "th": "แม่",
+          "en": "My mother"
+        },
+        {
+          "id": "c",
+          "th": "ลูกค้า",
+          "en": "A customer"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_013_sentence_01",
+      "explanation_en": "The story says: วันนี้ผมไปตลาดกับเพื่อน — Today I go to the market with a friend."
+    },
+    {
+      "id": "story_013_quiz_02",
+      "question_th": "ส้มกิโลละเท่าไร",
+      "question_en": "How much are oranges per kilo?",
+      "hint_en": "กิโลละ means per kilo.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ยี่สิบบาท",
+          "en": "Twenty baht"
+        },
+        {
+          "id": "b",
+          "th": "สี่สิบบาท",
+          "en": "Forty baht"
+        },
+        {
+          "id": "c",
+          "th": "สิบบาท",
+          "en": "Ten baht"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_013_sentence_05",
+      "explanation_en": "The story says: แม่ค้าบอกว่ากิโลละสี่สิบบาท — The vendor says, Forty baht per kilo."
+    },
+    {
+      "id": "story_013_quiz_03",
+      "question_th": "ผมซื้ออะไรหนึ่งถุง",
+      "question_en": "What do I buy one bag of?",
+      "hint_en": "หนึ่งถุง means one bag.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ส้ม",
+          "en": "Oranges"
+        },
+        {
+          "id": "b",
+          "th": "กล้วย",
+          "en": "Bananas"
+        },
+        {
+          "id": "c",
+          "th": "ผัก",
+          "en": "Vegetables"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_013_sentence_07",
+      "explanation_en": "The story says: ผมซื้อผักหนึ่งถุง — I buy one bag of vegetables."
+    },
+    {
+      "id": "story_013_quiz_04",
+      "question_th": "เราจะทำอะไรด้วยกัน",
+      "question_en": "What will we do together?",
+      "hint_en": "จะ means will or going to.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ไปทำงาน",
+          "en": "Go to work"
+        },
+        {
+          "id": "b",
+          "th": "ทำอาหารเย็น",
+          "en": "Make dinner"
+        },
+        {
+          "id": "c",
+          "th": "ขึ้นรถไฟฟ้า",
+          "en": "Take the train"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_013_sentence_10",
+      "explanation_en": "The story says: เราจะทำอาหารเย็นด้วยกัน — We will make dinner together."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_013_writing_01",
+        "en": "Today I go to the market with a friend.",
+        "zh-TW": "今天我和朋友去市場。",
+        "suggested_answer_th": "วันนี้ผมไปตลาดกับเพื่อน"
+      },
+      {
+        "id": "story_013_writing_02",
+        "en": "I buy one bag of vegetables.",
+        "zh-TW": "我買一袋蔬菜。",
+        "suggested_answer_th": "ผมซื้อผักหนึ่งถุง"
+      },
+      {
+        "id": "story_013_writing_03",
+        "en": "We will make dinner together.",
+        "zh-TW": "我們要一起做晚餐。",
+        "suggested_answer_th": "เราจะทำอาหารเย็นด้วยกัน"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_013_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_013_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_013_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}

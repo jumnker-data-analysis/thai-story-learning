@@ -13,7 +13,12 @@ const availableStories = [
   "story_007",
   "story_008",
   "story_009",
-  "story_010"
+  "story_010",
+  "story_011",
+  "story_012",
+  "story_013",
+  "story_014",
+  "story_015"
 ];
 const params = new URLSearchParams(window.location.search);
 const requestedStory = params.get("story");

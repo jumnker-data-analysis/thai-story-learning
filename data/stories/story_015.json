@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "id": "story_015",
+  "level": 3,
+  "topic": "day_off",
+  "title": {
+    "th": "วันหยุดของผม",
+    "en": "My Day Off",
+    "zh-TW": "我的休假日"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read 10 short Thai sentences.",
+    "Review familiar words and practise seven focus entries.",
+    "Use three reusable patterns.",
+    "Complete four comprehension questions and three writing prompts."
+  ],
+  "sentences": [
+    {
+      "id": "story_015_sentence_01",
+      "th": "วันนี้เป็นวันหยุดของผม",
+      "en": "Today is my day off.",
+      "zh-TW": "今天是我的休假日。"
+    },
+    {
+      "id": "story_015_sentence_02",
+      "th": "ผมไม่ต้องไปทำงาน",
+      "en": "I do not have to go to work.",
+      "zh-TW": "我不用去上班。"
+    },
+    {
+      "id": "story_015_sentence_03",
+      "th": "ตอนเช้าผมตื่นสาย",
+      "en": "In the morning I wake up late.",
+      "zh-TW": "早上我比較晚起床。"
+    },
+    {
+      "id": "story_015_sentence_04",
+      "th": "ผมทำอาหารเช้าและชงกาแฟ",
+      "en": "I make breakfast and brew coffee.",
+      "zh-TW": "我做早餐並沖咖啡。"
+    },
+    {
+      "id": "story_015_sentence_05",
+      "th": "หลังอาหารเช้าผมไปออกกำลังกาย",
+      "en": "After breakfast I go to exercise.",
+      "zh-TW": "早餐後我去運動。"
+    },
+    {
+      "id": "story_015_sentence_06",
+      "th": "ตอนบ่ายผมอ่านหนังสือภาษาไทย",
+      "en": "In the afternoon I read a Thai-language book.",
+      "zh-TW": "下午我讀泰語書。"
+    },
+    {
+      "id": "story_015_sentence_07",
+      "th": "ผมฝึกเขียนประโยคสั้น ๆ",
+      "en": "I practise writing short sentences.",
+      "zh-TW": "我練習寫短句。"
+    },
+    {
+      "id": "story_015_sentence_08",
+      "th": "ตอนเย็นผมไปกินข้าวกับเพื่อน",
+      "en": "In the evening I go out to eat with a friend.",
+      "zh-TW": "傍晚我和朋友出去吃飯。"
+    },
+    {
+      "id": "story_015_sentence_09",
+      "th": "ก่อนนอนผมวางแผนสำหรับพรุ่งนี้",
+      "en": "Before bed I make plans for tomorrow.",
+      "zh-TW": "睡前我為明天做計畫。"
+    },
+    {
+      "id": "story_015_sentence_10",
+      "th": "วันนี้ผมได้พักและทำสิ่งที่ชอบ",
+      "en": "Today I get to rest and do things I like.",
+      "zh-TW": "今天我能休息，也能做喜歡的事。"
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is an example day off, not a required schedule. Adapt the activities and pace to your own day.",
+      "zh-TW": "這是休假日的例子，不是必須遵守的行程，可依自己的狀況調整。"
+    },
+    {
+      "en": "ไม่ต้อง expresses lack of necessity. ไม่อยาก expresses not wanting to do something.",
+      "zh-TW": "「不必」表示沒有必要；「不想」表達沒有意願，意思不同。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_202",
+      "th": "ไม่ต้อง",
+      "en": "do not have to",
+      "zh-TW": "不用；不必",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_203",
+      "th": "ตื่นสาย",
+      "en": "wake up late; get up late",
+      "zh-TW": "晚起床",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_204",
+      "th": "ชง",
+      "en": "brew; prepare a drink",
+      "zh-TW": "沖泡",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_205",
+      "th": "ออกกำลังกาย",
+      "en": "exercise",
+      "zh-TW": "運動",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_206",
+      "th": "ฝึก",
+      "en": "practise; train",
+      "zh-TW": "練習",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_207",
+      "th": "ประโยค",
+      "en": "sentence",
+      "zh-TW": "句子",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_208",
+      "th": "วางแผน",
+      "en": "make plans; plan",
+      "zh-TW": "做計畫",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_209",
+      "th": "วันหยุด",
+      "en": "day off; holiday",
+      "zh-TW": "休假日；假日",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_210",
+      "th": "เป็น",
+      "en": "be (linking to a noun here)",
+      "zh-TW": "是（此處連接名詞）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_211",
+      "th": "ทำอาหารเช้า",
+      "en": "make breakfast",
+      "zh-TW": "做早餐",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_212",
+      "th": "เขียน",
+      "en": "write",
+      "zh-TW": "寫",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_213",
+      "th": "สั้น ๆ",
+      "en": "short",
+      "zh-TW": "短的",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_214",
+      "th": "ก่อนนอน",
+      "en": "before bed",
+      "zh-TW": "睡前",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_215",
+      "th": "สำหรับ",
+      "en": "for",
+      "zh-TW": "為了；供",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_216",
+      "th": "พรุ่งนี้",
+      "en": "tomorrow",
+      "zh-TW": "明天",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_217",
+      "th": "ทำสิ่งที่ชอบ",
+      "en": "do things one likes",
+      "zh-TW": "做喜歡的事",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_002",
+      "th": "ผม",
+      "en": "I (male speaker)",
+      "zh-TW": "我（男性用語）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_001",
+      "th": "วันนี้",
+      "en": "today",
+      "zh-TW": "今天",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_021",
+      "th": "ของ",
+      "en": "of; belonging to",
+      "zh-TW": "的",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_059",
+      "th": "ไป",
+      "en": "go",
+      "zh-TW": "去",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_086",
+      "th": "ทำงาน",
+      "en": "work",
+      "zh-TW": "工作",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_069",
+      "th": "ตอนเช้า",
+      "en": "in the morning",
+      "zh-TW": "早上",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_017",
+      "th": "และ",
+      "en": "and",
+      "zh-TW": "和",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_028",
+      "th": "กาแฟ",
+      "en": "coffee",
+      "zh-TW": "咖啡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_082",
+      "th": "หลัง",
+      "en": "after",
+      "zh-TW": "在……之後",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_084",
+      "th": "อาหารเช้า",
+      "en": "breakfast",
+      "zh-TW": "早餐",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_141",
+      "th": "ตอนบ่าย",
+      "en": "in the afternoon",
+      "zh-TW": "下午",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_038",
+      "th": "อ่าน",
+      "en": "read",
+      "zh-TW": "閱讀",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_036",
+      "th": "หนังสือ",
+      "en": "book",
+      "zh-TW": "書",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_155",
+      "th": "ภาษาไทย",
+      "en": "Thai language",
+      "zh-TW": "泰語",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_051",
+      "th": "ตอนเย็น",
+      "en": "in the evening",
+      "zh-TW": "傍晚",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_158",
+      "th": "กินข้าว",
+      "en": "eat a meal",
+      "zh-TW": "吃飯",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_105",
+      "th": "กับ",
+      "en": "with",
+      "zh-TW": "和；與",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_186",
+      "th": "เพื่อน",
+      "en": "friend",
+      "zh-TW": "朋友",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_142",
+      "th": "ได้",
+      "en": "get to (here)",
+      "zh-TW": "此處表示能夠；有機會",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_046",
+      "th": "พัก",
+      "en": "rest",
+      "zh-TW": "休息",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_015_reading_01",
+        "th": "ผมไม่ต้องไปทำงาน",
+        "school_reading": "",
+        "note_en": "ไม่ต้อง means do not have to; it differs from simply not doing something."
+      },
+      {
+        "id": "story_015_reading_02",
+        "th": "ผมฝึกเขียนประโยคสั้น ๆ",
+        "school_reading": "",
+        "note_en": "ฝึก introduces an activity you practise."
+      },
+      {
+        "id": "story_015_reading_03",
+        "th": "ก่อนนอนผมวางแผนสำหรับพรุ่งนี้",
+        "school_reading": "",
+        "note_en": "วางแผน means plan; สำหรับ introduces what or when the plan is for."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_015_pattern_01",
+      "name_en": "Say something is not necessary",
+      "pattern_th": "subject + ไม่ต้อง + action",
+      "explanation_en": "ไม่ต้อง means do not have to; it differs from simply not doing something.",
+      "examples": [
+        {
+          "th": "ผมไม่ต้องไปทำงาน",
+          "en": "I do not have to go to work.",
+          "zh-TW": "我不用去上班。"
+        }
+      ]
+    },
+    {
+      "id": "story_015_pattern_02",
+      "name_en": "Describe practice",
+      "pattern_th": "subject + ฝึก + skill or action",
+      "explanation_en": "ฝึก introduces an activity you practise.",
+      "examples": [
+        {
+          "th": "ผมฝึกเขียนประโยคสั้น ๆ",
+          "en": "I practise writing short sentences.",
+          "zh-TW": "我練習寫短句。"
+        }
+      ]
+    },
+    {
+      "id": "story_015_pattern_03",
+      "name_en": "Plan for tomorrow",
+      "pattern_th": "subject + วางแผนสำหรับ + time",
+      "explanation_en": "วางแผน means plan; สำหรับ introduces what or when the plan is for.",
+      "examples": [
+        {
+          "th": "ก่อนนอนผมวางแผนสำหรับพรุ่งนี้",
+          "en": "Before bed I make plans for tomorrow.",
+          "zh-TW": "睡前我為明天做計畫。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_015_quiz_01",
+      "question_th": "วันนี้ผมต้องไปทำงานหรือไม่",
+      "question_en": "Do I have to go to work today?",
+      "hint_en": "ไม่ต้อง means do not have to.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ไม่ต้องไป",
+          "en": "I do not have to go"
+        },
+        {
+          "id": "b",
+          "th": "ต้องไป",
+          "en": "I have to go"
+        },
+        {
+          "id": "c",
+          "th": "ไม่ทราบ",
+          "en": "Not known"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_015_sentence_02",
+      "explanation_en": "The story says: ผมไม่ต้องไปทำงาน — I do not have to go to work."
+    },
+    {
+      "id": "story_015_quiz_02",
+      "question_th": "หลังอาหารเช้าผมไปทำอะไร",
+      "question_en": "What do I go to do after breakfast?",
+      "hint_en": "หลัง means after.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ซื้อของ",
+          "en": "Shop"
+        },
+        {
+          "id": "b",
+          "th": "ออกกำลังกาย",
+          "en": "Exercise"
+        },
+        {
+          "id": "c",
+          "th": "ทำงาน",
+          "en": "Work"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_015_sentence_05",
+      "explanation_en": "The story says: หลังอาหารเช้าผมไปออกกำลังกาย — After breakfast I go to exercise."
+    },
+    {
+      "id": "story_015_quiz_03",
+      "question_th": "ผมฝึกเขียนอะไร",
+      "question_en": "What do I practise writing?",
+      "hint_en": "ฝึกเขียน means practise writing.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ชื่อเพื่อน",
+          "en": "A friend’s name"
+        },
+        {
+          "id": "b",
+          "th": "รายการอาหาร",
+          "en": "A food order"
+        },
+        {
+          "id": "c",
+          "th": "ประโยคสั้น ๆ",
+          "en": "Short sentences"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_015_sentence_07",
+      "explanation_en": "The story says: ผมฝึกเขียนประโยคสั้น ๆ — I practise writing short sentences."
+    },
+    {
+      "id": "story_015_quiz_04",
+      "question_th": "ก่อนนอนผมทำอะไร",
+      "question_en": "What do I do before bed?",
+      "hint_en": "ก่อนนอน means before bed.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ชงกาแฟ",
+          "en": "Brew coffee"
+        },
+        {
+          "id": "b",
+          "th": "วางแผนสำหรับพรุ่งนี้",
+          "en": "Plan for tomorrow"
+        },
+        {
+          "id": "c",
+          "th": "ไปตลาด",
+          "en": "Go to the market"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_015_sentence_09",
+      "explanation_en": "The story says: ก่อนนอนผมวางแผนสำหรับพรุ่งนี้ — Before bed I make plans for tomorrow."
+    }
+  ],
+  "writing": {
+    "instructions_en": "Translate the prompts into Thai before checking the suggested answers. Other appropriate answers may also be valid.",
+    "prompts": [
+      {
+        "id": "story_015_writing_01",
+        "en": "I do not have to go to work.",
+        "zh-TW": "我不用去上班。",
+        "suggested_answer_th": "ผมไม่ต้องไปทำงาน"
+      },
+      {
+        "id": "story_015_writing_02",
+        "en": "I make breakfast and brew coffee.",
+        "zh-TW": "我做早餐並沖咖啡。",
+        "suggested_answer_th": "ผมทำอาหารเช้าและชงกาแฟ"
+      },
+      {
+        "id": "story_015_writing_03",
+        "en": "I practise writing short sentences.",
+        "zh-TW": "我練習寫短句。",
+        "suggested_answer_th": "ผมฝึกเขียนประโยคสั้น ๆ"
+      }
+    ],
+    "personalization_en": "Write two true sentences about your own routine using these patterns. Change the fictional details as needed.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_015_speaking_01",
+        "instruction_en": "Read the 10 Thai sentences aloud slowly."
+      },
+      {
+        "id": "story_015_speaking_02",
+        "instruction_en": "Read again in meaningful groups."
+      },
+      {
+        "id": "story_015_speaking_03",
+        "instruction_en": "Hide the story and say three sentences about this topic using details from your own life."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ]
+}
