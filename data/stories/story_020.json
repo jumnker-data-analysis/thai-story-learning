@@ -1,0 +1,717 @@
+{
+  "schema_version": 1,
+  "id": "story_020",
+  "level": 4,
+  "topic": "reflecting_on_progress",
+  "title": {
+    "th": "ผมมีความสุข",
+    "en": "I Am Happy",
+    "zh-TW": "我很開心"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_020_sentence_01",
+      "th": "เมื่อก่อนผมมักคิดว่าตัวเองต้องเรียนให้เก่งเร็ว ๆ จึงจะมีความสุข",
+      "en": "I used to think I had to become good at studying quickly before I could be happy.",
+      "zh-TW": "以前我常以為，必須很快學得很好，自己才會快樂。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_020_sentence_02",
+      "th": "ถ้าวันไหนอ่านช้าหรือทำแบบฝึกหัดผิด ผมจะรู้สึกว่าตัวเองไม่ก้าวหน้า",
+      "en": "If I read slowly or got exercises wrong on a day, I would feel I was not progressing.",
+      "zh-TW": "哪天讀得慢或練習做錯，我就覺得自己沒有進步。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_020_sentence_03",
+      "th": "ช่วงนี้ผมทำงานไปด้วยเรียนไปด้วย จึงมีเวลาว่างไม่เท่ากันทุกวัน",
+      "en": "These days I work and study, so I do not have the same amount of free time every day.",
+      "zh-TW": "最近我一邊工作一邊上課，所以每天的空閒時間不一樣。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_020_sentence_04",
+      "th": "บางวันผมอ่านได้เพียงหนึ่งย่อหน้า แต่บางวันก็มีเวลาฝึกเขียนหลายประโยค",
+      "en": "Some days I can read only one paragraph, but on others I have time to practise several sentences.",
+      "zh-TW": "有些日子只能讀一段，但有些日子有時間練寫好幾句。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_020_sentence_05",
+      "th": "ครูแนะนำให้ผมเปรียบเทียบตัวเองกับเมื่อก่อน แทนที่จะเปรียบเทียบกับคนอื่น",
+      "en": "My teacher suggested comparing myself with my past self rather than with other people.",
+      "zh-TW": "老師建議我和以前的自己比較，而不是和別人比。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_020_sentence_06",
+      "th": "ผมจึงกลับไปอ่านข้อความที่เคยรู้สึกว่ายากเมื่อเดือนก่อน",
+      "en": "So I went back to read a text I had found difficult last month.",
+      "zh-TW": "於是我回頭讀上個月曾覺得很難的文章。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_020_sentence_07",
+      "th": "ครั้งนี้ผมเข้าใจเนื้อหาได้มากขึ้น แม้ยังมีคำศัพท์บางคำที่ไม่รู้",
+      "en": "This time I understood more of the content, although there were still some words I did not know.",
+      "zh-TW": "這次我理解了更多內容，雖然還有一些生詞。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_020_sentence_08",
+      "th": "นอกจากนี้ ผมยังกล้าถามคำถามและพูดกับเพื่อนเป็นภาษาไทยมากกว่าเดิม",
+      "en": "In addition, I was more willing than before to ask questions and speak Thai with friends.",
+      "zh-TW": "此外，我也比以前更敢提問和用泰語與朋友交談。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_020_sentence_09",
+      "th": "เย็นวันนั้นผมเดินกลับบ้านช้า ๆ และนึกถึงสิ่งเล็ก ๆ ที่ทำสำเร็จ",
+      "en": "That evening I walked home slowly and thought about small things I had accomplished.",
+      "zh-TW": "那天傍晚，我慢慢走回家，想起自己完成的小事。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_020_sentence_10",
+      "th": "ผมรู้สึกขอบคุณครูและเพื่อนที่ช่วยให้ผมอยากเรียนต่อ",
+      "en": "I felt grateful to my teacher and friends for helping me want to keep learning.",
+      "zh-TW": "我很感謝老師和朋友，讓我想繼續學習。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_020_sentence_11",
+      "th": "สำหรับผม ความสุขไม่ได้หมายถึงการทำทุกอย่างได้ดีตลอดเวลา",
+      "en": "For me, happiness does not mean doing everything well all the time.",
+      "zh-TW": "對我而言，快樂不是一直把每件事都做好。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_020_sentence_12",
+      "th": "แต่หมายถึงการเห็นความก้าวหน้าของตัวเองและยังมีแรงทำสิ่งที่ชอบต่อไป",
+      "en": "Instead, it means seeing my own progress and still having energy to keep doing what I like.",
+      "zh-TW": "而是看見自己的進步，並仍有力氣繼續做喜歡的事。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This is a fictional personal reflection. It gives the narrator’s perspective rather than a rule about how everyone must feel.",
+      "zh-TW": "這是虛構的個人反思，呈現主角的觀點，而不是規定每個人都必須怎麼感受。"
+    },
+    {
+      "en": "The final sentence continues the contrast begun in sentence 11. Read them together.",
+      "zh-TW": "最後一句延續第十一句的對比，需要合起來讀。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_345",
+      "th": "ก้าวหน้า",
+      "en": "progress; move forward",
+      "zh-TW": "進步",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_346",
+      "th": "เพียง",
+      "en": "only; just",
+      "zh-TW": "僅；只",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_347",
+      "th": "ย่อหน้า",
+      "en": "paragraph",
+      "zh-TW": "段落",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_348",
+      "th": "เปรียบเทียบ",
+      "en": "compare",
+      "zh-TW": "比較",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_349",
+      "th": "แทนที่จะ",
+      "en": "instead of doing",
+      "zh-TW": "而不是；代替",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_350",
+      "th": "เนื้อหา",
+      "en": "content",
+      "zh-TW": "內容",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_351",
+      "th": "หมายถึง",
+      "en": "mean; refer to",
+      "zh-TW": "意指",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_352",
+      "th": "เมื่อก่อน",
+      "en": "in the past; previously",
+      "zh-TW": "以前",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_269",
+      "th": "มัก",
+      "en": "often; tend to",
+      "zh-TW": "常常",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_353",
+      "th": "จึงจะ",
+      "en": "only then will",
+      "zh-TW": "才會",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_354",
+      "th": "ถ้าวันไหน",
+      "en": "if on any day",
+      "zh-TW": "如果哪天",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_355",
+      "th": "แบบฝึกหัด",
+      "en": "exercise; practice task",
+      "zh-TW": "練習題",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_356",
+      "th": "ทำงานไปด้วยเรียนไปด้วย",
+      "en": "work and study at the same time",
+      "zh-TW": "一邊工作一邊學習",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_357",
+      "th": "เวลาว่าง",
+      "en": "free time",
+      "zh-TW": "空閒時間",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_358",
+      "th": "ไม่เท่ากัน",
+      "en": "not equal; not the same amount",
+      "zh-TW": "不一樣多",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_359",
+      "th": "บางวัน",
+      "en": "some days",
+      "zh-TW": "有些日子",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_207",
+      "th": "ประโยค",
+      "en": "sentence",
+      "zh-TW": "句子",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_360",
+      "th": "ข้อความ",
+      "en": "text; message",
+      "zh-TW": "文字；訊息",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_361",
+      "th": "เคย",
+      "en": "have done before",
+      "zh-TW": "曾經",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_362",
+      "th": "คำศัพท์",
+      "en": "vocabulary word",
+      "zh-TW": "詞彙",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_363",
+      "th": "นอกจากนี้",
+      "en": "in addition",
+      "zh-TW": "此外",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_364",
+      "th": "มากกว่าเดิม",
+      "en": "more than before",
+      "zh-TW": "比以前更多",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_365",
+      "th": "นึกถึง",
+      "en": "think of",
+      "zh-TW": "想到",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_366",
+      "th": "สิ่งเล็ก ๆ",
+      "en": "small things",
+      "zh-TW": "小事",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_342",
+      "th": "สำเร็จ",
+      "en": "succeed; accomplish",
+      "zh-TW": "成功；完成",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_367",
+      "th": "ขอบคุณ",
+      "en": "thank; be grateful",
+      "zh-TW": "感謝",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_368",
+      "th": "เรียนต่อ",
+      "en": "continue learning (here)",
+      "zh-TW": "此處指繼續學習",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_215",
+      "th": "สำหรับ",
+      "en": "for",
+      "zh-TW": "對……而言",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_075",
+      "th": "ความสุข",
+      "en": "happiness",
+      "zh-TW": "快樂；幸福",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_238",
+      "th": "ตลอดเวลา",
+      "en": "all the time",
+      "zh-TW": "一直",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_369",
+      "th": "ความก้าวหน้า",
+      "en": "progress (noun)",
+      "zh-TW": "進步（名詞）",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_370",
+      "th": "มีแรง",
+      "en": "have energy",
+      "zh-TW": "有力氣",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_371",
+      "th": "ต่อไป",
+      "en": "continue; going forward",
+      "zh-TW": "繼續",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "School-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_020_reading_01",
+        "th": "ทำงานไปด้วยเรียนไปด้วย",
+        "school_reading": "",
+        "note_en": "Read the parallel parts together: work and study at the same time."
+      },
+      {
+        "id": "story_020_reading_02",
+        "th": "ก้าวหน้า / ความก้าวหน้า",
+        "school_reading": "",
+        "note_en": "Compare the verbal description with the noun for progress."
+      },
+      {
+        "id": "story_020_reading_03",
+        "th": "แทนที่จะ",
+        "school_reading": "",
+        "note_en": "Read this connector as a whole group introducing the alternative being replaced."
+      },
+      {
+        "id": "story_020_reading_04",
+        "th": "นอกจากนี้...ยัง...",
+        "school_reading": "",
+        "note_en": "Use a short pause after the connector, then read the additional point."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_020_pattern_01",
+      "name_en": "Describe a condition and feeling",
+      "pattern_th": "ถ้า + situation + subject + จะ + response",
+      "explanation_en": "Connect a possible situation to the response it triggers.",
+      "examples": [
+        {
+          "th": "ถ้าวันไหนอ่านช้าหรือทำแบบฝึกหัดผิด ผมจะรู้สึกว่าตัวเองไม่ก้าวหน้า",
+          "en": "If I read slowly or got exercises wrong on a day, I would feel I was not progressing.",
+          "zh-TW": "哪天讀得慢或練習做錯，我就覺得自己沒有進步。"
+        }
+      ]
+    },
+    {
+      "id": "story_020_pattern_02",
+      "name_en": "Choose a different comparison",
+      "pattern_th": "action + แทนที่จะ + alternative action",
+      "explanation_en": "แทนที่จะ introduces the action being replaced or avoided.",
+      "examples": [
+        {
+          "th": "ครูแนะนำให้ผมเปรียบเทียบตัวเองกับเมื่อก่อน แทนที่จะเปรียบเทียบกับคนอื่น",
+          "en": "My teacher suggested comparing myself with my past self rather than with other people.",
+          "zh-TW": "老師建議我和以前的自己比較，而不是和別人比。"
+        }
+      ]
+    },
+    {
+      "id": "story_020_pattern_03",
+      "name_en": "Add a related point",
+      "pattern_th": "นอกจากนี้ + subject + ยัง + action",
+      "explanation_en": "Use this to add further evidence or another related point.",
+      "examples": [
+        {
+          "th": "นอกจากนี้ ผมยังกล้าถามคำถามและพูดกับเพื่อนเป็นภาษาไทยมากกว่าเดิม",
+          "en": "In addition, I was more willing than before to ask questions and speak Thai with friends.",
+          "zh-TW": "此外，我也比以前更敢提問和用泰語與朋友交談。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_020_quiz_01",
+      "question_th": "ทำไมผมจึงมีเวลาว่างไม่เท่ากันทุกวัน",
+      "question_en": "Why does my free time vary each day?",
+      "hint_en": "Look for the explanation of the current routine.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะทำงานไปด้วยเรียนไปด้วย",
+          "en": "Because I both work and study"
+        },
+        {
+          "id": "b",
+          "th": "เพราะเลิกเรียนแล้ว",
+          "en": "Because I have stopped studying"
+        },
+        {
+          "id": "c",
+          "th": "เพราะไม่อยากเรียนอีก",
+          "en": "Because I no longer want to learn"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_020_sentence_03",
+      "explanation_en": "The story says: ช่วงนี้ผมทำงานไปด้วยเรียนไปด้วย จึงมีเวลาว่างไม่เท่ากันทุกวัน — These days I work and study, so I do not have the same amount of free time every day.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_020_quiz_02",
+      "question_th": "ครูแนะนำให้ผมเปรียบเทียบตัวเองกับใคร",
+      "question_en": "Whom does the teacher suggest I compare myself with?",
+      "hint_en": "Distinguish a past self from other people.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อนที่เก่งที่สุด",
+          "en": "The best student"
+        },
+        {
+          "id": "b",
+          "th": "ตัวเองเมื่อก่อน",
+          "en": "My past self"
+        },
+        {
+          "id": "c",
+          "th": "ครูคนอื่น",
+          "en": "Other teachers"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_020_sentence_05",
+      "explanation_en": "The story says: ครูแนะนำให้ผมเปรียบเทียบตัวเองกับเมื่อก่อน แทนที่จะเปรียบเทียบกับคนอื่น — My teacher suggested comparing myself with my past self rather than with other people.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_020_quiz_03",
+      "question_th": "ข้อใดเป็นหลักฐานว่าผมก้าวหน้าขึ้น",
+      "question_en": "Which is evidence that I have progressed?",
+      "hint_en": "Find evidence in the rereading experience.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ไม่ต้องอ่านอีกเลย",
+          "en": "I never need to read again"
+        },
+        {
+          "id": "b",
+          "th": "รู้คำศัพท์ทุกคำแล้ว",
+          "en": "I know every word now"
+        },
+        {
+          "id": "c",
+          "th": "เข้าใจข้อความเดิมได้มากขึ้น",
+          "en": "I understand more of the same text"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_020_sentence_07",
+      "explanation_en": "The story says: ครั้งนี้ผมเข้าใจเนื้อหาได้มากขึ้น แม้ยังมีคำศัพท์บางคำที่ไม่รู้ — This time I understood more of the content, although there were still some words I did not know.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_020_quiz_04",
+      "question_th": "ตอนจบเรื่อง ความสุขสำหรับผมหมายถึงอะไร",
+      "question_en": "At the end, what does happiness mean to me?",
+      "hint_en": "Combine the final two sentences.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ทำทุกอย่างได้ดีตลอดเวลา",
+          "en": "Doing everything well all the time"
+        },
+        {
+          "id": "b",
+          "th": "เห็นความก้าวหน้าและทำสิ่งที่ชอบต่อไปได้",
+          "en": "Seeing progress and continuing things I like"
+        },
+        {
+          "id": "c",
+          "th": "เรียนให้เร็วกว่าเพื่อนทุกคน",
+          "en": "Learning faster than every friend"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_020_sentence_12",
+      "explanation_en": "Sentence 11 rejects constant perfect performance as the definition of happiness; sentence 12 defines it as seeing progress and continuing enjoyable activities.",
+      "question_type": "reading_comprehension_with_evidence",
+      "evidence_sentence_ids": [
+        "story_020_sentence_11",
+        "story_020_sentence_12"
+      ]
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_020_writing_01",
+        "en": "Explain that you work and study, so your free time varies, using จึง.",
+        "zh-TW": "用結果句說明，你一邊工作一邊學習，所以每天空閒時間不同。",
+        "suggested_answer_th": "ผมทำงานไปด้วยเรียนไปด้วย จึงมีเวลาว่างไม่เท่ากันทุกวัน"
+      },
+      {
+        "id": "story_020_writing_02",
+        "en": "Say you compare yourself with your past self instead of other people.",
+        "zh-TW": "說明你和以前的自己比較，而不是和別人比較。",
+        "suggested_answer_th": "ผมเปรียบเทียบตัวเองกับเมื่อก่อน แทนที่จะเปรียบเทียบกับคนอื่น"
+      },
+      {
+        "id": "story_020_writing_03",
+        "en": "Add a second sign of progress using นอกจากนี้...ยัง... .",
+        "zh-TW": "用補充句再說明一項進步。",
+        "suggested_answer_th": "นอกจากนี้ ผมยังกล้าพูดภาษาไทยกับเพื่อนมากกว่าเดิม"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_020_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_020_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_020_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original content calibrated to connected paragraphs, subordinate clauses, reasons, contrasts and conditions; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_020_sentence_01",
+      "story_020_sentence_02",
+      "story_020_sentence_03",
+      "story_020_sentence_04"
+    ],
+    [
+      "story_020_sentence_05",
+      "story_020_sentence_06",
+      "story_020_sentence_07",
+      "story_020_sentence_08"
+    ],
+    [
+      "story_020_sentence_09",
+      "story_020_sentence_10",
+      "story_020_sentence_11",
+      "story_020_sentence_12"
+    ]
+  ]
+}

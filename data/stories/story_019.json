@@ -1,0 +1,690 @@
+{
+  "schema_version": 1,
+  "id": "story_019",
+  "level": 4,
+  "topic": "communicating_with_limited_thai",
+  "title": {
+    "th": "ผมพูดภาษาไทยนิดหน่อย",
+    "en": "I Speak a Little Thai",
+    "zh-TW": "我會說一點泰語"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_019_sentence_01",
+      "th": "เช้าวันหนึ่ง ผมต้องโทรไปที่ร้านเพื่อถามเรื่องเวลาจองโต๊ะ",
+      "en": "One morning I had to call a restaurant to ask about booking a table.",
+      "zh-TW": "某天早上，我得打電話到餐廳詢問訂位時間。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_019_sentence_02",
+      "th": "แม้จะอ่านเมนูภาษาไทยได้บ้าง แต่ผมยังไม่มั่นใจเวลาคุยโทรศัพท์",
+      "en": "Although I could read some Thai menus, I still lacked confidence on the phone.",
+      "zh-TW": "雖然能看懂一些泰語菜單，但講電話時我仍沒信心。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_019_sentence_03",
+      "th": "ก่อนโทร ผมจดคำถามที่ต้องการถามและเตรียมปากกาไว้ข้างตัว",
+      "en": "Before calling I wrote down my questions and put a pen beside me.",
+      "zh-TW": "打電話前，我先記下想問的問題，並在身旁準備一支筆。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_019_sentence_04",
+      "th": "เมื่อพนักงานรับสาย ผมบอกว่าพูดภาษาไทยได้นิดหน่อยและขอให้พูดช้าลง",
+      "en": "When the staff member answered, I said I spoke a little Thai and asked them to speak more slowly.",
+      "zh-TW": "對方接聽後，我說自己只會一點泰語，並請他說慢一點。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_019_sentence_05",
+      "th": "ตอนแรกผมฟังเวลาไม่ทัน จึงขอให้พนักงานพูดอีกครั้ง",
+      "en": "At first I could not catch the time, so I asked the staff member to repeat it.",
+      "zh-TW": "起初我來不及聽清楚時間，因此請對方再說一次。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_019_sentence_06",
+      "th": "เขาถามว่าผมต้องการจองวันไหนและมากี่คน",
+      "en": "They asked which day I wanted to book and how many people were coming.",
+      "zh-TW": "對方問我要訂哪天，以及有幾位。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_019_sentence_07",
+      "th": "ผมตอบว่าอยากจองวันเสาร์ตอนหกโมงเย็นสำหรับสามคน",
+      "en": "I replied that I wanted a table for three on Saturday at six in the evening.",
+      "zh-TW": "我回答想訂星期六晚上六點，三位。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_019_sentence_08",
+      "th": "พนักงานบอกว่าเวลานั้นโต๊ะเต็ม แต่ยังมีโต๊ะว่างตอนหกโมงครึ่ง",
+      "en": "The staff member said the tables were full then, but one was still available at half past six.",
+      "zh-TW": "對方說那個時間客滿，但六點半還有空桌。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_019_sentence_09",
+      "th": "ผมจึงเปลี่ยนเวลาและทวนรายละเอียดเพื่อให้แน่ใจว่าเข้าใจตรงกัน",
+      "en": "So I changed the time and repeated the details to make sure we understood each other.",
+      "zh-TW": "因此我改了時間，並複述細節，確認雙方理解一致。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_019_sentence_10",
+      "th": "หลังวางสาย ผมส่งข้อความบอกเพื่อนว่าเราจองโต๊ะได้แล้ว",
+      "en": "After hanging up, I messaged my friends that we had booked a table.",
+      "zh-TW": "掛電話後，我傳訊息告訴朋友已經訂好位。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_019_sentence_11",
+      "th": "ผมยังพูดผิดอยู่บ้าง แต่ครั้งนี้ผมแก้ปัญหาได้โดยไม่ต้องเปลี่ยนไปใช้ภาษาอังกฤษ",
+      "en": "I still made some mistakes, but this time I solved the problem without switching to English.",
+      "zh-TW": "我還是說錯了一些，但這次不用改說英語也解決了問題。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_019_sentence_12",
+      "th": "ผมเริ่มเข้าใจว่าการสื่อสารสำเร็จไม่จำเป็นต้องพูดได้สมบูรณ์แบบ",
+      "en": "I began to understand that successful communication does not require perfect speech.",
+      "zh-TW": "我開始明白，成功溝通不一定要說得完美。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "This fictional reservation moves from a requested 18:00 to an available 18:30 for three people. The final time follows sentences 8 and 9 together.",
+      "zh-TW": "虛構訂位由原本希望的十八點改為有空位的十八點三十分，三位；最終時間要結合第八、九句理解。"
+    },
+    {
+      "en": "The final lesson point is communication and repair strategies, not speaking without mistakes.",
+      "zh-TW": "本課重點是溝通與補救策略，而不是完全不犯錯。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_317",
+      "th": "จอง",
+      "en": "reserve; book",
+      "zh-TW": "預訂",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_318",
+      "th": "มั่นใจ",
+      "en": "confident; sure",
+      "zh-TW": "有信心",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_319",
+      "th": "รับสาย",
+      "en": "answer the phone",
+      "zh-TW": "接電話",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_320",
+      "th": "ไม่ทัน",
+      "en": "unable to keep up; not in time",
+      "zh-TW": "來不及；跟不上",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_321",
+      "th": "รายละเอียด",
+      "en": "details",
+      "zh-TW": "細節",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_322",
+      "th": "แน่ใจ",
+      "en": "be sure",
+      "zh-TW": "確定",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_323",
+      "th": "แก้ปัญหา",
+      "en": "solve a problem",
+      "zh-TW": "解決問題",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_324",
+      "th": "โทร",
+      "en": "call by phone",
+      "zh-TW": "打電話",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_325",
+      "th": "คำถาม",
+      "en": "question",
+      "zh-TW": "問題",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_326",
+      "th": "ต้องการ",
+      "en": "want; need",
+      "zh-TW": "需要；想要",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_327",
+      "th": "ปากกา",
+      "en": "pen",
+      "zh-TW": "筆",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_328",
+      "th": "นิดหน่อย",
+      "en": "a little",
+      "zh-TW": "一點",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_329",
+      "th": "ช้าลง",
+      "en": "more slowly",
+      "zh-TW": "慢一點",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_330",
+      "th": "อีกครั้ง",
+      "en": "again; once more",
+      "zh-TW": "再一次",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_331",
+      "th": "วันเสาร์",
+      "en": "Saturday",
+      "zh-TW": "星期六",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_332",
+      "th": "หกโมงเย็น",
+      "en": "six in the evening",
+      "zh-TW": "晚上六點",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_333",
+      "th": "สำหรับสามคน",
+      "en": "for three people",
+      "zh-TW": "三位",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_334",
+      "th": "เต็ม",
+      "en": "full",
+      "zh-TW": "滿",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_335",
+      "th": "ว่าง",
+      "en": "available; empty",
+      "zh-TW": "空的；有空",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_336",
+      "th": "หกโมงครึ่ง",
+      "en": "half past six (evening in context)",
+      "zh-TW": "此處指晚上六點半",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_114",
+      "th": "ทวน",
+      "en": "repeat; check again",
+      "zh-TW": "複述；核對",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_337",
+      "th": "เข้าใจตรงกัน",
+      "en": "have the same understanding",
+      "zh-TW": "理解一致",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_338",
+      "th": "วางสาย",
+      "en": "hang up the phone",
+      "zh-TW": "掛電話",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_339",
+      "th": "ส่งข้อความ",
+      "en": "send a message",
+      "zh-TW": "傳訊息",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_340",
+      "th": "ครั้งนี้",
+      "en": "this time",
+      "zh-TW": "這次",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_237",
+      "th": "โดยไม่ต้อง",
+      "en": "without having to",
+      "zh-TW": "不必……就……",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_341",
+      "th": "การสื่อสาร",
+      "en": "communication",
+      "zh-TW": "溝通",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_342",
+      "th": "สำเร็จ",
+      "en": "succeed; successful",
+      "zh-TW": "成功",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_343",
+      "th": "ไม่จำเป็นต้อง",
+      "en": "not necessary to",
+      "zh-TW": "不必",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_344",
+      "th": "สมบูรณ์แบบ",
+      "en": "perfect",
+      "zh-TW": "完美",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "School-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_019_reading_01",
+        "th": "รับสาย / วางสาย",
+        "school_reading": "",
+        "note_en": "Compare answering and hanging up a phone call."
+      },
+      {
+        "id": "story_019_reading_02",
+        "th": "ฟังไม่ทัน",
+        "school_reading": "",
+        "note_en": "Read as a group meaning cannot catch or keep up with what is said."
+      },
+      {
+        "id": "story_019_reading_03",
+        "th": "หกโมงเย็น / หกโมงครึ่ง",
+        "school_reading": "",
+        "note_en": "In this story these refer to 18:00 and 18:30; track the changed booking time."
+      },
+      {
+        "id": "story_019_reading_04",
+        "th": "เข้าใจตรงกัน",
+        "school_reading": "",
+        "note_en": "Recognize the group as have the same understanding."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_019_pattern_01",
+      "name_en": "Request a slower pace",
+      "pattern_th": "ขอให้ + person + พูดช้าลง",
+      "explanation_en": "ลง here expresses a decrease in speaking speed.",
+      "examples": [
+        {
+          "th": "เมื่อพนักงานรับสาย ผมบอกว่าพูดภาษาไทยได้นิดหน่อยและขอให้พูดช้าลง",
+          "en": "When the staff member answered, I said I spoke a little Thai and asked them to speak more slowly.",
+          "zh-TW": "對方接聽後，我說自己只會一點泰語，並請他說慢一點。"
+        }
+      ]
+    },
+    {
+      "id": "story_019_pattern_02",
+      "name_en": "Explain difficulty and a response",
+      "pattern_th": "problem + จึง + response",
+      "explanation_en": "จึง introduces what you do because of the difficulty.",
+      "examples": [
+        {
+          "th": "ตอนแรกผมฟังเวลาไม่ทัน จึงขอให้พนักงานพูดอีกครั้ง",
+          "en": "At first I could not catch the time, so I asked the staff member to repeat it.",
+          "zh-TW": "起初我來不及聽清楚時間，因此請對方再說一次。"
+        }
+      ]
+    },
+    {
+      "id": "story_019_pattern_03",
+      "name_en": "Confirm for a purpose",
+      "pattern_th": "action + เพื่อให้แน่ใจว่า + clause",
+      "explanation_en": "Use this to explain a check made to ensure understanding.",
+      "examples": [
+        {
+          "th": "ผมจึงเปลี่ยนเวลาและทวนรายละเอียดเพื่อให้แน่ใจว่าเข้าใจตรงกัน",
+          "en": "So I changed the time and repeated the details to make sure we understood each other.",
+          "zh-TW": "因此我改了時間，並複述細節，確認雙方理解一致。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_019_quiz_01",
+      "question_th": "ก่อนโทร ผมเตรียมตัวอย่างไร",
+      "question_en": "How do I prepare before calling?",
+      "hint_en": "เตรียมตัว means prepare oneself.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "จดคำถามและเตรียมปากกา",
+          "en": "Write questions and prepare a pen"
+        },
+        {
+          "id": "b",
+          "th": "ให้เพื่อนโทรแทน",
+          "en": "Ask a friend to call instead"
+        },
+        {
+          "id": "c",
+          "th": "ไปที่ร้านก่อน",
+          "en": "Go to the restaurant first"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_019_sentence_03",
+      "explanation_en": "The story says: ก่อนโทร ผมจดคำถามที่ต้องการถามและเตรียมปากกาไว้ข้างตัว — Before calling I wrote down my questions and put a pen beside me.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_019_quiz_02",
+      "question_th": "ทำไมผมจึงขอให้พนักงานพูดอีกครั้ง",
+      "question_en": "Why do I ask the staff member to repeat?",
+      "hint_en": "ฟังไม่ทัน means cannot catch what is said.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะอยากยกเลิกการจอง",
+          "en": "Because I want to cancel"
+        },
+        {
+          "id": "b",
+          "th": "เพราะฟังเวลาไม่ทัน",
+          "en": "Because I cannot catch the time"
+        },
+        {
+          "id": "c",
+          "th": "เพราะไม่มีโทรศัพท์",
+          "en": "Because I have no phone"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_019_sentence_05",
+      "explanation_en": "The story says: ตอนแรกผมฟังเวลาไม่ทัน จึงขอให้พนักงานพูดอีกครั้ง — At first I could not catch the time, so I asked the staff member to repeat it.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_019_quiz_03",
+      "question_th": "เวลาที่ผมตกลงจองในที่สุดคือเวลาใด",
+      "question_en": "What time do I finally agree to book?",
+      "hint_en": "Connect the requested time with the offered alternative.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "หกโมงเย็น",
+          "en": "Six in the evening"
+        },
+        {
+          "id": "b",
+          "th": "สิบโมงเช้า",
+          "en": "Ten in the morning"
+        },
+        {
+          "id": "c",
+          "th": "หกโมงครึ่งตอนเย็น",
+          "en": "Half past six in the evening"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_019_sentence_08",
+      "explanation_en": "Sentence 8 offers 18:30 because 18:00 is full; sentence 9 says the narrator changes the time. The agreed time is therefore 18:30.",
+      "question_type": "reading_comprehension_with_evidence",
+      "evidence_sentence_ids": [
+        "story_019_sentence_08",
+        "story_019_sentence_09"
+      ]
+    },
+    {
+      "id": "story_019_quiz_04",
+      "question_th": "ทำไมผมจึงทวนรายละเอียด",
+      "question_en": "Why do I repeat the details?",
+      "hint_en": "Look for เพื่อให้.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อเปลี่ยนไปใช้ภาษาอังกฤษ",
+          "en": "To switch to English"
+        },
+        {
+          "id": "b",
+          "th": "เพื่อให้แน่ใจว่าเข้าใจตรงกัน",
+          "en": "To make sure we understand each other"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อสอนพนักงาน",
+          "en": "To teach the staff member"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_019_sentence_09",
+      "explanation_en": "The story says: ผมจึงเปลี่ยนเวลาและทวนรายละเอียดเพื่อให้แน่ใจว่าเข้าใจตรงกัน — So I changed the time and repeated the details to make sure we understood each other.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_019_writing_01",
+        "en": "Say you speak a little Thai and ask the other person to speak more slowly.",
+        "zh-TW": "說明自己只會一點泰語，並請對方說慢些。",
+        "suggested_answer_th": "ผมพูดภาษาไทยได้นิดหน่อย ขอให้พูดช้าลงหน่อยครับ"
+      },
+      {
+        "id": "story_019_writing_02",
+        "en": "Explain that you could not catch the time, so you asked for repetition.",
+        "zh-TW": "說明你沒聽清楚時間，因此請對方再說一次。",
+        "suggested_answer_th": "ผมฟังเวลาไม่ทัน จึงขอให้พนักงานพูดอีกครั้ง"
+      },
+      {
+        "id": "story_019_writing_03",
+        "en": "Write a purpose sentence explaining why you repeat reservation details.",
+        "zh-TW": "用目的句解釋，為什麼要複述訂位細節。",
+        "suggested_answer_th": "ผมทวนรายละเอียดเพื่อให้แน่ใจว่าเข้าใจตรงกัน"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_019_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_019_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_019_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original content calibrated to connected paragraphs, subordinate clauses, reasons, contrasts and conditions; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_019_sentence_01",
+      "story_019_sentence_02",
+      "story_019_sentence_03",
+      "story_019_sentence_04"
+    ],
+    [
+      "story_019_sentence_05",
+      "story_019_sentence_06",
+      "story_019_sentence_07",
+      "story_019_sentence_08"
+    ],
+    [
+      "story_019_sentence_09",
+      "story_019_sentence_10",
+      "story_019_sentence_11",
+      "story_019_sentence_12"
+    ]
+  ]
+}

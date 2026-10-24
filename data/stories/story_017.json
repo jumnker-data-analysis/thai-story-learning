@@ -1,0 +1,722 @@
+{
+  "schema_version": 1,
+  "id": "story_017",
+  "level": 4,
+  "topic": "introductions_and_names",
+  "title": {
+    "th": "คุณชื่ออะไร",
+    "en": "What’s Your Name?",
+    "zh-TW": "你叫什麼名字？"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_017_sentence_01",
+      "th": "เมื่อผมเข้าร่วมกิจกรรมฝึกสนทนา เจ้าหน้าที่ขอให้ทุกคนเขียนชื่อบนป้าย",
+      "en": "When I joined a conversation practice activity, a staff member asked everyone to write their name on a label.",
+      "zh-TW": "我參加會話練習活動時，工作人員請大家把名字寫在名牌上。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_017_sentence_02",
+      "th": "ผมเขียนชื่อจริงของตัวเอง แต่เพื่อนชาวไทยหลายคนเขียนชื่อเล่น",
+      "en": "I wrote my own given name, but many Thai participants wrote their nicknames.",
+      "zh-TW": "我寫下自己的本名，但許多泰國同學寫的是暱稱。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_017_sentence_03",
+      "th": "ผู้หญิงที่นั่งข้างผมหันมาถามว่า “คุณชื่ออะไรคะ”",
+      "en": "The woman sitting beside me turned and asked, “What is your name?”",
+      "zh-TW": "坐在我旁邊的女生轉過來問：「你叫什麼名字？」",
+      "paragraph": 1
+    },
+    {
+      "id": "story_017_sentence_04",
+      "th": "ผมบอกชื่อแล้วถามกลับว่าเธอชื่ออะไร",
+      "en": "I told her my name and asked what hers was.",
+      "zh-TW": "我告訴她名字，再反問她叫什麼。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_017_sentence_05",
+      "th": "เธอบอกว่าชื่อจริงค่อนข้างยาว จึงอยากให้ผมเรียกเธอว่า “ฝน”",
+      "en": "She said her given name was rather long, so she wanted me to call her Fon.",
+      "zh-TW": "她說自己的本名比較長，所以希望我叫她 Fon。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_017_sentence_06",
+      "th": "ผมเคยได้ยินว่าคนไทยมักใช้ชื่อเล่นในชีวิตประจำวัน แต่ยังไม่ค่อยเข้าใจว่าใช้เมื่อไร",
+      "en": "I had heard that Thai people often use nicknames in daily life, but I did not really understand when to use them.",
+      "zh-TW": "我曾聽說泰國人日常常用暱稱，但還不太理解什麼時候使用。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_017_sentence_07",
+      "th": "ฝนอธิบายว่าเพื่อนและคนในครอบครัวมักเรียกชื่อเล่น ส่วนเอกสารทางการใช้ชื่อจริง",
+      "en": "Fon explained that friends and family often use nicknames, whereas official documents use given names.",
+      "zh-TW": "Fon 解釋朋友和家人常叫暱稱，而正式文件使用本名。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_017_sentence_08",
+      "th": "เมื่อผมออกเสียงชื่อเธอไม่ชัด เธอก็พูดซ้ำช้า ๆ โดยไม่หัวเราะ",
+      "en": "When I did not pronounce her name clearly, she repeated it slowly without laughing.",
+      "zh-TW": "我把她的名字念得不清楚時，她沒有笑，而是慢慢再說一次。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_017_sentence_09",
+      "th": "ผมจึงขอให้เธอช่วยตรวจว่าผมเขียนชื่อของเธอถูกหรือไม่",
+      "en": "So I asked her to check whether I had written her name correctly.",
+      "zh-TW": "因此我請她幫忙確認，她的名字我是否寫對了。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_017_sentence_10",
+      "th": "หลังจากนั้น ฝนแนะนำผมให้รู้จักเพื่อนอีกสองคน",
+      "en": "After that, Fon introduced me to two other participants.",
+      "zh-TW": "之後，Fon 又介紹我認識另外兩位同學。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_017_sentence_11",
+      "th": "ก่อนแยกกัน ผมลองเรียกชื่อทุกคนอีกครั้งเพื่อให้จำได้",
+      "en": "Before we parted, I tried saying everyone’s name again so that I could remember them.",
+      "zh-TW": "分開前，我試著再叫一次每個人的名字，好讓自己記住。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_017_sentence_12",
+      "th": "แม้จะจำชื่อไม่ได้ทั้งหมด แต่ผมก็ได้เริ่มคุยกับคนใหม่ ๆ ด้วยตัวเอง",
+      "en": "Although I could not remember every name, I had started talking to new people on my own.",
+      "zh-TW": "雖然無法記住所有名字，但我已經能主動和新認識的人聊天了。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Fon and the event are fictional. Naming choices vary by person and situation; the lesson reports her explanation rather than a rule for everyone.",
+      "zh-TW": "Fon 與活動為虛構；稱呼習慣因人與場合而異，本課呈現她的說明，不把它當作人人適用的規則。"
+    },
+    {
+      "en": "คะ is used in Fon’s quoted question. Keep it distinct from ค่ะ used in many statements or responses.",
+      "zh-TW": "Fon 的問句使用疑問語尾，須與常見於陳述及回應的另一語尾區分。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_251",
+      "th": "เข้าร่วม",
+      "en": "join; participate in",
+      "zh-TW": "參加",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_252",
+      "th": "เจ้าหน้าที่",
+      "en": "staff member",
+      "zh-TW": "工作人員",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_253",
+      "th": "ชื่อจริง",
+      "en": "given name; real name",
+      "zh-TW": "本名",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_254",
+      "th": "ชื่อเล่น",
+      "en": "nickname",
+      "zh-TW": "暱稱",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_255",
+      "th": "ค่อนข้าง",
+      "en": "rather; fairly",
+      "zh-TW": "比較；相當",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_256",
+      "th": "แนะนำ",
+      "en": "introduce; recommend",
+      "zh-TW": "介紹；建議",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_257",
+      "th": "จำ",
+      "en": "remember",
+      "zh-TW": "記住",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_258",
+      "th": "กิจกรรม",
+      "en": "activity",
+      "zh-TW": "活動",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_259",
+      "th": "สนทนา",
+      "en": "converse; conversation",
+      "zh-TW": "會話；交談",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_260",
+      "th": "ขอให้",
+      "en": "ask someone to",
+      "zh-TW": "請求……做……",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_261",
+      "th": "ป้าย",
+      "en": "label; sign; name tag here",
+      "zh-TW": "標籤；此處指名牌",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_262",
+      "th": "ตัวเอง",
+      "en": "oneself",
+      "zh-TW": "自己",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_263",
+      "th": "ชาวไทย",
+      "en": "Thai people",
+      "zh-TW": "泰國人",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_264",
+      "th": "หันมา",
+      "en": "turn toward",
+      "zh-TW": "轉過來",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_265",
+      "th": "ถามกลับ",
+      "en": "ask in return",
+      "zh-TW": "反問",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_266",
+      "th": "เธอ",
+      "en": "she; her",
+      "zh-TW": "她",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_267",
+      "th": "เรียก...ว่า...",
+      "en": "call someone...",
+      "zh-TW": "稱呼……為……",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_268",
+      "th": "เคยได้ยิน",
+      "en": "have heard before",
+      "zh-TW": "曾聽說",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_269",
+      "th": "มัก",
+      "en": "often; tend to",
+      "zh-TW": "常常",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_270",
+      "th": "ชีวิตประจำวัน",
+      "en": "daily life",
+      "zh-TW": "日常生活",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_271",
+      "th": "ไม่ค่อย",
+      "en": "not very; not often",
+      "zh-TW": "不太",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_272",
+      "th": "เอกสารทางการ",
+      "en": "official documents",
+      "zh-TW": "正式文件",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_273",
+      "th": "ออกเสียง",
+      "en": "pronounce",
+      "zh-TW": "發音",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_274",
+      "th": "ชัด",
+      "en": "clear",
+      "zh-TW": "清楚",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_275",
+      "th": "ซ้ำ",
+      "en": "again; repeat",
+      "zh-TW": "重複",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_276",
+      "th": "โดยไม่",
+      "en": "without doing",
+      "zh-TW": "沒有……就……",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_277",
+      "th": "หัวเราะ",
+      "en": "laugh",
+      "zh-TW": "笑",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_278",
+      "th": "ตรวจ",
+      "en": "check",
+      "zh-TW": "檢查",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_279",
+      "th": "ถูกหรือไม่",
+      "en": "whether correct",
+      "zh-TW": "是否正確",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_280",
+      "th": "หลังจากนั้น",
+      "en": "after that",
+      "zh-TW": "之後",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_281",
+      "th": "แยกกัน",
+      "en": "part; go separate ways",
+      "zh-TW": "分開",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_282",
+      "th": "เพื่อให้",
+      "en": "so that",
+      "zh-TW": "為了讓",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_283",
+      "th": "ทั้งหมด",
+      "en": "all; everything",
+      "zh-TW": "全部",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_284",
+      "th": "ด้วยตัวเอง",
+      "en": "on one’s own",
+      "zh-TW": "靠自己",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "School-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_017_reading_01",
+        "th": "ชื่อจริง / ชื่อเล่น",
+        "school_reading": "",
+        "note_en": "Compare the full compounds: given name and nickname."
+      },
+      {
+        "id": "story_017_reading_02",
+        "th": "ขอให้...ช่วยตรวจ",
+        "school_reading": "",
+        "note_en": "Read this as a request for help checking something."
+      },
+      {
+        "id": "story_017_reading_03",
+        "th": "ออกเสียงไม่ชัด",
+        "school_reading": "",
+        "note_en": "Recognize the group as pronounce unclearly; do not guess a school transcription."
+      },
+      {
+        "id": "story_017_reading_04",
+        "th": "เพื่อให้จำได้",
+        "school_reading": "",
+        "note_en": "Read as a purpose group: so that one can remember."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_017_pattern_01",
+      "name_en": "Ask someone to do something",
+      "pattern_th": "subject + ขอให้ + person + action",
+      "explanation_en": "ขอให้ introduces a request directed to someone.",
+      "examples": [
+        {
+          "th": "เมื่อผมเข้าร่วมกิจกรรมฝึกสนทนา เจ้าหน้าที่ขอให้ทุกคนเขียนชื่อบนป้าย",
+          "en": "When I joined a conversation practice activity, a staff member asked everyone to write their name on a label.",
+          "zh-TW": "我參加會話練習活動時，工作人員請大家把名字寫在名牌上。"
+        }
+      ]
+    },
+    {
+      "id": "story_017_pattern_02",
+      "name_en": "Say what to call someone",
+      "pattern_th": "เรียก + person + ว่า + name",
+      "explanation_en": "Use this pattern for a requested name or nickname.",
+      "examples": [
+        {
+          "th": "เธอบอกว่าชื่อจริงค่อนข้างยาว จึงอยากให้ผมเรียกเธอว่า “ฝน”",
+          "en": "She said her given name was rather long, so she wanted me to call her Fon.",
+          "zh-TW": "她說自己的本名比較長，所以希望我叫她 Fon。"
+        }
+      ]
+    },
+    {
+      "id": "story_017_pattern_03",
+      "name_en": "Explain a purpose",
+      "pattern_th": "action + เพื่อให้ + intended result",
+      "explanation_en": "เพื่อให้ explains the purpose of an action.",
+      "examples": [
+        {
+          "th": "ก่อนแยกกัน ผมลองเรียกชื่อทุกคนอีกครั้งเพื่อให้จำได้",
+          "en": "Before we parted, I tried saying everyone’s name again so that I could remember them.",
+          "zh-TW": "分開前，我試著再叫一次每個人的名字，好讓自己記住。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_017_quiz_01",
+      "question_th": "ทำไมฝนจึงอยากให้เรียกชื่อเล่น",
+      "question_en": "Why does Fon want to be called by her nickname?",
+      "hint_en": "Find the reason before จึง.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะชื่อจริงค่อนข้างยาว",
+          "en": "Because her given name is rather long"
+        },
+        {
+          "id": "b",
+          "th": "เพราะจำชื่อจริงไม่ได้",
+          "en": "Because she cannot remember her given name"
+        },
+        {
+          "id": "c",
+          "th": "เพราะเจ้าหน้าที่ห้ามใช้ชื่อจริง",
+          "en": "Because staff forbid given names"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_017_sentence_05",
+      "explanation_en": "The story says: เธอบอกว่าชื่อจริงค่อนข้างยาว จึงอยากให้ผมเรียกเธอว่า “ฝน” — She said her given name was rather long, so she wanted me to call her Fon.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_017_quiz_02",
+      "question_th": "ฝนทำอย่างไรเมื่อผมออกเสียงชื่อไม่ชัด",
+      "question_en": "What does Fon do when I pronounce her name unclearly?",
+      "hint_en": "Pay attention to her response.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "หัวเราะแล้วเดินไป",
+          "en": "Laugh and walk away"
+        },
+        {
+          "id": "b",
+          "th": "พูดซ้ำช้า ๆ",
+          "en": "Repeat it slowly"
+        },
+        {
+          "id": "c",
+          "th": "ไม่พูดกับผมอีก",
+          "en": "Stop talking to me"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_017_sentence_08",
+      "explanation_en": "The story says: เมื่อผมออกเสียงชื่อเธอไม่ชัด เธอก็พูดซ้ำช้า ๆ โดยไม่หัวเราะ — When I did not pronounce her name clearly, she repeated it slowly without laughing.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_017_quiz_03",
+      "question_th": "ทำไมผมจึงลองเรียกชื่อทุกคนอีกครั้ง",
+      "question_en": "Why do I try saying everyone’s name again?",
+      "hint_en": "เพื่อให้ introduces the purpose.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อเปลี่ยนชื่อของทุกคน",
+          "en": "To change everyone’s names"
+        },
+        {
+          "id": "b",
+          "th": "เพื่อเขียนเอกสารทางการ",
+          "en": "To write official documents"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อให้จำชื่อได้",
+          "en": "So I can remember their names"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_017_sentence_11",
+      "explanation_en": "The story says: ก่อนแยกกัน ผมลองเรียกชื่อทุกคนอีกครั้งเพื่อให้จำได้ — Before we parted, I tried saying everyone’s name again so that I could remember them.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_017_quiz_04",
+      "question_th": "ข้อใดตรงกับประสบการณ์ของผมตอนจบเรื่อง",
+      "question_en": "Which matches my experience at the end?",
+      "hint_en": "Distinguish partial difficulty from failure.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "จำได้ทุกชื่อและไม่ต้องฝึกอีก",
+          "en": "I remember every name and need no more practice"
+        },
+        {
+          "id": "b",
+          "th": "ยังจำไม่หมดแต่เริ่มคุยด้วยตัวเองได้",
+          "en": "I do not remember all names but can begin conversations myself"
+        },
+        {
+          "id": "c",
+          "th": "ไม่ได้คุยกับใครเลย",
+          "en": "I do not talk to anyone"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_017_sentence_12",
+      "explanation_en": "The story says: แม้จะจำชื่อไม่ได้ทั้งหมด แต่ผมก็ได้เริ่มคุยกับคนใหม่ ๆ ด้วยตัวเอง — Although I could not remember every name, I had started talking to new people on my own.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_017_writing_01",
+        "en": "Ask someone to check whether you wrote their name correctly.",
+        "zh-TW": "請別人檢查，你是否寫對了對方的名字。",
+        "suggested_answer_th": "ผมขอให้คุณช่วยตรวจว่าผมเขียนชื่อถูกหรือไม่"
+      },
+      {
+        "id": "story_017_writing_02",
+        "en": "Explain that you repeat names so that you can remember them, using เพื่อให้.",
+        "zh-TW": "用目的句說明，你重複叫名字是為了記住。",
+        "suggested_answer_th": "ผมลองเรียกชื่อทุกคนอีกครั้งเพื่อให้จำได้"
+      },
+      {
+        "id": "story_017_writing_03",
+        "en": "Write a sentence about not remembering all names but still starting a conversation.",
+        "zh-TW": "寫一句話：雖然沒有記住所有名字，但仍開始交談。",
+        "suggested_answer_th": "แม้จะจำชื่อไม่ได้ทั้งหมด แต่ผมก็เริ่มคุยกับเพื่อนใหม่ได้"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_017_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_017_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_017_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original content calibrated to connected paragraphs, subordinate clauses, reasons, contrasts and conditions; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_017_sentence_01",
+      "story_017_sentence_02",
+      "story_017_sentence_03",
+      "story_017_sentence_04"
+    ],
+    [
+      "story_017_sentence_05",
+      "story_017_sentence_06",
+      "story_017_sentence_07",
+      "story_017_sentence_08"
+    ],
+    [
+      "story_017_sentence_09",
+      "story_017_sentence_10",
+      "story_017_sentence_11",
+      "story_017_sentence_12"
+    ]
+  ]
+}

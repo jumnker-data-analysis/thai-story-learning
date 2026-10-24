@@ -1,0 +1,722 @@
+{
+  "schema_version": 1,
+  "id": "story_016",
+  "level": 4,
+  "topic": "making_friends",
+  "title": {
+    "th": "เพื่อนใหม่ของผม",
+    "en": "My New Friend",
+    "zh-TW": "我的新朋友"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_016_sentence_01",
+      "th": "เมื่อสัปดาห์ก่อน ผมได้รู้จักเพื่อนใหม่ชื่อเคนที่โรงเรียนภาษาไทย",
+      "en": "Last week I met a new friend named Ken at Thai language school.",
+      "zh-TW": "上週我在泰語學校認識了一位叫 Ken 的新朋友。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_016_sentence_02",
+      "th": "เคนมาจากญี่ปุ่นและเพิ่งย้ายมาอยู่กรุงเทพฯเมื่อเดือนก่อน",
+      "en": "Ken is from Japan and moved to Bangkok just last month.",
+      "zh-TW": "Ken 來自日本，上個月才搬來曼谷。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_016_sentence_03",
+      "th": "แม้ว่าเราจะมาจากคนละประเทศ แต่เรามีความสนใจคล้ายกัน",
+      "en": "Although we come from different countries, we have similar interests.",
+      "zh-TW": "雖然我們來自不同國家，但我們的興趣很相似。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_016_sentence_04",
+      "th": "เขาชอบทำอาหาร ส่วนผมชอบชงกาแฟและเรียนรู้เรื่องอาหาร",
+      "en": "He likes cooking, while I like brewing coffee and learning about food.",
+      "zh-TW": "他喜歡做飯，而我喜歡沖咖啡及學習與食物有關的事。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_016_sentence_05",
+      "th": "ในช่วงพัก ผมถามเขาว่าทำไมถึงอยากเรียนภาษาไทย",
+      "en": "During the break I asked him why he wanted to learn Thai.",
+      "zh-TW": "休息時，我問他為什麼想學泰語。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_016_sentence_06",
+      "th": "เขาบอกว่าอยากคุยกับเพื่อนร่วมงานคนไทยได้โดยไม่ต้องใช้ภาษาอังกฤษตลอดเวลา",
+      "en": "He said he wanted to talk with Thai coworkers without having to use English all the time.",
+      "zh-TW": "他說想和泰國同事聊天，不必一直使用英語。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_016_sentence_07",
+      "th": "ตอนแรกผมพูดช้าเพราะกลัวว่าจะใช้คำผิด",
+      "en": "At first I spoke slowly because I was afraid of using the wrong words.",
+      "zh-TW": "一開始我說得很慢，因為怕用錯詞。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_016_sentence_08",
+      "th": "อย่างไรก็ตาม เคนตั้งใจฟังและถามเมื่อไม่เข้าใจ",
+      "en": "However, Ken listened attentively and asked questions when he did not understand.",
+      "zh-TW": "不過，Ken 認真聽，不懂的時候就提問。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_016_sentence_09",
+      "th": "เราจึงตกลงว่าจะลองใช้ภาษาไทยคุยกันวันละสิบนาที",
+      "en": "So we agreed to try talking in Thai for ten minutes a day.",
+      "zh-TW": "因此我們約定，試著每天用泰語聊十分鐘。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_016_sentence_10",
+      "th": "ถ้าคนหนึ่งนึกคำไม่ออก อีกคนจะช่วยอธิบายหรือยกตัวอย่าง",
+      "en": "If one person cannot think of a word, the other will help explain or give an example.",
+      "zh-TW": "如果其中一人想不起某個詞，另一人就幫忙解釋或舉例。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_016_sentence_11",
+      "th": "หลังเลิกเรียน เราไปกินข้าวด้วยกันและแลกเบอร์ติดต่อ",
+      "en": "After class we ate together and exchanged contact numbers.",
+      "zh-TW": "下課後，我們一起吃飯並交換聯絡電話。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_016_sentence_12",
+      "th": "ผมรู้สึกว่าการมีเพื่อนฝึกภาษาช่วยให้ผมกล้าพูดมากขึ้น",
+      "en": "I feel that having a language practice partner helps me become more willing to speak.",
+      "zh-TW": "我覺得有朋友一起練習語言，讓我更敢開口。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Ken and the events are fictional. This is an original lesson using the sentence complexity of your Reading 2 references.",
+      "zh-TW": "Ken 與情節是虛構的。本課為原創，句型難度參考你的 Reading 2 材料。"
+    },
+    {
+      "en": "Focus on links between ideas: contrast, reason, and condition.",
+      "zh-TW": "重點是理解句子之間的對比、原因與條件關係。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_218",
+      "th": "เพิ่ง",
+      "en": "just; recently (before an action)",
+      "zh-TW": "剛；才",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_219",
+      "th": "ความสนใจ",
+      "en": "interest",
+      "zh-TW": "興趣",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_220",
+      "th": "คล้ายกัน",
+      "en": "be similar",
+      "zh-TW": "相似",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_221",
+      "th": "ตั้งใจ",
+      "en": "pay attention; be intent on",
+      "zh-TW": "專心；認真",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_222",
+      "th": "ตกลง",
+      "en": "agree; reach an agreement",
+      "zh-TW": "同意；約定",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_223",
+      "th": "อธิบาย",
+      "en": "explain",
+      "zh-TW": "解釋",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_224",
+      "th": "กล้า",
+      "en": "dare; be confident enough to",
+      "zh-TW": "敢；勇於",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_225",
+      "th": "สัปดาห์ก่อน",
+      "en": "last week",
+      "zh-TW": "上週",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_226",
+      "th": "ได้รู้จัก",
+      "en": "get to know; meet",
+      "zh-TW": "認識",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_227",
+      "th": "ญี่ปุ่น",
+      "en": "Japan",
+      "zh-TW": "日本",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_228",
+      "th": "ย้ายมา",
+      "en": "move here",
+      "zh-TW": "搬來",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_229",
+      "th": "เดือนก่อน",
+      "en": "last month",
+      "zh-TW": "上個月",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_230",
+      "th": "แม้ว่า...แต่...",
+      "en": "although...",
+      "zh-TW": "雖然……但是……",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_231",
+      "th": "คนละประเทศ",
+      "en": "different countries (one each)",
+      "zh-TW": "不同國家",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_232",
+      "th": "ส่วน",
+      "en": "whereas; as for",
+      "zh-TW": "而；至於",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_233",
+      "th": "เรียนรู้",
+      "en": "learn about",
+      "zh-TW": "學習；了解",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_234",
+      "th": "ช่วงพัก",
+      "en": "break time",
+      "zh-TW": "休息時間",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_118",
+      "th": "ถามว่า",
+      "en": "ask (introducing a question)",
+      "zh-TW": "問（引出問題）",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_235",
+      "th": "ทำไมถึง",
+      "en": "why (before an action)",
+      "zh-TW": "為什麼",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_236",
+      "th": "คุย",
+      "en": "chat; talk",
+      "zh-TW": "聊天",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_237",
+      "th": "โดยไม่ต้อง",
+      "en": "without having to",
+      "zh-TW": "不必……就……",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_238",
+      "th": "ตลอดเวลา",
+      "en": "all the time",
+      "zh-TW": "一直",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_239",
+      "th": "ตอนแรก",
+      "en": "at first",
+      "zh-TW": "起初",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_240",
+      "th": "กลัวว่าจะ",
+      "en": "be afraid that",
+      "zh-TW": "擔心會",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_241",
+      "th": "อย่างไรก็ตาม",
+      "en": "however",
+      "zh-TW": "然而；不過",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_242",
+      "th": "จึง",
+      "en": "so; therefore",
+      "zh-TW": "因此",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_243",
+      "th": "ลอง",
+      "en": "try",
+      "zh-TW": "嘗試",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_244",
+      "th": "วันละ",
+      "en": "per day",
+      "zh-TW": "每天",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_245",
+      "th": "นึกคำไม่ออก",
+      "en": "cannot think of a word",
+      "zh-TW": "想不起某個詞",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_246",
+      "th": "ยกตัวอย่าง",
+      "en": "give an example",
+      "zh-TW": "舉例",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_247",
+      "th": "เลิกเรียน",
+      "en": "finish class",
+      "zh-TW": "下課",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_248",
+      "th": "แลกเบอร์ติดต่อ",
+      "en": "exchange contact numbers",
+      "zh-TW": "交換聯絡電話",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_249",
+      "th": "ช่วยให้",
+      "en": "help someone to",
+      "zh-TW": "幫助……能夠……",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_250",
+      "th": "มากขึ้น",
+      "en": "more; increasingly",
+      "zh-TW": "更加",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are marked for practice; some may be review words. Other unfamiliar expressions are supporting vocabulary with glosses. Previously encountered means listed in earlier generated lesson vocabulary, not mastered and not a complete comparison with your textbook bank.",
+      "zh-TW": "七個重點詞供練習，部分可能是複習詞。其他陌生表達附有解釋。「曾接觸」僅指先前生成的課程詞表，不代表熟練，也不是與完整課本詞庫的比對結果。"
+    }
+  ],
+  "pronunciation": {
+    "system": "School-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      }
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_016_reading_01",
+        "th": "เพิ่งย้ายมา",
+        "school_reading": "",
+        "note_en": "Notice เพิ่ง before an action to show it happened recently."
+      },
+      {
+        "id": "story_016_reading_02",
+        "th": "ความสนใจ / ความก้าวหน้า",
+        "school_reading": "",
+        "note_en": "ความ forms nouns in these examples; recognize the full words in context."
+      },
+      {
+        "id": "story_016_reading_03",
+        "th": "นึกคำไม่ออก",
+        "school_reading": "",
+        "note_en": "Read this as one meaningful group: cannot think of a word."
+      },
+      {
+        "id": "story_016_reading_04",
+        "th": "ถ้า...อีกคนจะ...",
+        "school_reading": "",
+        "note_en": "Keep the condition and the other person’s response linked when reading."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_016_pattern_01",
+      "name_en": "Contrast despite a difference",
+      "pattern_th": "แม้ว่า + clause + แต่ + clause",
+      "explanation_en": "Use this pair to contrast a situation with an unexpected similarity or result.",
+      "examples": [
+        {
+          "th": "แม้ว่าเราจะมาจากคนละประเทศ แต่เรามีความสนใจคล้ายกัน",
+          "en": "Although we come from different countries, we have similar interests.",
+          "zh-TW": "雖然我們來自不同國家，但我們的興趣很相似。"
+        }
+      ]
+    },
+    {
+      "id": "story_016_pattern_02",
+      "name_en": "Explain a reason",
+      "pattern_th": "action + เพราะ + reason",
+      "explanation_en": "เพราะ introduces why something happens.",
+      "examples": [
+        {
+          "th": "ตอนแรกผมพูดช้าเพราะกลัวว่าจะใช้คำผิด",
+          "en": "At first I spoke slowly because I was afraid of using the wrong words.",
+          "zh-TW": "一開始我說得很慢，因為怕用錯詞。"
+        }
+      ]
+    },
+    {
+      "id": "story_016_pattern_03",
+      "name_en": "Make a conditional plan",
+      "pattern_th": "ถ้า + condition + result with จะ",
+      "explanation_en": "ถ้า introduces a condition; จะ can describe the planned result.",
+      "examples": [
+        {
+          "th": "ถ้าคนหนึ่งนึกคำไม่ออก อีกคนจะช่วยอธิบายหรือยกตัวอย่าง",
+          "en": "If one person cannot think of a word, the other will help explain or give an example.",
+          "zh-TW": "如果其中一人想不起某個詞，另一人就幫忙解釋或舉例。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_016_quiz_01",
+      "question_th": "ทำไมเคนถึงอยากเรียนภาษาไทย",
+      "question_en": "Why does Ken want to learn Thai?",
+      "hint_en": "Look for his reason, not just where he comes from.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อคุยกับเพื่อนร่วมงานคนไทย",
+          "en": "To talk with Thai coworkers"
+        },
+        {
+          "id": "b",
+          "th": "เพื่อสอนภาษาอังกฤษ",
+          "en": "To teach English"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อย้ายไปญี่ปุ่น",
+          "en": "To move to Japan"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_016_sentence_06",
+      "explanation_en": "The story says: เขาบอกว่าอยากคุยกับเพื่อนร่วมงานคนไทยได้โดยไม่ต้องใช้ภาษาอังกฤษตลอดเวลา — He said he wanted to talk with Thai coworkers without having to use English all the time.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_016_quiz_02",
+      "question_th": "ทำไมตอนแรกผมจึงพูดช้า",
+      "question_en": "Why do I speak slowly at first?",
+      "hint_en": "เพราะ introduces the reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะไม่อยากคุยกับเคน",
+          "en": "Because I do not want to talk to Ken"
+        },
+        {
+          "id": "b",
+          "th": "เพราะกลัวว่าจะใช้คำผิด",
+          "en": "Because I am afraid of using the wrong words"
+        },
+        {
+          "id": "c",
+          "th": "เพราะเคนขอให้หยุดพูด",
+          "en": "Because Ken asks me to stop talking"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_016_sentence_07",
+      "explanation_en": "The story says: ตอนแรกผมพูดช้าเพราะกลัวว่าจะใช้คำผิด — At first I spoke slowly because I was afraid of using the wrong words.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_016_quiz_03",
+      "question_th": "ถ้าคนหนึ่งนึกคำไม่ออก อีกคนจะทำอย่างไร",
+      "question_en": "What will the other person do if one cannot think of a word?",
+      "hint_en": "Follow the condition and its result.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "หยุดเรียนภาษาไทย",
+          "en": "Stop learning Thai"
+        },
+        {
+          "id": "b",
+          "th": "หัวเราะแล้วกลับบ้าน",
+          "en": "Laugh and go home"
+        },
+        {
+          "id": "c",
+          "th": "ช่วยอธิบายหรือยกตัวอย่าง",
+          "en": "Help explain or give an example"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_016_sentence_10",
+      "explanation_en": "The story says: ถ้าคนหนึ่งนึกคำไม่ออก อีกคนจะช่วยอธิบายหรือยกตัวอย่าง — If one person cannot think of a word, the other will help explain or give an example.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_016_quiz_04",
+      "question_th": "ข้อใดอธิบายข้อตกลงของทั้งสองคนได้ตรงกับเรื่อง",
+      "question_en": "Which statement matches their agreement?",
+      "hint_en": "ข้อตกลง means agreement.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ใช้ภาษาอังกฤษเท่านั้น",
+          "en": "Use only English"
+        },
+        {
+          "id": "b",
+          "th": "ลองคุยภาษาไทยวันละสิบนาที",
+          "en": "Try talking in Thai for ten minutes a day"
+        },
+        {
+          "id": "c",
+          "th": "พบกันเดือนละครั้ง",
+          "en": "Meet once a month"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_016_sentence_09",
+      "explanation_en": "The story says: เราจึงตกลงว่าจะลองใช้ภาษาไทยคุยกันวันละสิบนาที — So we agreed to try talking in Thai for ten minutes a day.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_016_writing_01",
+        "en": "Combine the ideas using แม้ว่า...แต่...: We come from different countries. We have similar interests.",
+        "zh-TW": "用「雖然……但是……」合併：我們來自不同國家。我們興趣相似。",
+        "suggested_answer_th": "แม้ว่าเราจะมาจากคนละประเทศ แต่เรามีความสนใจคล้ายกัน"
+      },
+      {
+        "id": "story_016_writing_02",
+        "en": "Explain why you speak slowly, using เพราะ.",
+        "zh-TW": "用表示原因的句型，說明你為何說得慢。",
+        "suggested_answer_th": "ผมพูดช้าเพราะกลัวว่าจะใช้คำผิด"
+      },
+      {
+        "id": "story_016_writing_03",
+        "en": "Write a conditional plan with ถ้า about helping a friend who cannot think of a word.",
+        "zh-TW": "用條件句寫出朋友想不起詞時，你會怎麼幫忙。",
+        "suggested_answer_th": "ถ้าเพื่อนนึกคำไม่ออก ผมจะช่วยยกตัวอย่าง"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_016_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_016_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_016_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original content calibrated to connected paragraphs, subordinate clauses, reasons, contrasts and conditions; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_016_sentence_01",
+      "story_016_sentence_02",
+      "story_016_sentence_03",
+      "story_016_sentence_04"
+    ],
+    [
+      "story_016_sentence_05",
+      "story_016_sentence_06",
+      "story_016_sentence_07",
+      "story_016_sentence_08"
+    ],
+    [
+      "story_016_sentence_09",
+      "story_016_sentence_10",
+      "story_016_sentence_11",
+      "story_016_sentence_12"
+    ]
+  ]
+}
