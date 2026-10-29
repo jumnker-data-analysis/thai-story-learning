@@ -1,0 +1,533 @@
+{
+  "schema_version": 1,
+  "id": "story_025",
+  "level": 4,
+  "topic": "planning_an_appointment",
+  "title": {
+    "th": "ผมมีนัดพรุ่งนี้",
+    "en": "I Have an Appointment Tomorrow",
+    "zh-TW": "我明天有約"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_025_sentence_01",
+      "th": "พรุ่งนี้ผมมีนัดไปคุยเรื่องเรียนต่อกับเจ้าหน้าที่ของโรงเรียนตอนสิบโมง",
+      "en": "Tomorrow I have an appointment at ten to discuss further study with a school staff member.",
+      "zh-TW": "明天十點，我約了學校工作人員討論繼續就讀的事。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_025_sentence_02",
+      "th": "ผมจองเวลาไว้ตั้งแต่สัปดาห์ก่อน เพราะอยากวางแผนให้เหมาะกับตารางงาน",
+      "en": "I booked the appointment last week because I want a plan that fits my work schedule.",
+      "zh-TW": "我上週就約好了，因為想安排適合工作時間的學習計畫。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_025_sentence_03",
+      "th": "เย็นนี้ผมเปิดข้อความยืนยันนัดอีกครั้งเพื่อตรวจสอบเวลาและสถานที่",
+      "en": "This evening I opened the appointment confirmation again to check the time and place.",
+      "zh-TW": "今晚我再次打開預約確認訊息，核對時間和地點。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_025_sentence_04",
+      "th": "ในข้อความระบุว่าต้องไปอาคารอีกแห่งหนึ่ง ซึ่งผมยังไม่เคยไปมาก่อน",
+      "en": "The message specified another building, which I had never visited before.",
+      "zh-TW": "訊息註明要去另一棟大樓，而我以前沒去過那裡。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_025_sentence_05",
+      "th": "ผมจึงดูเส้นทางในแผนที่และเผื่อเวลาเดินจากสถานีไปถึงอาคาร",
+      "en": "So I checked the route on a map and allowed time to walk from the station to the building.",
+      "zh-TW": "因此我查看地圖路線，並預留從車站走到大樓的時間。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_025_sentence_06",
+      "th": "นอกจากนี้ ผมยังเขียนคำถามเกี่ยวกับเวลาเรียน ค่าเรียน และการทบทวนบทเรียน",
+      "en": "In addition, I wrote questions about class times, tuition fees, and lesson review.",
+      "zh-TW": "此外，我也寫下關於上課時間、學費和課程複習的問題。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_025_sentence_07",
+      "th": "ถ้าเจ้าหน้าที่อธิบายเร็วเกินไป ผมจะขอให้พูดช้าลงและจดข้อมูลสำคัญไว้",
+      "en": "If the staff member explains too quickly, I will ask them to slow down and note the important information.",
+      "zh-TW": "如果工作人員說明得太快，我會請對方說慢一點，並記下重要資訊。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_025_sentence_08",
+      "th": "ก่อนนอน ผมเตรียมเอกสารที่โรงเรียนขอและตั้งเตือนไว้ในโทรศัพท์",
+      "en": "Before bed, I prepared the documents requested by the school and set a reminder on my phone.",
+      "zh-TW": "睡前，我準備學校要求的文件，並在手機設定提醒。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_025_sentence_09",
+      "th": "ตอนแรกเพื่อนชวนไปกินข้าวตอนสาย แต่ผมบอกว่าช่วงนั้นไม่สะดวก",
+      "en": "A friend had initially invited me to eat late in the morning, but I said I was unavailable then.",
+      "zh-TW": "起初朋友約我上午稍晚吃飯，但我說那段時間不方便。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_025_sentence_10",
+      "th": "ผมเสนอให้เจอกันหลังเที่ยงแทน โดยจะส่งข้อความยืนยันอีกครั้งเมื่อคุยเสร็จ",
+      "en": "I suggested meeting after noon instead and said I would confirm by message once the discussion was over.",
+      "zh-TW": "我提議改成中午過後見面，談完後再傳訊息確認。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_025_sentence_11",
+      "th": "หากจำเป็นต้องเปลี่ยนนัด ผมจะติดต่อโรงเรียนล่วงหน้า ไม่ปล่อยให้เจ้าหน้าที่รอ",
+      "en": "If I need to change the appointment, I will contact the school in advance instead of leaving the staff waiting.",
+      "zh-TW": "如果必須改約，我會提前聯絡學校，不讓工作人員空等。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_025_sentence_12",
+      "th": "การเตรียมตัวคืนนี้ทำให้ผมสบายใจขึ้น เพราะรู้ว่าพรุ่งนี้ต้องทำอะไรบ้าง",
+      "en": "Preparing tonight makes me feel more at ease because I know what I need to do tomorrow.",
+      "zh-TW": "今晚做好準備讓我安心一些，因為知道明天有哪些事要做。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional reading practice with reasons, contrasts and practical communication.",
+      "zh-TW": "原創虛構閱讀練習，結合原因、對比與實際溝通。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_426",
+      "th": "นัด",
+      "en": "appointment; arrangement",
+      "zh-TW": "約定；預約",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_391",
+      "th": "ยืนยัน",
+      "en": "confirm",
+      "zh-TW": "確認",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": true
+    },
+    {
+      "id": "word_427",
+      "th": "ระบุ",
+      "en": "specify",
+      "zh-TW": "註明",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_428",
+      "th": "อาคาร",
+      "en": "building",
+      "zh-TW": "大樓",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_429",
+      "th": "เอกสาร",
+      "en": "document",
+      "zh-TW": "文件",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_430",
+      "th": "ตั้งเตือน",
+      "en": "set a reminder",
+      "zh-TW": "設定提醒",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_431",
+      "th": "สบายใจ",
+      "en": "feel at ease",
+      "zh-TW": "安心",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_368",
+      "th": "เรียนต่อ",
+      "en": "continue studying",
+      "zh-TW": "繼續就讀",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_432",
+      "th": "เหมาะกับ",
+      "en": "be suitable for",
+      "zh-TW": "適合",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_433",
+      "th": "ค่าเรียน",
+      "en": "tuition fee",
+      "zh-TW": "學費",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_112",
+      "th": "จด",
+      "en": "note down",
+      "zh-TW": "記下",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_286",
+      "th": "เสนอ",
+      "en": "suggest; propose",
+      "zh-TW": "提議",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_434",
+      "th": "หลังเที่ยง",
+      "en": "after noon",
+      "zh-TW": "中午過後",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_435",
+      "th": "ติดต่อ",
+      "en": "contact",
+      "zh-TW": "聯絡",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are followed by supporting vocabulary. Prior exposure refers to earlier lesson glossaries, not the master workbook.",
+      "zh-TW": "前七項為重點詞，其後為輔助詞彙；曾學標記依據先前故事詞表，並非主單字庫。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_025_reading_01",
+        "th": "ในข้อความระบุว่าต้องไปอาคารอีกแห่งหนึ่ง ซึ่งผมยังไม่เคยไปมาก่อน",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around noun + ซึ่ง + clause. ซึ่ง introduces extra information about the preceding noun."
+      },
+      {
+        "id": "story_025_reading_02",
+        "th": "ถ้าเจ้าหน้าที่อธิบายเร็วเกินไป ผมจะขอให้พูดช้าลงและจดข้อมูลสำคัญไว้",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around ถ้า...จะ.... ถ้า gives a condition and จะ introduces the planned response."
+      },
+      {
+        "id": "story_025_reading_03",
+        "th": "ผมเสนอให้เจอกันหลังเที่ยงแทน โดยจะส่งข้อความยืนยันอีกครั้งเมื่อคุยเสร็จ",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around ...แทน โดยจะ.... แทน marks a replacement plan; โดยจะ adds how the speaker will follow up."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_025_pattern_01",
+      "name_en": "Add information",
+      "pattern_th": "noun + ซึ่ง + clause",
+      "explanation_en": "ซึ่ง introduces extra information about the preceding noun.",
+      "examples": [
+        {
+          "th": "ในข้อความระบุว่าต้องไปอาคารอีกแห่งหนึ่ง ซึ่งผมยังไม่เคยไปมาก่อน",
+          "en": "The message specified another building, which I had never visited before.",
+          "zh-TW": "訊息註明要去另一棟大樓，而我以前沒去過那裡。"
+        }
+      ]
+    },
+    {
+      "id": "story_025_pattern_02",
+      "name_en": "Plan for a condition",
+      "pattern_th": "ถ้า...จะ...",
+      "explanation_en": "ถ้า gives a condition and จะ introduces the planned response.",
+      "examples": [
+        {
+          "th": "ถ้าเจ้าหน้าที่อธิบายเร็วเกินไป ผมจะขอให้พูดช้าลงและจดข้อมูลสำคัญไว้",
+          "en": "If the staff member explains too quickly, I will ask them to slow down and note the important information.",
+          "zh-TW": "如果工作人員說明得太快，我會請對方說慢一點，並記下重要資訊。"
+        }
+      ]
+    },
+    {
+      "id": "story_025_pattern_03",
+      "name_en": "Propose an alternative and follow-up",
+      "pattern_th": "...แทน โดยจะ...",
+      "explanation_en": "แทน marks a replacement plan; โดยจะ adds how the speaker will follow up.",
+      "examples": [
+        {
+          "th": "ผมเสนอให้เจอกันหลังเที่ยงแทน โดยจะส่งข้อความยืนยันอีกครั้งเมื่อคุยเสร็จ",
+          "en": "I suggested meeting after noon instead and said I would confirm by message once the discussion was over.",
+          "zh-TW": "我提議改成中午過後見面，談完後再傳訊息確認。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_025_quiz_01",
+      "question_th": "ผมมีนัดตอนกี่โมง",
+      "question_en": "What time is my appointment?",
+      "hint_en": "Reread sentence 1 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สิบโมง",
+          "en": "Ten in the morning"
+        },
+        {
+          "id": "b",
+          "th": "เที่ยง",
+          "en": "Noon"
+        },
+        {
+          "id": "c",
+          "th": "หกโมงเย็น",
+          "en": "Six in the evening"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_025_sentence_01",
+      "explanation_en": "Tomorrow I have an appointment at ten to discuss further study with a school staff member.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_025_quiz_02",
+      "question_th": "ทำไมผมจึงตรวจดูเส้นทาง",
+      "question_en": "Why do I check the route?",
+      "hint_en": "Reread sentence 4 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะโรงเรียนปิด",
+          "en": "Because the school is closed"
+        },
+        {
+          "id": "b",
+          "th": "เพราะต้องไปอาคารที่ไม่เคยไป",
+          "en": "Because I must visit a building I have never been to"
+        },
+        {
+          "id": "c",
+          "th": "เพราะเพื่อนทำแผนที่หาย",
+          "en": "Because a friend lost the map"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_025_sentence_04",
+      "explanation_en": "The message specified another building, which I had never visited before.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_025_quiz_03",
+      "question_th": "ผมเสนอให้เจอเพื่อนเมื่อไร",
+      "question_en": "When do I suggest meeting my friend?",
+      "hint_en": "Reread sentence 10 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ก่อนนัดตอนเช้า",
+          "en": "Before the morning appointment"
+        },
+        {
+          "id": "b",
+          "th": "ตอนสิบโมง",
+          "en": "At ten in the morning"
+        },
+        {
+          "id": "c",
+          "th": "หลังเที่ยง",
+          "en": "After noon"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_025_sentence_10",
+      "explanation_en": "I suggested meeting after noon instead and said I would confirm by message once the discussion was over.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_025_quiz_04",
+      "question_th": "หากต้องเปลี่ยนนัด ผมจะทำอย่างไร",
+      "question_en": "What will I do if I must change the appointment?",
+      "hint_en": "Reread sentence 11 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ติดต่อโรงเรียนล่วงหน้า",
+          "en": "Contact the school in advance"
+        },
+        {
+          "id": "b",
+          "th": "ไม่บอกใคร",
+          "en": "Tell no one"
+        },
+        {
+          "id": "c",
+          "th": "ให้เจ้าหน้าที่รอทั้งวัน",
+          "en": "Leave the staff waiting all day"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_025_sentence_11",
+      "explanation_en": "If I need to change the appointment, I will contact the school in advance instead of leaving the staff waiting.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_025_writing_01",
+        "en": "Write a sentence using noun + ซึ่ง + clause to express this meaning: The message specified another building, which I had never visited before.",
+        "zh-TW": "使用「noun + ซึ่ง + clause」寫一句表達以下意思的泰語：訊息註明要去另一棟大樓，而我以前沒去過那裡。",
+        "suggested_answer_th": "ในข้อความระบุว่าต้องไปอาคารอีกแห่งหนึ่ง ซึ่งผมยังไม่เคยไปมาก่อน"
+      },
+      {
+        "id": "story_025_writing_02",
+        "en": "Write a sentence using ถ้า...จะ... to express this meaning: If the staff member explains too quickly, I will ask them to slow down and note the important information.",
+        "zh-TW": "使用「ถ้า...จะ...」寫一句表達以下意思的泰語：如果工作人員說明得太快，我會請對方說慢一點，並記下重要資訊。",
+        "suggested_answer_th": "ถ้าเจ้าหน้าที่อธิบายเร็วเกินไป ผมจะขอให้พูดช้าลงและจดข้อมูลสำคัญไว้"
+      },
+      {
+        "id": "story_025_writing_03",
+        "en": "Write a sentence using ...แทน โดยจะ... to express this meaning: I suggested meeting after noon instead and said I would confirm by message once the discussion was over.",
+        "zh-TW": "使用「...แทน โดยจะ...」寫一句表達以下意思的泰語：我提議改成中午過後見面，談完後再傳訊息確認。",
+        "suggested_answer_th": "ผมเสนอให้เจอกันหลังเที่ยงแทน โดยจะส่งข้อความยืนยันอีกครั้งเมื่อคุยเสร็จ"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_025_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_025_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_025_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied ALA Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original continuation at the connected-sentence difficulty used in Stories 16–20, informed by previously reviewed ALA Reading 2 references; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_025_sentence_01",
+      "story_025_sentence_02",
+      "story_025_sentence_03",
+      "story_025_sentence_04"
+    ],
+    [
+      "story_025_sentence_05",
+      "story_025_sentence_06",
+      "story_025_sentence_07",
+      "story_025_sentence_08"
+    ],
+    [
+      "story_025_sentence_09",
+      "story_025_sentence_10",
+      "story_025_sentence_11",
+      "story_025_sentence_12"
+    ]
+  ]
+}

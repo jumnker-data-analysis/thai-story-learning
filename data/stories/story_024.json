@@ -1,0 +1,533 @@
+{
+  "schema_version": 1,
+  "id": "story_024",
+  "level": 4,
+  "topic": "arriving_late",
+  "title": {
+    "th": "วันนี้ผมมาสาย",
+    "en": "I’m Late Today",
+    "zh-TW": "今天我遲到了"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_024_sentence_01",
+      "th": "วันนี้ผมมีเรียนตอนเก้าโมง แต่กว่าจะออกจากบ้านก็ช้ากว่าที่ตั้งใจไว้",
+      "en": "Today I had class at nine, but by the time I left home it was later than I had intended.",
+      "zh-TW": "今天九點有課，但等我出門時，已經比原先預計的晚了。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_024_sentence_02",
+      "th": "เมื่อคืนผมทำงานเลิกดึก จึงเตรียมกระเป๋าไว้ไม่เสร็จก่อนนอน",
+      "en": "I finished work late last night, so I had not finished packing my bag before bed.",
+      "zh-TW": "昨晚下班很晚，所以睡前沒有把書包整理好。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_024_sentence_03",
+      "th": "ผมเสียเวลาหาสมุดการบ้าน และยิ่งรีบก็ยิ่งลืมว่ามันวางอยู่ตรงไหน",
+      "en": "I spent time looking for my homework notebook, and the more I rushed, the less I could remember where it was.",
+      "zh-TW": "我花了時間找作業本，越急就越想不起來放在哪裡。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_024_sentence_04",
+      "th": "พอเดินถึงสถานี ฝนก็ตกหนักจนคนจำนวนมากมารอรถไฟฟ้า",
+      "en": "When I reached the station, it began raining so heavily that many people came to wait for the train.",
+      "zh-TW": "走到車站時，雨下得很大，許多人都來等捷運。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_024_sentence_05",
+      "th": "ขบวนแรกแน่นมากจนผมขึ้นไม่ได้ จึงต้องรอขบวนถัดไป",
+      "en": "The first train was so crowded that I could not board, so I had to wait for the next one.",
+      "zh-TW": "第一班車擠得上不去，因此我只好等下一班。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_024_sentence_06",
+      "th": "ผมดูเวลาแล้วรู้ว่าคงไปไม่ทัน จึงส่งข้อความแจ้งครูก่อนเริ่มเรียน",
+      "en": "I checked the time and realized I would probably not make it, so I messaged my teacher before class began.",
+      "zh-TW": "我看了時間，知道大概趕不上，於是在上課前傳訊息通知老師。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_024_sentence_07",
+      "th": "ในข้อความ ผมขอโทษและบอกเวลาที่คาดว่าจะไปถึง",
+      "en": "In the message, I apologized and gave my estimated arrival time.",
+      "zh-TW": "訊息裡，我道歉並告知預計抵達的時間。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_024_sentence_08",
+      "th": "แม้ว่าฝนจะทำให้เดินทางลำบาก แต่ผมก็รู้ว่าตัวเองควรออกจากบ้านให้เร็วกว่านี้",
+      "en": "Although the rain made the journey difficult, I knew I should have left home earlier.",
+      "zh-TW": "雖然雨讓通勤更困難，但我也知道自己應該早點出門。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_024_sentence_09",
+      "th": "เมื่อถึงห้องเรียน ผมขออนุญาตเข้าห้องแล้วนั่งลงเงียบ ๆ",
+      "en": "When I reached the classroom, I asked permission to enter and sat down quietly.",
+      "zh-TW": "到了教室，我先請求允許入內，再安靜坐下。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_024_sentence_10",
+      "th": "ช่วงพัก ผมถามเพื่อนว่าเรียนถึงไหนแล้ว เพื่อจะได้ตามเนื้อหาให้ทัน",
+      "en": "During the break, I asked a classmate how far the class had got so that I could catch up.",
+      "zh-TW": "休息時，我問同學課程進行到哪裡，好跟上內容。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_024_sentence_11",
+      "th": "ครูบอกว่าถ้ารู้ว่าจะมาสาย ควรแจ้งล่วงหน้าเหมือนที่ทำวันนี้",
+      "en": "The teacher said that if I knew I would be late, I should give advance notice as I had today.",
+      "zh-TW": "老師說，如果知道會遲到，應該像今天這樣提前通知。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_024_sentence_12",
+      "th": "คืนนี้ผมจะเตรียมของให้พร้อมและเผื่อเวลาเดินทาง เพื่อไม่ให้ปัญหาเดิมเกิดขึ้นอีก",
+      "en": "Tonight I will get my things ready and allow extra travel time so the same problem does not happen again.",
+      "zh-TW": "今晚我要先準備好東西，並預留交通時間，避免同樣的問題再次發生。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional reading practice with reasons, contrasts and practical communication.",
+      "zh-TW": "原創虛構閱讀練習，結合原因、對比與實際溝通。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_414",
+      "th": "มาสาย",
+      "en": "arrive late",
+      "zh-TW": "遲到",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_221",
+      "th": "ตั้งใจ",
+      "en": "intend; be determined",
+      "zh-TW": "打算；用心",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": true
+    },
+    {
+      "id": "word_415",
+      "th": "เสียเวลา",
+      "en": "spend or waste time",
+      "zh-TW": "花時間；浪費時間",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_416",
+      "th": "ขบวน",
+      "en": "train; train service",
+      "zh-TW": "列車；班次",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_417",
+      "th": "คาดว่า",
+      "en": "expect; estimate",
+      "zh-TW": "預計",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_418",
+      "th": "ล่วงหน้า",
+      "en": "in advance",
+      "zh-TW": "事先",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_419",
+      "th": "เผื่อเวลา",
+      "en": "allow extra time",
+      "zh-TW": "預留時間",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_420",
+      "th": "เลิกดึก",
+      "en": "finish late at night",
+      "zh-TW": "很晚才結束",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_421",
+      "th": "ยิ่ง...ยิ่ง...",
+      "en": "the more...the more...",
+      "zh-TW": "越……越……",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_422",
+      "th": "แน่น",
+      "en": "crowded; packed",
+      "zh-TW": "擁擠",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_165",
+      "th": "ถัดไป",
+      "en": "next",
+      "zh-TW": "下一個",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false
+    },
+    {
+      "id": "word_423",
+      "th": "ขออนุญาต",
+      "en": "ask permission",
+      "zh-TW": "請求允許",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_424",
+      "th": "ตามให้ทัน",
+      "en": "catch up",
+      "zh-TW": "跟上",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_425",
+      "th": "เกิดขึ้น",
+      "en": "happen",
+      "zh-TW": "發生",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are followed by supporting vocabulary. Prior exposure refers to earlier lesson glossaries, not the master workbook.",
+      "zh-TW": "前七項為重點詞，其後為輔助詞彙；曾學標記依據先前故事詞表，並非主單字庫。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_024_reading_01",
+        "th": "ผมเสียเวลาหาสมุดการบ้าน และยิ่งรีบก็ยิ่งลืมว่ามันวางอยู่ตรงไหน",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around ยิ่ง...ก็ยิ่ง.... This pattern connects two changes that increase together."
+      },
+      {
+        "id": "story_024_reading_02",
+        "th": "ขบวนแรกแน่นมากจนผมขึ้นไม่ได้ จึงต้องรอขบวนถัดไป",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around ...จน...ไม่ได้. จน connects the degree of a situation to an inability that results."
+      },
+      {
+        "id": "story_024_reading_03",
+        "th": "คืนนี้ผมจะเตรียมของให้พร้อมและเผื่อเวลาเดินทาง เพื่อไม่ให้ปัญหาเดิมเกิดขึ้นอีก",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around action + เพื่อไม่ให้ + event. เพื่อไม่ให้ introduces an outcome the speaker wants to prevent."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_024_pattern_01",
+      "name_en": "Link increasing changes",
+      "pattern_th": "ยิ่ง...ก็ยิ่ง...",
+      "explanation_en": "This pattern connects two changes that increase together.",
+      "examples": [
+        {
+          "th": "ผมเสียเวลาหาสมุดการบ้าน และยิ่งรีบก็ยิ่งลืมว่ามันวางอยู่ตรงไหน",
+          "en": "I spent time looking for my homework notebook, and the more I rushed, the less I could remember where it was.",
+          "zh-TW": "我花了時間找作業本，越急就越想不起來放在哪裡。"
+        }
+      ]
+    },
+    {
+      "id": "story_024_pattern_02",
+      "name_en": "Explain a limiting result",
+      "pattern_th": "...จน...ไม่ได้",
+      "explanation_en": "จน connects the degree of a situation to an inability that results.",
+      "examples": [
+        {
+          "th": "ขบวนแรกแน่นมากจนผมขึ้นไม่ได้ จึงต้องรอขบวนถัดไป",
+          "en": "The first train was so crowded that I could not board, so I had to wait for the next one.",
+          "zh-TW": "第一班車擠得上不去，因此我只好等下一班。"
+        }
+      ]
+    },
+    {
+      "id": "story_024_pattern_03",
+      "name_en": "Prevent an outcome",
+      "pattern_th": "action + เพื่อไม่ให้ + event",
+      "explanation_en": "เพื่อไม่ให้ introduces an outcome the speaker wants to prevent.",
+      "examples": [
+        {
+          "th": "คืนนี้ผมจะเตรียมของให้พร้อมและเผื่อเวลาเดินทาง เพื่อไม่ให้ปัญหาเดิมเกิดขึ้นอีก",
+          "en": "Tonight I will get my things ready and allow extra travel time so the same problem does not happen again.",
+          "zh-TW": "今晚我要先準備好東西，並預留交通時間，避免同樣的問題再次發生。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_024_quiz_01",
+      "question_th": "ทำไมผมจึงต้องรอขบวนถัดไป",
+      "question_en": "Why must I wait for the next train?",
+      "hint_en": "Reread sentence 5 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะขบวนแรกแน่นจนขึ้นไม่ได้",
+          "en": "Because the first train is too crowded to board"
+        },
+        {
+          "id": "b",
+          "th": "เพราะไม่อยากไปเรียน",
+          "en": "Because I do not want to attend class"
+        },
+        {
+          "id": "c",
+          "th": "เพราะลืมลงจากรถ",
+          "en": "Because I forget to get off"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_024_sentence_05",
+      "explanation_en": "The first train was so crowded that I could not board, so I had to wait for the next one.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_024_quiz_02",
+      "question_th": "ผมแจ้งครูเมื่อไร",
+      "question_en": "When do I inform the teacher?",
+      "hint_en": "Reread sentence 6 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "หลังเลิกเรียน",
+          "en": "After class ends"
+        },
+        {
+          "id": "b",
+          "th": "ก่อนเริ่มเรียน",
+          "en": "Before class begins"
+        },
+        {
+          "id": "c",
+          "th": "วันถัดไป",
+          "en": "The next day"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_024_sentence_06",
+      "explanation_en": "I checked the time and realized I would probably not make it, so I messaged my teacher before class began.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_024_quiz_03",
+      "question_th": "ช่วงพัก ผมถามเพื่อนเพื่ออะไร",
+      "question_en": "Why do I ask a classmate during the break?",
+      "hint_en": "Reread sentence 10 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อชวนไปซื้อของ",
+          "en": "To invite them shopping"
+        },
+        {
+          "id": "b",
+          "th": "เพื่อเปลี่ยนตารางรถ",
+          "en": "To change the train schedule"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อจะได้ตามเนื้อหาให้ทัน",
+          "en": "To catch up with the lesson"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_024_sentence_10",
+      "explanation_en": "During the break, I asked a classmate how far the class had got so that I could catch up.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_024_quiz_04",
+      "question_th": "ผมวางแผนป้องกันปัญหาอย่างไร",
+      "question_en": "How do I plan to prevent the problem?",
+      "hint_en": "Reread sentence 12 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เตรียมของและเผื่อเวลาเดินทาง",
+          "en": "Prepare my things and allow extra travel time"
+        },
+        {
+          "id": "b",
+          "th": "หยุดเรียนทุกวันที่ฝนตก",
+          "en": "Skip class whenever it rains"
+        },
+        {
+          "id": "c",
+          "th": "รอให้เพื่อนจัดกระเป๋าให้",
+          "en": "Wait for a friend to pack my bag"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_024_sentence_12",
+      "explanation_en": "Tonight I will get my things ready and allow extra travel time so the same problem does not happen again.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_024_writing_01",
+        "en": "Write a sentence using ยิ่ง...ก็ยิ่ง... to express this meaning: I spent time looking for my homework notebook, and the more I rushed, the less I could remember where it was.",
+        "zh-TW": "使用「ยิ่ง...ก็ยิ่ง...」寫一句表達以下意思的泰語：我花了時間找作業本，越急就越想不起來放在哪裡。",
+        "suggested_answer_th": "ผมเสียเวลาหาสมุดการบ้าน และยิ่งรีบก็ยิ่งลืมว่ามันวางอยู่ตรงไหน"
+      },
+      {
+        "id": "story_024_writing_02",
+        "en": "Write a sentence using ...จน...ไม่ได้ to express this meaning: The first train was so crowded that I could not board, so I had to wait for the next one.",
+        "zh-TW": "使用「...จน...ไม่ได้」寫一句表達以下意思的泰語：第一班車擠得上不去，因此我只好等下一班。",
+        "suggested_answer_th": "ขบวนแรกแน่นมากจนผมขึ้นไม่ได้ จึงต้องรอขบวนถัดไป"
+      },
+      {
+        "id": "story_024_writing_03",
+        "en": "Write a sentence using action + เพื่อไม่ให้ + event to express this meaning: Tonight I will get my things ready and allow extra travel time so the same problem does not happen again.",
+        "zh-TW": "使用「action + เพื่อไม่ให้ + event」寫一句表達以下意思的泰語：今晚我要先準備好東西，並預留交通時間，避免同樣的問題再次發生。",
+        "suggested_answer_th": "คืนนี้ผมจะเตรียมของให้พร้อมและเผื่อเวลาเดินทาง เพื่อไม่ให้ปัญหาเดิมเกิดขึ้นอีก"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_024_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_024_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_024_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied ALA Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original continuation at the connected-sentence difficulty used in Stories 16–20, informed by previously reviewed ALA Reading 2 references; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_024_sentence_01",
+      "story_024_sentence_02",
+      "story_024_sentence_03",
+      "story_024_sentence_04"
+    ],
+    [
+      "story_024_sentence_05",
+      "story_024_sentence_06",
+      "story_024_sentence_07",
+      "story_024_sentence_08"
+    ],
+    [
+      "story_024_sentence_09",
+      "story_024_sentence_10",
+      "story_024_sentence_11",
+      "story_024_sentence_12"
+    ]
+  ]
+}

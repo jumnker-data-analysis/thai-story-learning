@@ -1,0 +1,533 @@
+{
+  "schema_version": 1,
+  "id": "story_022",
+  "level": 4,
+  "topic": "finding_a_lost_wallet",
+  "title": {
+    "th": "ผมหาของไม่เจอ",
+    "en": "I Can’t Find Something",
+    "zh-TW": "我找不到東西"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_022_sentence_01",
+      "th": "หลังเลิกเรียน ผมแวะซื้อกาแฟก่อนนั่งรถไฟฟ้ากลับบ้าน",
+      "en": "After class I stopped for coffee before taking the train home.",
+      "zh-TW": "下課後，我先買了咖啡，再搭捷運回家。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_022_sentence_02",
+      "th": "เมื่อถึงห้อง ผมจะหยิบกระเป๋าสตางค์ออกจากกระเป๋าเป้ แต่กลับหาไม่เจอ",
+      "en": "When I got to my room, I went to take my wallet out of my backpack but could not find it.",
+      "zh-TW": "回到房間後，我想從背包拿出錢包，卻找不到。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_022_sentence_03",
+      "th": "ผมค้นทุกช่องอีกครั้ง เพราะไม่แน่ใจว่าเก็บไว้ตรงไหน",
+      "en": "I searched every compartment again because I was not sure where I had put it.",
+      "zh-TW": "我又翻找了每個夾層，因為不確定放在哪裡。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_022_sentence_04",
+      "th": "พอรู้ว่าไม่มีจริง ๆ ผมก็พยายามนึกว่าใช้กระเป๋าสตางค์ครั้งสุดท้ายที่ไหน",
+      "en": "Once I realized it really was not there, I tried to remember where I had last used it.",
+      "zh-TW": "確定真的不在後，我試著回想最後在哪裡用過錢包。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_022_sentence_05",
+      "th": "ผมจำได้ว่าจ่ายเงินที่ร้านกาแฟ จึงค้นหาเบอร์ร้านในโทรศัพท์",
+      "en": "I remembered paying at the café, so I looked up its number on my phone.",
+      "zh-TW": "我想起在咖啡店付過錢，於是用手機找店家的電話。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_022_sentence_06",
+      "th": "พนักงานรับสายแล้วถามว่ากระเป๋าสตางค์มีลักษณะอย่างไร",
+      "en": "The employee answered and asked what the wallet looked like.",
+      "zh-TW": "店員接聽後，問我錢包長什麼樣子。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_022_sentence_07",
+      "th": "ผมอธิบายว่าเป็นกระเป๋าหนังสีน้ำตาลและมีบัตรนักเรียนอยู่ข้างใน",
+      "en": "I explained that it was a brown leather wallet with a student card inside.",
+      "zh-TW": "我說明那是棕色皮夾，裡面有學生證。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_022_sentence_08",
+      "th": "พนักงานบอกว่าพบกระเป๋าใบหนึ่งใต้โต๊ะ แต่ต้องตรวจสอบก่อนว่าเป็นของผมหรือไม่",
+      "en": "The employee said a wallet had been found under a table, but they needed to check whether it was mine.",
+      "zh-TW": "店員說桌下找到一個錢包，但得先確認是不是我的。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_022_sentence_09",
+      "th": "ผมจึงกลับไปที่ร้านและบอกข้อมูลเพิ่มเติมเพื่อยืนยันความเป็นเจ้าของ",
+      "en": "So I returned to the café and gave more details to confirm ownership.",
+      "zh-TW": "因此我回到店裡，提供更多資訊以確認自己是失主。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_022_sentence_10",
+      "th": "หลังตรวจสอบข้อมูล พนักงานก็คืนกระเป๋าสตางค์ให้ผม",
+      "en": "After checking the details, the employee returned my wallet.",
+      "zh-TW": "確認資訊後，店員把錢包還給我。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_022_sentence_11",
+      "th": "ผมขอบคุณพนักงานและตรวจดูว่าของข้างในยังอยู่ครบ",
+      "en": "I thanked the employee and checked that everything inside was still there.",
+      "zh-TW": "我向店員道謝，並檢查裡面的東西是否齊全。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_022_sentence_12",
+      "th": "ตั้งแต่นั้นมา ก่อนออกจากร้าน ผมจะตรวจดูโทรศัพท์และกระเป๋าสตางค์ทุกครั้ง",
+      "en": "Since then, I check my phone and wallet every time before leaving a shop.",
+      "zh-TW": "從那之後，每次離開店家前，我都會檢查手機和錢包。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional reading practice with reasons, contrasts and practical communication.",
+      "zh-TW": "原創虛構閱讀練習，結合原因、對比與實際溝通。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_386",
+      "th": "กระเป๋าสตางค์",
+      "en": "wallet",
+      "zh-TW": "錢包",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_387",
+      "th": "ค้น",
+      "en": "search through",
+      "zh-TW": "翻找",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_388",
+      "th": "ช่อง",
+      "en": "compartment",
+      "zh-TW": "夾層",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_389",
+      "th": "ลักษณะ",
+      "en": "appearance; characteristic",
+      "zh-TW": "外觀；特徵",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_390",
+      "th": "ตรวจสอบ",
+      "en": "verify; check",
+      "zh-TW": "核對；檢查",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_391",
+      "th": "ยืนยัน",
+      "en": "confirm",
+      "zh-TW": "確認",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_392",
+      "th": "คืน",
+      "en": "return something",
+      "zh-TW": "歸還",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_393",
+      "th": "กระเป๋าเป้",
+      "en": "backpack",
+      "zh-TW": "背包",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_394",
+      "th": "หนัง",
+      "en": "leather",
+      "zh-TW": "皮革",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_395",
+      "th": "บัตรนักเรียน",
+      "en": "student card",
+      "zh-TW": "學生證",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_396",
+      "th": "ข้างใน",
+      "en": "inside",
+      "zh-TW": "裡面",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_397",
+      "th": "เพิ่มเติม",
+      "en": "additional",
+      "zh-TW": "額外的",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_398",
+      "th": "เจ้าของ",
+      "en": "owner",
+      "zh-TW": "物主",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_399",
+      "th": "ครบ",
+      "en": "complete; all present",
+      "zh-TW": "齊全",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are followed by supporting vocabulary. Prior exposure refers to earlier lesson glossaries, not the master workbook.",
+      "zh-TW": "前七項為重點詞，其後為輔助詞彙；曾學標記依據先前故事詞表，並非主單字庫。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_022_reading_01",
+        "th": "เมื่อถึงห้อง ผมจะหยิบกระเป๋าสตางค์ออกจากกระเป๋าเป้ แต่กลับหาไม่เจอ",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around จะ...แต่กลับ.... แต่กลับ introduces what happens contrary to an expectation."
+      },
+      {
+        "id": "story_022_reading_02",
+        "th": "พอรู้ว่าไม่มีจริง ๆ ผมก็พยายามนึกว่าใช้กระเป๋าสตางค์ครั้งสุดท้ายที่ไหน",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around พอ + event + ก็ + response. พอ...ก็... links an event to the response that follows."
+      },
+      {
+        "id": "story_022_reading_03",
+        "th": "ผมจึงกลับไปที่ร้านและบอกข้อมูลเพิ่มเติมเพื่อยืนยันความเป็นเจ้าของ",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around action + เพื่อ + purpose. เพื่อ introduces the purpose of the action."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_022_pattern_01",
+      "name_en": "Contrast expectation and reality",
+      "pattern_th": "จะ...แต่กลับ...",
+      "explanation_en": "แต่กลับ introduces what happens contrary to an expectation.",
+      "examples": [
+        {
+          "th": "เมื่อถึงห้อง ผมจะหยิบกระเป๋าสตางค์ออกจากกระเป๋าเป้ แต่กลับหาไม่เจอ",
+          "en": "When I got to my room, I went to take my wallet out of my backpack but could not find it.",
+          "zh-TW": "回到房間後，我想從背包拿出錢包，卻找不到。"
+        }
+      ]
+    },
+    {
+      "id": "story_022_pattern_02",
+      "name_en": "Connect a trigger and response",
+      "pattern_th": "พอ + event + ก็ + response",
+      "explanation_en": "พอ...ก็... links an event to the response that follows.",
+      "examples": [
+        {
+          "th": "พอรู้ว่าไม่มีจริง ๆ ผมก็พยายามนึกว่าใช้กระเป๋าสตางค์ครั้งสุดท้ายที่ไหน",
+          "en": "Once I realized it really was not there, I tried to remember where I had last used it.",
+          "zh-TW": "確定真的不在後，我試著回想最後在哪裡用過錢包。"
+        }
+      ]
+    },
+    {
+      "id": "story_022_pattern_03",
+      "name_en": "State a purpose",
+      "pattern_th": "action + เพื่อ + purpose",
+      "explanation_en": "เพื่อ introduces the purpose of the action.",
+      "examples": [
+        {
+          "th": "ผมจึงกลับไปที่ร้านและบอกข้อมูลเพิ่มเติมเพื่อยืนยันความเป็นเจ้าของ",
+          "en": "So I returned to the café and gave more details to confirm ownership.",
+          "zh-TW": "因此我回到店裡，提供更多資訊以確認自己是失主。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_022_quiz_01",
+      "question_th": "ทำไมผมจึงค้นทุกช่องอีกครั้ง",
+      "question_en": "Why do I search every compartment again?",
+      "hint_en": "Reread sentence 3 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะไม่แน่ใจว่าเก็บไว้ตรงไหน",
+          "en": "Because I am unsure where I put it"
+        },
+        {
+          "id": "b",
+          "th": "เพราะอยากซื้อกระเป๋าใหม่",
+          "en": "Because I want a new bag"
+        },
+        {
+          "id": "c",
+          "th": "เพราะกำลังหากาแฟ",
+          "en": "Because I am looking for coffee"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_022_sentence_03",
+      "explanation_en": "I searched every compartment again because I was not sure where I had put it.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_022_quiz_02",
+      "question_th": "กระเป๋าสตางค์มีลักษณะอย่างไร",
+      "question_en": "What does the wallet look like?",
+      "hint_en": "Reread sentence 7 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สีดำและทำจากผ้า",
+          "en": "Black and made of fabric"
+        },
+        {
+          "id": "b",
+          "th": "สีน้ำตาลและทำจากหนัง",
+          "en": "Brown and made of leather"
+        },
+        {
+          "id": "c",
+          "th": "สีแดงและทำจากกระดาษ",
+          "en": "Red and made of paper"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_022_sentence_07",
+      "explanation_en": "I explained that it was a brown leather wallet with a student card inside.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_022_quiz_03",
+      "question_th": "ทำไมต้องให้ข้อมูลเพิ่มเติม",
+      "question_en": "Why must I give more details?",
+      "hint_en": "Reread sentence 9 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อสั่งเครื่องดื่ม",
+          "en": "To order a drink"
+        },
+        {
+          "id": "b",
+          "th": "เพื่อสมัครเรียน",
+          "en": "To enrol in a class"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อยืนยันความเป็นเจ้าของ",
+          "en": "To confirm ownership"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_022_sentence_09",
+      "explanation_en": "So I returned to the café and gave more details to confirm ownership.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_022_quiz_04",
+      "question_th": "หลังเหตุการณ์นี้ ผมเปลี่ยนนิสัยอย่างไร",
+      "question_en": "How do I change my habit afterwards?",
+      "hint_en": "Reread sentence 12 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ตรวจดูโทรศัพท์และกระเป๋าสตางค์ก่อนออกจากร้าน",
+          "en": "Check my phone and wallet before leaving shops"
+        },
+        {
+          "id": "b",
+          "th": "ไม่ไปร้านกาแฟอีก",
+          "en": "Never visit a café again"
+        },
+        {
+          "id": "c",
+          "th": "เก็บกระเป๋าไว้ใต้โต๊ะ",
+          "en": "Keep my wallet under a table"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_022_sentence_12",
+      "explanation_en": "Since then, I check my phone and wallet every time before leaving a shop.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_022_writing_01",
+        "en": "Write a sentence using จะ...แต่กลับ... to express this meaning: When I got to my room, I went to take my wallet out of my backpack but could not find it.",
+        "zh-TW": "使用「จะ...แต่กลับ...」寫一句表達以下意思的泰語：回到房間後，我想從背包拿出錢包，卻找不到。",
+        "suggested_answer_th": "เมื่อถึงห้อง ผมจะหยิบกระเป๋าสตางค์ออกจากกระเป๋าเป้ แต่กลับหาไม่เจอ"
+      },
+      {
+        "id": "story_022_writing_02",
+        "en": "Write a sentence using พอ + event + ก็ + response to express this meaning: Once I realized it really was not there, I tried to remember where I had last used it.",
+        "zh-TW": "使用「พอ + event + ก็ + response」寫一句表達以下意思的泰語：確定真的不在後，我試著回想最後在哪裡用過錢包。",
+        "suggested_answer_th": "พอรู้ว่าไม่มีจริง ๆ ผมก็พยายามนึกว่าใช้กระเป๋าสตางค์ครั้งสุดท้ายที่ไหน"
+      },
+      {
+        "id": "story_022_writing_03",
+        "en": "Write a sentence using action + เพื่อ + purpose to express this meaning: So I returned to the café and gave more details to confirm ownership.",
+        "zh-TW": "使用「action + เพื่อ + purpose」寫一句表達以下意思的泰語：因此我回到店裡，提供更多資訊以確認自己是失主。",
+        "suggested_answer_th": "ผมจึงกลับไปที่ร้านและบอกข้อมูลเพิ่มเติมเพื่อยืนยันความเป็นเจ้าของ"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_022_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_022_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_022_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied ALA Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original continuation at the connected-sentence difficulty used in Stories 16–20, informed by previously reviewed ALA Reading 2 references; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_022_sentence_01",
+      "story_022_sentence_02",
+      "story_022_sentence_03",
+      "story_022_sentence_04"
+    ],
+    [
+      "story_022_sentence_05",
+      "story_022_sentence_06",
+      "story_022_sentence_07",
+      "story_022_sentence_08"
+    ],
+    [
+      "story_022_sentence_09",
+      "story_022_sentence_10",
+      "story_022_sentence_11",
+      "story_022_sentence_12"
+    ]
+  ]
+}

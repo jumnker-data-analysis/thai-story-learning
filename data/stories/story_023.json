@@ -1,0 +1,533 @@
+{
+  "schema_version": 1,
+  "id": "story_023",
+  "level": 4,
+  "topic": "buying_a_shirt",
+  "title": {
+    "th": "ผมอยากซื้อเสื้อ",
+    "en": "I Want to Buy a Shirt",
+    "zh-TW": "我想買衣服"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_023_sentence_01",
+      "th": "สุดสัปดาห์นี้ผมจะไปงานวันเกิดเพื่อน จึงอยากซื้อเสื้อตัวใหม่ที่ใส่ได้หลายโอกาส",
+      "en": "I am going to a friend’s birthday party this weekend, so I want a new shirt that I can wear on various occasions.",
+      "zh-TW": "這週末我要參加朋友的生日聚會，因此想買一件適合不同場合的新上衣。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_023_sentence_02",
+      "th": "ก่อนออกจากบ้าน ผมตั้งงบไว้ไม่เกินห้าร้อยบาทเพื่อควบคุมค่าใช้จ่าย",
+      "en": "Before leaving home, I set a budget of no more than five hundred baht to control my spending.",
+      "zh-TW": "出門前，我設定不超過五百泰銖的預算，以控制花費。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_023_sentence_03",
+      "th": "เมื่อไปถึงร้าน พนักงานถามว่าผมกำลังมองหาเสื้อแบบไหน",
+      "en": "When I reached the shop, the assistant asked what kind of shirt I was looking for.",
+      "zh-TW": "到店後，店員問我正在找什麼款式的上衣。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_023_sentence_04",
+      "th": "ผมบอกว่าอยากได้เสื้อสีเรียบ ๆ ที่ใส่สบายและไม่หนาเกินไป",
+      "en": "I said I wanted a shirt in a plain colour that was comfortable and not too thick.",
+      "zh-TW": "我說想要素色、穿起來舒服，而且不會太厚的上衣。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_023_sentence_05",
+      "th": "พนักงานหยิบเสื้อสองตัวมาให้ดู โดยตัวหนึ่งสีฟ้าและอีกตัวหนึ่งสีขาว",
+      "en": "The assistant brought two shirts to show me, one blue and the other white.",
+      "zh-TW": "店員拿了兩件讓我看，一件藍色，另一件白色。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_023_sentence_06",
+      "th": "แม้ว่าผมจะชอบสีฟ้ามากกว่า แต่ขนาดที่ลองกลับคับตรงไหล่",
+      "en": "Although I preferred the blue one, the size I tried was tight around the shoulders.",
+      "zh-TW": "雖然我比較喜歡藍色，但試穿的尺寸肩膀卻太緊。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_023_sentence_07",
+      "th": "ผมจึงถามว่ามีขนาดใหญ่กว่านี้ให้ลองหรือไม่",
+      "en": "So I asked whether there was a larger size to try.",
+      "zh-TW": "因此我問有沒有大一號可以試穿。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_023_sentence_08",
+      "th": "หลังลองอีกขนาด ผมรู้สึกว่าเคลื่อนไหวได้สะดวกขึ้น แต่แขนเสื้อยาวไปนิดหน่อย",
+      "en": "After trying another size, I felt I could move more easily, but the sleeves were a little too long.",
+      "zh-TW": "換個尺寸試穿後，活動比較方便，但袖子又稍微太長。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_023_sentence_09",
+      "th": "ส่วนเสื้อสีขาวพอดีตัวและราคาอยู่ในงบที่ตั้งไว้",
+      "en": "The white shirt, however, fit me and was within my budget.",
+      "zh-TW": "而白色那件合身，價格也在設定的預算內。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_023_sentence_10",
+      "th": "ก่อนตัดสินใจ ผมถามเงื่อนไขการเปลี่ยนสินค้าและวิธีซักให้ชัดเจน",
+      "en": "Before deciding, I asked for a clear explanation of the exchange conditions and washing instructions.",
+      "zh-TW": "決定前，我問清楚換貨條件和清洗方式。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_023_sentence_11",
+      "th": "สุดท้ายผมเลือกเสื้อสีขาว เพราะความพอดีสำคัญกว่าสีที่ชอบเพียงอย่างเดียว",
+      "en": "In the end I chose the white shirt because fit mattered more than colour preference alone.",
+      "zh-TW": "最後我選了白色，因為合身比單純喜歡顏色更重要。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_023_sentence_12",
+      "th": "ผมเก็บใบเสร็จไว้ในกระเป๋า แล้วกลับบ้านโดยไม่ซื้อของเพิ่ม",
+      "en": "I put the receipt in my bag and went home without buying anything else.",
+      "zh-TW": "我把收據收進包包，沒有再買其他東西就回家了。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional reading practice with reasons, contrasts and practical communication.",
+      "zh-TW": "原創虛構閱讀練習，結合原因、對比與實際溝通。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_400",
+      "th": "งบ",
+      "en": "budget",
+      "zh-TW": "預算",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_401",
+      "th": "ค่าใช้จ่าย",
+      "en": "expenses",
+      "zh-TW": "花費",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_402",
+      "th": "เรียบ",
+      "en": "plain; simple",
+      "zh-TW": "素雅；簡單",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_403",
+      "th": "คับ",
+      "en": "tight-fitting",
+      "zh-TW": "緊的",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_404",
+      "th": "ไหล่",
+      "en": "shoulder",
+      "zh-TW": "肩膀",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_405",
+      "th": "พอดี",
+      "en": "fit; be just right",
+      "zh-TW": "合適；剛好",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_406",
+      "th": "เงื่อนไข",
+      "en": "condition; term",
+      "zh-TW": "條件",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_407",
+      "th": "โอกาส",
+      "en": "occasion; opportunity",
+      "zh-TW": "場合；機會",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_408",
+      "th": "ขนาด",
+      "en": "size",
+      "zh-TW": "尺寸",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_409",
+      "th": "เคลื่อนไหว",
+      "en": "move",
+      "zh-TW": "活動；移動",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_410",
+      "th": "แขนเสื้อ",
+      "en": "sleeve",
+      "zh-TW": "袖子",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_411",
+      "th": "ตัดสินใจ",
+      "en": "decide",
+      "zh-TW": "決定",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_412",
+      "th": "ใบเสร็จ",
+      "en": "receipt",
+      "zh-TW": "收據",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_413",
+      "th": "ซัก",
+      "en": "wash clothes",
+      "zh-TW": "洗衣服",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are followed by supporting vocabulary. Prior exposure refers to earlier lesson glossaries, not the master workbook.",
+      "zh-TW": "前七項為重點詞，其後為輔助詞彙；曾學標記依據先前故事詞表，並非主單字庫。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_023_reading_01",
+        "th": "ก่อนออกจากบ้าน ผมตั้งงบไว้ไม่เกินห้าร้อยบาทเพื่อควบคุมค่าใช้จ่าย",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around ไม่เกิน + amount. ไม่เกิน means not exceeding an amount."
+      },
+      {
+        "id": "story_023_reading_02",
+        "th": "แม้ว่าผมจะชอบสีฟ้ามากกว่า แต่ขนาดที่ลองกลับคับตรงไหล่",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around แม้ว่า...แต่.... แม้ว่า...แต่... contrasts a preference with a difficulty."
+      },
+      {
+        "id": "story_023_reading_03",
+        "th": "สุดท้ายผมเลือกเสื้อสีขาว เพราะความพอดีสำคัญกว่าสีที่ชอบเพียงอย่างเดียว",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around A + สำคัญกว่า + B. สำคัญกว่า says that one consideration matters more than another."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_023_pattern_01",
+      "name_en": "Set an upper limit",
+      "pattern_th": "ไม่เกิน + amount",
+      "explanation_en": "ไม่เกิน means not exceeding an amount.",
+      "examples": [
+        {
+          "th": "ก่อนออกจากบ้าน ผมตั้งงบไว้ไม่เกินห้าร้อยบาทเพื่อควบคุมค่าใช้จ่าย",
+          "en": "Before leaving home, I set a budget of no more than five hundred baht to control my spending.",
+          "zh-TW": "出門前，我設定不超過五百泰銖的預算，以控制花費。"
+        }
+      ]
+    },
+    {
+      "id": "story_023_pattern_02",
+      "name_en": "Express contrast",
+      "pattern_th": "แม้ว่า...แต่...",
+      "explanation_en": "แม้ว่า...แต่... contrasts a preference with a difficulty.",
+      "examples": [
+        {
+          "th": "แม้ว่าผมจะชอบสีฟ้ามากกว่า แต่ขนาดที่ลองกลับคับตรงไหล่",
+          "en": "Although I preferred the blue one, the size I tried was tight around the shoulders.",
+          "zh-TW": "雖然我比較喜歡藍色，但試穿的尺寸肩膀卻太緊。"
+        }
+      ]
+    },
+    {
+      "id": "story_023_pattern_03",
+      "name_en": "Compare priorities",
+      "pattern_th": "A + สำคัญกว่า + B",
+      "explanation_en": "สำคัญกว่า says that one consideration matters more than another.",
+      "examples": [
+        {
+          "th": "สุดท้ายผมเลือกเสื้อสีขาว เพราะความพอดีสำคัญกว่าสีที่ชอบเพียงอย่างเดียว",
+          "en": "In the end I chose the white shirt because fit mattered more than colour preference alone.",
+          "zh-TW": "最後我選了白色，因為合身比單純喜歡顏色更重要。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_023_quiz_01",
+      "question_th": "ผมตั้งงบไว้เท่าไร",
+      "question_en": "What budget do I set?",
+      "hint_en": "Reread sentence 2 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ไม่เกินห้าร้อยบาท",
+          "en": "No more than 500 baht"
+        },
+        {
+          "id": "b",
+          "th": "อย่างน้อยหนึ่งพันบาท",
+          "en": "At least 1,000 baht"
+        },
+        {
+          "id": "c",
+          "th": "ไม่จำกัดจำนวนเงิน",
+          "en": "No limit"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_023_sentence_02",
+      "explanation_en": "Before leaving home, I set a budget of no more than five hundred baht to control my spending.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_023_quiz_02",
+      "question_th": "เสื้อสีฟ้าตัวแรกมีปัญหาอะไร",
+      "question_en": "What is the problem with the first blue shirt?",
+      "hint_en": "Reread sentence 6 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "แขนสั้นเกินไป",
+          "en": "The sleeves are too short"
+        },
+        {
+          "id": "b",
+          "th": "คับตรงไหล่",
+          "en": "It is tight around the shoulders"
+        },
+        {
+          "id": "c",
+          "th": "สีขาวเกินไป",
+          "en": "It is too white"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_023_sentence_06",
+      "explanation_en": "Although I preferred the blue one, the size I tried was tight around the shoulders.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_023_quiz_03",
+      "question_th": "ก่อนตัดสินใจ ผมถามเรื่องอะไร",
+      "question_en": "What do I ask about before deciding?",
+      "hint_en": "Reread sentence 10 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เวลางานวันเกิด",
+          "en": "The birthday party time"
+        },
+        {
+          "id": "b",
+          "th": "เส้นทางกลับบ้าน",
+          "en": "The route home"
+        },
+        {
+          "id": "c",
+          "th": "เงื่อนไขการเปลี่ยนสินค้าและวิธีซัก",
+          "en": "Exchange conditions and washing instructions"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_023_sentence_10",
+      "explanation_en": "Before deciding, I asked for a clear explanation of the exchange conditions and washing instructions.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_023_quiz_04",
+      "question_th": "ทำไมผมจึงเลือกเสื้อสีขาว",
+      "question_en": "Why do I choose the white shirt?",
+      "hint_en": "Reread sentence 11 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะให้ความสำคัญกับความพอดีมากกว่าแค่สี",
+          "en": "Because I value fit more than colour alone"
+        },
+        {
+          "id": "b",
+          "th": "เพราะไม่ชอบสีฟ้าเลย",
+          "en": "Because I do not like blue at all"
+        },
+        {
+          "id": "c",
+          "th": "เพราะต้องซื้อทั้งสองตัว",
+          "en": "Because I must buy both"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_023_sentence_11",
+      "explanation_en": "In the end I chose the white shirt because fit mattered more than colour preference alone.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_023_writing_01",
+        "en": "Write a sentence using ไม่เกิน + amount to express this meaning: Before leaving home, I set a budget of no more than five hundred baht to control my spending.",
+        "zh-TW": "使用「ไม่เกิน + amount」寫一句表達以下意思的泰語：出門前，我設定不超過五百泰銖的預算，以控制花費。",
+        "suggested_answer_th": "ก่อนออกจากบ้าน ผมตั้งงบไว้ไม่เกินห้าร้อยบาทเพื่อควบคุมค่าใช้จ่าย"
+      },
+      {
+        "id": "story_023_writing_02",
+        "en": "Write a sentence using แม้ว่า...แต่... to express this meaning: Although I preferred the blue one, the size I tried was tight around the shoulders.",
+        "zh-TW": "使用「แม้ว่า...แต่...」寫一句表達以下意思的泰語：雖然我比較喜歡藍色，但試穿的尺寸肩膀卻太緊。",
+        "suggested_answer_th": "แม้ว่าผมจะชอบสีฟ้ามากกว่า แต่ขนาดที่ลองกลับคับตรงไหล่"
+      },
+      {
+        "id": "story_023_writing_03",
+        "en": "Write a sentence using A + สำคัญกว่า + B to express this meaning: In the end I chose the white shirt because fit mattered more than colour preference alone.",
+        "zh-TW": "使用「A + สำคัญกว่า + B」寫一句表達以下意思的泰語：最後我選了白色，因為合身比單純喜歡顏色更重要。",
+        "suggested_answer_th": "สุดท้ายผมเลือกเสื้อสีขาว เพราะความพอดีสำคัญกว่าสีที่ชอบเพียงอย่างเดียว"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_023_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_023_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_023_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied ALA Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original continuation at the connected-sentence difficulty used in Stories 16–20, informed by previously reviewed ALA Reading 2 references; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_023_sentence_01",
+      "story_023_sentence_02",
+      "story_023_sentence_03",
+      "story_023_sentence_04"
+    ],
+    [
+      "story_023_sentence_05",
+      "story_023_sentence_06",
+      "story_023_sentence_07",
+      "story_023_sentence_08"
+    ],
+    [
+      "story_023_sentence_09",
+      "story_023_sentence_10",
+      "story_023_sentence_11",
+      "story_023_sentence_12"
+    ]
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "id": "story_021",
+  "level": 4,
+  "topic": "feeling_unwell",
+  "title": {
+    "th": "ผมไม่สบาย",
+    "en": "I Don’t Feel Well",
+    "zh-TW": "我不舒服"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read exactly twelve connected sentences in three paragraph groups.",
+    "Understand reasons, contrasts, conditions, and purposes in context.",
+    "Explain answers using evidence from the story.",
+    "Construct and personalize three sentences using target patterns."
+  ],
+  "sentences": [
+    {
+      "id": "story_021_sentence_01",
+      "th": "เช้าวันจันทร์ ผมตื่นขึ้นมาแล้วรู้สึกเจ็บคอและเหนื่อยกว่าปกติ",
+      "en": "On Monday morning I woke up with a sore throat and felt more tired than usual.",
+      "zh-TW": "星期一早上，我醒來後覺得喉嚨痛，也比平常累。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_021_sentence_02",
+      "th": "ตอนแรกผมคิดว่าจะไปเรียนตามปกติ แต่ระหว่างเตรียมตัวก็รู้สึกว่าไม่มีแรง",
+      "en": "At first I planned to go to class as usual, but while getting ready I felt I had no energy.",
+      "zh-TW": "起初我打算照常上課，但準備出門時卻覺得沒有力氣。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_021_sentence_03",
+      "th": "ผมจึงส่งข้อความบอกครูว่าต้องขอลาหยุดและจะตามงานภายหลัง",
+      "en": "So I messaged my teacher to ask for a day off and said I would catch up on the work later.",
+      "zh-TW": "因此我傳訊息向老師請假，並說之後會補上進度。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_021_sentence_04",
+      "th": "เนื่องจากเย็นนี้มีงานที่ร้านอาหาร ผมจึงโทรแจ้งหัวหน้าด้วย",
+      "en": "Since I was scheduled to work at the restaurant that evening, I also called my supervisor.",
+      "zh-TW": "因為當晚還要在餐廳上班，我也打電話通知主管。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_021_sentence_05",
+      "th": "หัวหน้าขอให้ผมแจ้งอาการให้ชัดเจน เพื่อจะได้จัดตารางงานใหม่",
+      "en": "My supervisor asked me to describe how I felt clearly so that the work schedule could be rearranged.",
+      "zh-TW": "主管請我清楚說明狀況，以便重新安排班表。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_021_sentence_06",
+      "th": "หลังจากนั้น ผมโทรไปคลินิกใกล้บ้านเพื่อสอบถามเวลาที่สามารถเข้าพบแพทย์ได้",
+      "en": "After that I called a nearby clinic to ask when I could see a doctor.",
+      "zh-TW": "之後我打電話給家附近的診所，詢問可以看診的時間。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_021_sentence_07",
+      "th": "เจ้าหน้าที่ถามว่าผมเริ่มมีอาการตั้งแต่เมื่อไร และสะดวกมาตอนไหน",
+      "en": "The staff member asked when my symptoms had started and when I could come.",
+      "zh-TW": "工作人員問我從什麼時候開始不舒服，以及什麼時間方便過去。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_021_sentence_08",
+      "th": "ผมตอบว่าเริ่มเจ็บคอตั้งแต่เมื่อคืน และขอเวลาช่วงสาย",
+      "en": "I said my throat had started hurting the previous night and asked for a late-morning appointment.",
+      "zh-TW": "我回答昨晚開始喉嚨痛，並希望約上午稍晚的時間。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_021_sentence_09",
+      "th": "เมื่อไปถึงคลินิก ผมพยายามอธิบายอาการเป็นภาษาไทยโดยใช้คำที่เตรียมไว้",
+      "en": "When I arrived at the clinic, I tried describing my symptoms in Thai using words I had prepared.",
+      "zh-TW": "到診所後，我試著用事先準備的詞彙，以泰語說明症狀。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_021_sentence_10",
+      "th": "ถ้าไม่เข้าใจคำถาม ผมจะขอให้แพทย์พูดซ้ำแทนที่จะเดาความหมาย",
+      "en": "If I did not understand a question, I would ask the doctor to repeat it instead of guessing the meaning.",
+      "zh-TW": "如果聽不懂問題，我就請醫師再說一次，而不是猜意思。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_021_sentence_11",
+      "th": "ก่อนกลับ ผมตรวจสอบว่าตัวเองเข้าใจคำแนะนำถูกต้องหรือไม่",
+      "en": "Before leaving, I checked whether I had understood the instructions correctly.",
+      "zh-TW": "離開前，我確認自己是否正確理解了說明。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_021_sentence_12",
+      "th": "วันนี้ผมไม่ได้ทำตามแผนเดิมทั้งหมด แต่ได้ฝึกขอความช่วยเหลือเมื่อจำเป็น",
+      "en": "Today I did not follow my whole original plan, but I practised asking for help when necessary.",
+      "zh-TW": "今天我沒能完全照原定計畫行動，但練習了在需要時尋求幫助。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional reading practice with reasons, contrasts and practical communication.",
+      "zh-TW": "原創虛構閱讀練習，結合原因、對比與實際溝通。"
+    },
+    {
+      "en": "This story practises describing symptoms and arranging a visit; it provides no diagnosis or treatment instructions.",
+      "zh-TW": "本篇練習描述症狀與安排看診，不提供診斷或治療指示。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_372",
+      "th": "เจ็บคอ",
+      "en": "have a sore throat",
+      "zh-TW": "喉嚨痛",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_373",
+      "th": "อาการ",
+      "en": "symptom; condition",
+      "zh-TW": "症狀；狀況",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_374",
+      "th": "ลาหยุด",
+      "en": "request time off",
+      "zh-TW": "請假",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_375",
+      "th": "หัวหน้า",
+      "en": "supervisor",
+      "zh-TW": "主管",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_376",
+      "th": "คลินิก",
+      "en": "clinic",
+      "zh-TW": "診所",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_377",
+      "th": "แพทย์",
+      "en": "doctor",
+      "zh-TW": "醫師",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_378",
+      "th": "จำเป็น",
+      "en": "necessary",
+      "zh-TW": "必要",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true
+    },
+    {
+      "id": "word_379",
+      "th": "ตามปกติ",
+      "en": "as usual",
+      "zh-TW": "照常",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_380",
+      "th": "ภายหลัง",
+      "en": "later",
+      "zh-TW": "之後",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_381",
+      "th": "แจ้ง",
+      "en": "inform",
+      "zh-TW": "通知",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_382",
+      "th": "สอบถาม",
+      "en": "inquire",
+      "zh-TW": "詢問",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_383",
+      "th": "ตั้งแต่",
+      "en": "since; from",
+      "zh-TW": "從……開始",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_384",
+      "th": "คำแนะนำ",
+      "en": "instructions; advice",
+      "zh-TW": "說明；建議",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    },
+    {
+      "id": "word_385",
+      "th": "เดา",
+      "en": "guess",
+      "zh-TW": "猜測",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries are followed by supporting vocabulary. Prior exposure refers to earlier lesson glossaries, not the master workbook.",
+      "zh-TW": "前七項為重點詞，其後為輔助詞彙；曾學標記依據先前故事詞表，並非主單字庫。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_021_reading_01",
+        "th": "เนื่องจากเย็นนี้มีงานที่ร้านอาหาร ผมจึงโทรแจ้งหัวหน้าด้วย",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around เนื่องจาก...จึง.... เนื่องจาก introduces a reason and จึง links it to a result."
+      },
+      {
+        "id": "story_021_reading_02",
+        "th": "หัวหน้าขอให้ผมแจ้งอาการให้ชัดเจน เพื่อจะได้จัดตารางงานใหม่",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around action + เพื่อจะได้ + result. เพื่อจะได้ introduces the intended benefit of an action."
+      },
+      {
+        "id": "story_021_reading_03",
+        "th": "ถ้าไม่เข้าใจคำถาม ผมจะขอให้แพทย์พูดซ้ำแทนที่จะเดาความหมาย",
+        "school_reading": "",
+        "note_en": "Read in meaningful groups around action + แทนที่จะ + alternative. แทนที่จะ introduces the alternative that is replaced."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_021_pattern_01",
+      "name_en": "Explain a cause",
+      "pattern_th": "เนื่องจาก...จึง...",
+      "explanation_en": "เนื่องจาก introduces a reason and จึง links it to a result.",
+      "examples": [
+        {
+          "th": "เนื่องจากเย็นนี้มีงานที่ร้านอาหาร ผมจึงโทรแจ้งหัวหน้าด้วย",
+          "en": "Since I was scheduled to work at the restaurant that evening, I also called my supervisor.",
+          "zh-TW": "因為當晚還要在餐廳上班，我也打電話通知主管。"
+        }
+      ]
+    },
+    {
+      "id": "story_021_pattern_02",
+      "name_en": "Explain a purpose",
+      "pattern_th": "action + เพื่อจะได้ + result",
+      "explanation_en": "เพื่อจะได้ introduces the intended benefit of an action.",
+      "examples": [
+        {
+          "th": "หัวหน้าขอให้ผมแจ้งอาการให้ชัดเจน เพื่อจะได้จัดตารางงานใหม่",
+          "en": "My supervisor asked me to describe how I felt clearly so that the work schedule could be rearranged.",
+          "zh-TW": "主管請我清楚說明狀況，以便重新安排班表。"
+        }
+      ]
+    },
+    {
+      "id": "story_021_pattern_03",
+      "name_en": "Choose another action",
+      "pattern_th": "action + แทนที่จะ + alternative",
+      "explanation_en": "แทนที่จะ introduces the alternative that is replaced.",
+      "examples": [
+        {
+          "th": "ถ้าไม่เข้าใจคำถาม ผมจะขอให้แพทย์พูดซ้ำแทนที่จะเดาความหมาย",
+          "en": "If I did not understand a question, I would ask the doctor to repeat it instead of guessing the meaning.",
+          "zh-TW": "如果聽不懂問題，我就請醫師再說一次，而不是猜意思。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_021_quiz_01",
+      "question_th": "ทำไมผมจึงโทรแจ้งหัวหน้า",
+      "question_en": "Why do I call my supervisor?",
+      "hint_en": "Reread sentence 4 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะเย็นนี้มีงานที่ร้านอาหาร",
+          "en": "Because I am scheduled to work that evening"
+        },
+        {
+          "id": "b",
+          "th": "เพราะอยากเปลี่ยนร้าน",
+          "en": "Because I want to change restaurants"
+        },
+        {
+          "id": "c",
+          "th": "เพราะครูทำงานที่คลินิก",
+          "en": "Because my teacher works at the clinic"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_021_sentence_04",
+      "explanation_en": "Since I was scheduled to work at the restaurant that evening, I also called my supervisor.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_021_quiz_02",
+      "question_th": "อาการเริ่มเมื่อไร",
+      "question_en": "When did the symptoms start?",
+      "hint_en": "Reread sentence 8 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เช้าวันอังคาร",
+          "en": "Tuesday morning"
+        },
+        {
+          "id": "b",
+          "th": "เมื่อคืน",
+          "en": "The previous night"
+        },
+        {
+          "id": "c",
+          "th": "สัปดาห์หน้า",
+          "en": "Next week"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_021_sentence_08",
+      "explanation_en": "I said my throat had started hurting the previous night and asked for a late-morning appointment.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_021_quiz_03",
+      "question_th": "เมื่อไม่เข้าใจคำถาม ผมจะทำอย่างไร",
+      "question_en": "What do I do when I do not understand a question?",
+      "hint_en": "Reread sentence 10 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เดาความหมาย",
+          "en": "Guess the meaning"
+        },
+        {
+          "id": "b",
+          "th": "หยุดตอบทุกคำถาม",
+          "en": "Stop answering every question"
+        },
+        {
+          "id": "c",
+          "th": "ขอให้แพทย์พูดซ้ำ",
+          "en": "Ask the doctor to repeat it"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_021_sentence_10",
+      "explanation_en": "If I did not understand a question, I would ask the doctor to repeat it instead of guessing the meaning.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_021_quiz_04",
+      "question_th": "ก่อนกลับ ผมตรวจสอบเรื่องอะไร",
+      "question_en": "What do I check before leaving?",
+      "hint_en": "Reread sentence 11 and identify the relevant detail or reason.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ว่าเข้าใจคำแนะนำถูกต้องหรือไม่",
+          "en": "Whether I understand the instructions correctly"
+        },
+        {
+          "id": "b",
+          "th": "ว่าครูมาถึงหรือยัง",
+          "en": "Whether the teacher has arrived"
+        },
+        {
+          "id": "c",
+          "th": "ว่าร้านอาหารเปิดหรือไม่",
+          "en": "Whether the restaurant is open"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_021_sentence_11",
+      "explanation_en": "Before leaving, I checked whether I had understood the instructions correctly.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_021_writing_01",
+        "en": "Write a sentence using เนื่องจาก...จึง... to express this meaning: Since I was scheduled to work at the restaurant that evening, I also called my supervisor.",
+        "zh-TW": "使用「เนื่องจาก...จึง...」寫一句表達以下意思的泰語：因為當晚還要在餐廳上班，我也打電話通知主管。",
+        "suggested_answer_th": "เนื่องจากเย็นนี้มีงานที่ร้านอาหาร ผมจึงโทรแจ้งหัวหน้าด้วย"
+      },
+      {
+        "id": "story_021_writing_02",
+        "en": "Write a sentence using action + เพื่อจะได้ + result to express this meaning: My supervisor asked me to describe how I felt clearly so that the work schedule could be rearranged.",
+        "zh-TW": "使用「action + เพื่อจะได้ + result」寫一句表達以下意思的泰語：主管請我清楚說明狀況，以便重新安排班表。",
+        "suggested_answer_th": "หัวหน้าขอให้ผมแจ้งอาการให้ชัดเจน เพื่อจะได้จัดตารางงานใหม่"
+      },
+      {
+        "id": "story_021_writing_03",
+        "en": "Write a sentence using action + แทนที่จะ + alternative to express this meaning: If I did not understand a question, I would ask the doctor to repeat it instead of guessing the meaning.",
+        "zh-TW": "使用「action + แทนที่จะ + alternative」寫一句表達以下意思的泰語：如果聽不懂問題，我就請醫師再說一次，而不是猜意思。",
+        "suggested_answer_th": "ถ้าไม่เข้าใจคำถาม ผมจะขอให้แพทย์พูดซ้ำแทนที่จะเดาความหมาย"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own experience, including a reason, contrast, or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_021_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_021_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_021_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a short voice memo and compare it with your next attempt."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "User-supplied ALA Reading 2 photos, six chapters, reviewed 2026-10-24",
+    "approach": "Original continuation at the connected-sentence difficulty used in Stories 16–20, informed by previously reviewed ALA Reading 2 references; not a formal proficiency rating.",
+    "reference_images": [
+      "IMG_0436(1).jpeg",
+      "IMG_0439(1).jpeg",
+      "IMG_0442(1).jpeg",
+      "IMG_0445.jpeg",
+      "IMG_0448.jpeg",
+      "IMG_0451.jpeg"
+    ]
+  },
+  "paragraph_groups": [
+    [
+      "story_021_sentence_01",
+      "story_021_sentence_02",
+      "story_021_sentence_03",
+      "story_021_sentence_04"
+    ],
+    [
+      "story_021_sentence_05",
+      "story_021_sentence_06",
+      "story_021_sentence_07",
+      "story_021_sentence_08"
+    ],
+    [
+      "story_021_sentence_09",
+      "story_021_sentence_10",
+      "story_021_sentence_11",
+      "story_021_sentence_12"
+    ]
+  ]
+}
