@@ -225,3 +225,111 @@ footer {
   background: white;
   color: #263b32;
 }
+/* BEGIN WORD CARDS — append this section to your existing styles.css. */
+@font-face {
+  font-family: "WordCardsSarabun";
+  src: url("./assets/fonts/Sarabun-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+body.words-page {
+  margin: 0;
+  background: #f6f5ef;
+  color: #23382f;
+  font-family: "WordCardsSarabun", Tahoma, "Noto Serif Thai", serif;
+  font-size: 17px;
+  line-height: 1.65;
+}
+.words-page *, .words-page *::before, .words-page *::after { box-sizing: border-box; }
+.words-page [hidden] { display: none !important; }
+.words-page .words-shell { width: min(1080px, 100%); margin: 0 auto; padding: 24px; }
+.words-page .words-nav { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 38px; }
+.words-page .words-nav a { display: inline-block; padding: 10px 16px; color: #254b3d; border-radius: 24px; text-decoration: none; background: #fff; border: 1px solid #c5d2c8; }
+.words-page .words-nav a[aria-current="page"] { background: #254b3d; color: #fff; }
+.words-page .words-header { max-width: 760px; margin-bottom: 28px; }
+.words-page h1 { margin: 6px 0; color: #23382f; font-size: clamp(2rem, 6vw, 3.2rem); line-height: 1.25; }
+.words-page .words-eyebrow { color: #526456; font-family: Arial, sans-serif; font-size: .8rem; letter-spacing: .14em; }
+.words-page .words-thai-subtitle { font-size: 1.5rem; margin: 12px 0; }
+.words-page .words-intro { padding: 22px; background: #e9eee3; border: 1px solid #c5d2c8; border-radius: 16px; margin-bottom: 24px; }
+.words-page .words-intro h2 { font-size: 1.2rem; margin: 0 0 8px; }
+.words-page .words-intro p { margin: 10px 0; }
+.words-page .words-small { font-size: .9rem; color: #526456; }
+.words-page .words-controls { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
+.words-page .words-controls label { display: block; font-size: .92rem; margin-bottom: 6px; }
+.words-page .words-controls input, .words-page .words-controls select {
+  width: 100%; min-height: 48px; padding: 10px 12px; font: inherit; color: #23382f;
+  background: #fff; border: 1px solid #94a69b; border-radius: 10px; margin: 0;
+}
+.words-page .words-toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; margin: 20px 0; }
+.words-page #words-status { margin: 0; color: #526456; }
+.words-page .words-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: start; }
+.words-page .words-card { min-width: 0; border: 1px solid #c5d2c8; border-radius: 18px; background: #fff; padding: 24px; box-shadow: 0 4px 12px #23382f08; text-align: left; overflow-wrap: anywhere; }
+.words-page .words-card-label { margin: 0 0 12px; color: #526456; font-size: .85rem; }
+.words-page .words-card-word { font-family: "WordCardsSarabun", Tahoma, serif; font-size: 2.8rem; line-height: 1.6; margin: 4px 0; font-weight: 400; color: #23382f; }
+.words-page .words-card-prompt { font-size: .9rem; color: #526456; margin: 8px 0 18px; }
+.words-page .words-button { display: inline-block; width: auto; min-height: 44px; padding: 10px 18px; border: 1px solid #254b3d; border-radius: 10px; background: #254b3d; color: #fff; font: inherit; font-size: .95rem; cursor: pointer; margin: 0; }
+.words-page .words-button:hover { background: #183a2c; }
+.words-page .words-secondary { background: transparent; color: #254b3d; }
+.words-page .words-secondary:hover { background: #e9eee3; }
+.words-page .words-button:disabled { opacity: .55; cursor: wait; }
+.words-page a:focus-visible, .words-page button:focus-visible, .words-page input:focus-visible, .words-page select:focus-visible, .words-page summary:focus-visible { outline: 3px solid #b05a22; outline-offset: 4px; }
+.words-page .words-answer { margin-top: 20px; padding-top: 18px; border-top: 1px solid #d7dfd8; }
+.words-page .words-field-label { font-size: .85rem; color: #526456; margin: 0; }
+.words-page .words-reading { font-size: 1.7rem; margin: 4px 0 14px; color: #254b3d; }
+.words-page .words-meaning, .words-page .words-chinese { font-size: 1.15rem; margin: 5px 0; }
+.words-page .words-note { font-size: .95rem; margin: 12px 0; }
+.words-page .words-example-label { margin: 20px 0 8px; font-size: 1rem; }
+.words-page .words-example-thai { font-size: 1.25rem; line-height: 1.9; margin: 8px 0; }
+.words-page .words-example-translation { margin: 7px 0; font-size: .95rem; }
+.words-page .words-error { background: #fff1ed; border: 1px solid #a33a24; color: #792818; padding: 18px; border-radius: 12px; }
+.words-page .words-empty { padding: 24px; text-align: center; }
+.words-page .words-footer { margin: 36px 0 16px; color: #526456; font-size: .9rem; }
+.words-page .words-footer a { color: #254b3d; }
+.words-page summary { cursor: pointer; }
+@media (max-width: 640px) {
+  .words-page .words-shell { padding: 18px 16px; }
+  .words-page .words-grid, .words-page .words-controls { grid-template-columns: 1fr; }
+  .words-page .words-card { padding: 20px; }
+  .words-page .words-nav { margin-bottom: 26px; }
+}
+/* END WORD CARDS */
+/* Begin Shared navigation for Stories and Words */
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 32px;
+  padding: 16px 0;
+}
+
+.site-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 10px 16px;
+  border: 1px solid #c5d2c8;
+  border-radius: 24px;
+  background: #fff;
+  color: #254b3d;
+  font: inherit;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.site-nav a[aria-current="page"] {
+  background: #254b3d;
+  color: #fff;
+}
+
+.site-nav a:hover {
+  background: #e9eee3;
+  color: #254b3d;
+}
+
+.site-nav a:focus-visible {
+  outline: 3px solid #b05a22;
+  outline-offset: 4px;
+}
+/* End Shared navigation for Stories and Words */

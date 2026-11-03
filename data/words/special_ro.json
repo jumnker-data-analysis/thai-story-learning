@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "id": "special_ro",
+  "title": {
+    "th": "คำที่มี ร: ชุดแรก",
+    "en": "Special ร: first collection",
+    "zh-TW": "含 ร 的詞：第一組"
+  },
+  "groups": [
+    {
+      "id": "r-silent",
+      "label": "ร not pronounced separately"
+    },
+    {
+      "id": "tr-s",
+      "label": "ทร read with an s sound"
+    }
+  ],
+  "pronunciation_conventions": {
+    "ก": "k",
+    "จ": "j",
+    "ง": "ŋ",
+    "vowel_initial": "ʔ",
+    "long_vowels": "Double the short vowel symbol: aa, ɔɔ, əə.",
+    "schwa": "ə",
+    "status": "Thai reading hints source-checked. School romanization not supplied pending school reference review."
+  },
+  "sources": [
+    {
+      "id": "dltv-lesson",
+      "title": "DLTV: คำควบไม่แท้",
+      "url": "https://dltv.ac.th/utils/files/download/179572",
+      "locator": "PDF pages 15–19; individual word reading examples; exceptions discussed on pages 18–19.",
+      "checked_on": "2026-11-03"
+    },
+    {
+      "id": "dltv-reading",
+      "title": "DLTV: คำควบกล้ำไม่แท้ reading examples",
+      "url": "https://dltv.ac.th/utils/files/download/118820",
+      "locator": "Search-index text includes เสร็จ → เส็ด; direct link returned 404 during check.",
+      "checked_on": "2026-11-03",
+      "verification_method": "search-index text, not direct PDF"
+    },
+    {
+      "id": "dltv-worksheet",
+      "title": "DLTV: เฉลยใบงานที่ 7 คำควบกล้ำไม่แท้",
+      "url": "https://dltv.ac.th/utils/files/download/175610",
+      "locator": "Search-index answer text includes ต้นไทร, แทรก, ทรัพย์สิน. สร้อย reading also appears in indexed worksheet 139058.",
+      "checked_on": "2026-11-03",
+      "verification_method": "search-index text; direct PDF exceeds tool size limit"
+    }
+  ],
+  "words": [
+    {
+      "id": "ro-jing",
+      "th": "จริง",
+      "reading_th": "จิง",
+      "school_reading": "",
+      "group_id": "r-silent",
+      "en": "true; real",
+      "zh-TW": "真的；真實的",
+      "note_en": "Do not pronounce ร as a separate r sound in this word.",
+      "note_zh-TW": "這個詞的 ร 不單獨發 r 音。",
+      "example": {
+        "th": "เรื่องนี้เป็นเรื่องจริง",
+        "en": "This story is true.",
+        "zh-TW": "這個故事是真的。"
+      },
+      "source_ids": [
+        "dltv-lesson"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-saang",
+      "th": "สร้าง",
+      "reading_th": "ส้าง",
+      "school_reading": "",
+      "group_id": "r-silent",
+      "en": "build; create",
+      "zh-TW": "建造；創造",
+      "note_en": "Read the initial ส sound without a separate ร sound. The Thai reading hint retains the tone.",
+      "note_zh-TW": "詞首讀 ส 的音，不另讀 ร；泰語讀音提示保留聲調。",
+      "example": {
+        "th": "เขาอยากสร้างบ้านเล็ก ๆ",
+        "en": "He wants to build a small house.",
+        "zh-TW": "他想蓋一間小房子。"
+      },
+      "source_ids": [
+        "dltv-lesson"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-sao",
+      "th": "เศร้า",
+      "reading_th": "เส้า",
+      "school_reading": "",
+      "group_id": "r-silent",
+      "en": "sad",
+      "zh-TW": "難過；悲傷",
+      "note_en": "In this word ศร is read with an s sound; ร is not pronounced separately.",
+      "note_zh-TW": "這個詞的 ศร 讀 s 音，ร 不另外發音。",
+      "example": {
+        "th": "วันนี้ผมรู้สึกเศร้า",
+        "en": "Today I feel sad.",
+        "zh-TW": "今天我覺得難過。"
+      },
+      "source_ids": [
+        "dltv-lesson"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-set",
+      "th": "เสร็จ",
+      "reading_th": "เส็ด",
+      "school_reading": "",
+      "group_id": "r-silent",
+      "en": "finish; be finished",
+      "zh-TW": "完成；結束",
+      "note_en": "Do not pronounce a separate ร. Notice the final sound in the Thai reading hint.",
+      "note_zh-TW": "ร 不單獨發音，並留意泰語讀音提示中的尾音。",
+      "example": {
+        "th": "ผมทำการบ้านเสร็จแล้ว",
+        "en": "I have finished my homework.",
+        "zh-TW": "我已經做完作業了。"
+      },
+      "source_ids": [
+        "dltv-reading"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-soi",
+      "th": "สร้อย",
+      "reading_th": "ส้อย",
+      "school_reading": "",
+      "group_id": "r-silent",
+      "en": "necklace",
+      "zh-TW": "項鍊",
+      "note_en": "The ร in this word is not a separate r sound. Learn the complete word with its tone.",
+      "note_zh-TW": "這個詞的 ร 不單獨發 r 音；請連同聲調記住整個詞。",
+      "example": {
+        "th": "แม่ใส่สร้อยสีทอง",
+        "en": "Mother is wearing a gold-coloured necklace.",
+        "zh-TW": "媽媽戴著金色的項鍊。"
+      },
+      "source_ids": [
+        "dltv-worksheet"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-saay",
+      "th": "ทราย",
+      "reading_th": "ซาย",
+      "school_reading": "",
+      "group_id": "tr-s",
+      "en": "sand",
+      "zh-TW": "沙；沙子",
+      "note_en": "In this word ทร is read with an s sound, as in ซ, rather than a tr cluster.",
+      "note_zh-TW": "這個詞的 ทร 讀成 ซ 的 s 音，不讀成 tr 子音群。",
+      "example": {
+        "th": "เด็ก ๆ เล่นทรายที่ชายหาด",
+        "en": "The children play in the sand at the beach.",
+        "zh-TW": "孩子們在海灘玩沙。"
+      },
+      "source_ids": [
+        "dltv-lesson"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-saap",
+      "th": "ทราบ",
+      "reading_th": "ซาบ",
+      "school_reading": "",
+      "group_id": "tr-s",
+      "en": "know; be informed (formal)",
+      "zh-TW": "知道；知悉（較正式）",
+      "note_en": "ทร is read with an s sound here. This word is more formal than รู้.",
+      "note_zh-TW": "這裡的 ทร 讀 s 音；這個詞比 รู้ 正式。",
+      "example": {
+        "th": "ผมไม่ทราบเวลาเปิดร้าน",
+        "en": "I do not know the shop’s opening time.",
+        "zh-TW": "我不知道店家的營業時間。"
+      },
+      "source_ids": [
+        "dltv-lesson"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-saek",
+      "th": "แทรก",
+      "reading_th": "แซก",
+      "school_reading": "",
+      "group_id": "tr-s",
+      "en": "insert; interpose",
+      "zh-TW": "插入；插話",
+      "note_en": "Read ทร with an s sound in this word. In the example, พูดแทรก means interrupt.",
+      "note_zh-TW": "這個詞的 ทร 讀 s 音；例句中的 พูดแทรก 表示插話。",
+      "example": {
+        "th": "อย่าพูดแทรกตอนเพื่อนกำลังอธิบาย",
+        "en": "Do not interrupt while your friend is explaining.",
+        "zh-TW": "朋友正在解釋時，不要插話。"
+      },
+      "source_ids": [
+        "dltv-worksheet"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-sap",
+      "th": "ทรัพย์",
+      "reading_th": "ซับ",
+      "school_reading": "",
+      "group_id": "tr-s",
+      "en": "property; wealth; assets",
+      "zh-TW": "財產；財富",
+      "note_en": "Read ทร with an s sound. The marked ย์ is silent in this word.",
+      "note_zh-TW": "ทร 讀 s 音；這個詞中帶符號的 ย์ 不發音。",
+      "example": {
+        "th": "เขามีทรัพย์ไม่มาก แต่มีความสุข",
+        "en": "He does not have much wealth, but he is happy.",
+        "zh-TW": "他財富不多，但很幸福。"
+      },
+      "source_ids": [
+        "dltv-worksheet"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    },
+    {
+      "id": "ro-sai",
+      "th": "ไทร",
+      "reading_th": "ไซ",
+      "school_reading": "",
+      "group_id": "tr-s",
+      "en": "banyan tree; a type of fig tree",
+      "zh-TW": "榕樹",
+      "note_en": "In this tree name, ทร is read with an s sound. ต้นไทร refers to the tree.",
+      "note_zh-TW": "這個樹名中的 ทร 讀 s 音；ต้นไทร 指榕樹。",
+      "example": {
+        "th": "มีต้นไทรอยู่ใกล้บ้าน",
+        "en": "There is a banyan tree near the house.",
+        "zh-TW": "房子附近有一棵榕樹。"
+      },
+      "source_ids": [
+        "dltv-worksheet"
+      ],
+      "review_status": "Thai reading source-checked; ALA transcription pending school review"
+    }
+  ]
+}
