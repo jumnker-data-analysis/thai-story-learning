@@ -1,0 +1,653 @@
+{
+  "schema_version": 1,
+  "id": "story_028",
+  "level": 5,
+  "topic": "learning_a_new_job",
+  "title": {
+    "th": "วันแรกที่ทำงาน",
+    "en": "My First Day at Work",
+    "zh-TW": "上班第一天"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read twelve connected sentences in three groups of four.",
+    "Understand reasons, contrasting choices and conditional plans.",
+    "Explain answers using sentence evidence.",
+    "Write and retell a comparable personal situation."
+  ],
+  "sentences": [
+    {
+      "id": "story_028_sentence_01",
+      "th": "วันแรกที่ทำงานในร้านอาหารแห่งใหม่ ผมมาถึงก่อนเวลาเพื่อเตรียมตัวและรู้จักเพื่อนร่วมงาน",
+      "en": "On my first day at a new restaurant, I arrive early to get ready and meet my coworkers.",
+      "zh-TW": "到新餐廳上班的第一天，我提早抵達，準備工作並認識同事。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_028_sentence_02",
+      "th": "หัวหน้าพาผมดูพื้นที่ทำงาน แล้วอธิบายกฎเกี่ยวกับความสะอาดและความปลอดภัย",
+      "en": "My supervisor shows me the workspace and explains the rules about cleanliness and safety.",
+      "zh-TW": "主管帶我看工作區，說明清潔與安全規定。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_028_sentence_03",
+      "th": "แม้ว่าผมจะเคยทำงานบริการมาก่อน แต่แต่ละร้านมีวิธีทำงานไม่เหมือนกัน",
+      "en": "Although I have worked in service before, each restaurant has different ways of working.",
+      "zh-TW": "雖然以前做過服務業，但每間餐廳的工作方式都不同。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_028_sentence_04",
+      "th": "ผมจึงตั้งใจฟังและจดขั้นตอนสำคัญ แทนที่จะคิดว่าตัวเองรู้ทุกอย่างแล้ว",
+      "en": "So I listen carefully and note important steps instead of assuming I already know everything.",
+      "zh-TW": "因此我專心聽、記下重要步驟，而不是認為自己什麼都懂了。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_028_sentence_05",
+      "th": "เพื่อนร่วมงานคนหนึ่งสอนให้ผมตรวจหมายเลขโต๊ะก่อนนำอาหารไปเสิร์ฟ",
+      "en": "A coworker teaches me to check the table number before serving food.",
+      "zh-TW": "一位同事教我，送餐前要先確認桌號。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_028_sentence_06",
+      "th": "เขาบอกว่าถ้าไม่แน่ใจ ควรถามก่อน เพราะการเดาอาจทำให้ส่งอาหารผิดโต๊ะ",
+      "en": "He says that if I am unsure, I should ask first because guessing could lead to food going to the wrong table.",
+      "zh-TW": "他說，不確定就該先問，因為猜測可能會送錯桌。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_028_sentence_07",
+      "th": "ช่วงเที่ยงร้านยุ่งมาก และผมฟังคำสั่งบางอย่างไม่ทัน",
+      "en": "At lunchtime the restaurant is very busy, and I cannot catch some instructions.",
+      "zh-TW": "午餐時段餐廳很忙，有些指示我沒聽清楚。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_028_sentence_08",
+      "th": "แทนที่จะพยักหน้าไปเฉย ๆ ผมขอให้เพื่อนพูดซ้ำและชี้ให้ดู",
+      "en": "Instead of simply nodding, I ask my coworker to repeat the instructions and point things out.",
+      "zh-TW": "我沒有只是點頭，而是請同事再說一次，並指給我看。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_028_sentence_09",
+      "th": "เมื่อรู้ว่าตัวเองหยิบแก้วผิด ผมรีบบอกเพื่อนและเปลี่ยนให้ถูกต้อง",
+      "en": "When I realize I have picked up the wrong glass, I quickly tell my coworker and replace it with the correct one.",
+      "zh-TW": "發現自己拿錯杯子時，我立刻告訴同事，換成正確的。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_028_sentence_10",
+      "th": "หลังช่วงที่ลูกค้าเยอะ หัวหน้าถามว่ามีขั้นตอนไหนที่ผมยังไม่เข้าใจ",
+      "en": "After the busy period, my supervisor asks which steps I still do not understand.",
+      "zh-TW": "忙碌時段過後，主管問我還有哪些步驟不懂。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_028_sentence_11",
+      "th": "ผมถามเรื่องที่ยังสงสัยและทบทวนสิ่งที่จดไว้กับเพื่อนร่วมงาน",
+      "en": "I ask about what I am still unsure of and review my notes with a coworker.",
+      "zh-TW": "我提出仍有疑問的地方，並和同事複習筆記。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_028_sentence_12",
+      "th": "แม้วันแรกจะเหนื่อย แต่ผมรู้สึกว่าการถามและยอมรับข้อผิดพลาดช่วยให้เรียนรู้งานได้ดีขึ้น",
+      "en": "Although the first day is tiring, I feel that asking questions and acknowledging mistakes help me learn the job better.",
+      "zh-TW": "雖然第一天很累，但我覺得提問、承認錯誤，能幫助自己把工作學得更好。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional story. Events are lesson scenarios, not claims about your business or employment.",
+      "zh-TW": "本篇為原創虛構故事，情節是學習情境，不代表你的實際營業或工作狀況。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_463",
+      "th": "ขั้นตอน",
+      "en": "step; procedure",
+      "zh-TW": "步驟",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_464",
+      "th": "ความสะอาด",
+      "en": "cleanliness",
+      "zh-TW": "清潔",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_465",
+      "th": "ความปลอดภัย",
+      "en": "safety",
+      "zh-TW": "安全",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_466",
+      "th": "หมายเลข",
+      "en": "number; identification number",
+      "zh-TW": "號碼",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_467",
+      "th": "พยักหน้า",
+      "en": "nod",
+      "zh-TW": "點頭",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_468",
+      "th": "ยอมรับ",
+      "en": "acknowledge; accept",
+      "zh-TW": "承認；接受",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_469",
+      "th": "ข้อผิดพลาด",
+      "en": "mistake; error",
+      "zh-TW": "錯誤",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_470",
+      "th": "กฎ",
+      "en": "rule",
+      "zh-TW": "規則",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 29,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_221",
+      "th": "ตั้งใจ",
+      "en": "pay attention; intend",
+      "zh-TW": "專心；打算",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_086",
+      "th": "ทำงาน",
+      "en": "work",
+      "zh-TW": "工作",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 83,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_132",
+      "th": "ยุ่ง",
+      "en": "busy",
+      "zh-TW": "忙碌",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 94,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_471",
+      "th": "เปลี่ยน",
+      "en": "change; replace",
+      "zh-TW": "更換",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 6,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_472",
+      "th": "ทบทวน",
+      "en": "review",
+      "zh-TW": "複習",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 114,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_136",
+      "th": "ช่วย",
+      "en": "help",
+      "zh-TW": "幫助",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 110,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_091",
+      "th": "เพื่อนร่วมงาน",
+      "en": "coworker",
+      "zh-TW": "同事",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_112",
+      "th": "จด",
+      "en": "note down",
+      "zh-TW": "記下",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_473",
+      "th": "เสิร์ฟ",
+      "en": "serve food or drinks",
+      "zh-TW": "送餐；上飲品",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_474",
+      "th": "คำสั่ง",
+      "en": "instruction",
+      "zh-TW": "指示",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_475",
+      "th": "สงสัย",
+      "en": "be unsure; wonder",
+      "zh-TW": "有疑問",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_233",
+      "th": "เรียนรู้",
+      "en": "learn",
+      "zh-TW": "學習",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries introduce useful vocabulary. Supporting entries recycle words from the current master bank and earlier stories. Bank presence is recorded separately from earlier lesson exposure.",
+      "zh-TW": "七個重點詞引入實用詞彙；輔助詞複習目前單字庫及先前故事詞彙。「單字庫收錄」與「先前故事出現」分開標記。"
+    },
+    {
+      "en": "Some bank entries retain provisional source-photo flags. Their flags are preserved in the mapping; no uncertain school romanization is invented.",
+      "zh-TW": "部分單字庫項目仍保留原始照片待確認標記；對照表保留這些標記，不猜測學校音標。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j",
+      "long_vowels": "Repeat the short symbol, for example aa, ɔɔ, əə.",
+      "schwa": "ə"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_028_reading_01",
+        "th": "แม้ว่าผมจะเคยทำงานบริการมาก่อน แต่แต่ละร้านมีวิธีทำงานไม่เหมือนกัน",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around แม้ว่า + clause + แต่ + clause. The pair contrasts previous experience with a new situation."
+      },
+      {
+        "id": "story_028_reading_02",
+        "th": "เขาบอกว่าถ้าไม่แน่ใจ ควรถามก่อน เพราะการเดาอาจทำให้ส่งอาหารผิดโต๊ะ",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around ถ้าไม่แน่ใจ + ควร + action. ควร introduces the recommended action in the story."
+      },
+      {
+        "id": "story_028_reading_03",
+        "th": "แทนที่จะพยักหน้าไปเฉย ๆ ผมขอให้เพื่อนพูดซ้ำและชี้ให้ดู",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around แทนที่จะ + action + alternative. The speaker replaces an unhelpful response with a clarifying action."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_028_pattern_01",
+      "name_en": "Recognize a contrast",
+      "pattern_th": "แม้ว่า + clause + แต่ + clause",
+      "explanation_en": "The pair contrasts previous experience with a new situation.",
+      "examples": [
+        {
+          "th": "แม้ว่าผมจะเคยทำงานบริการมาก่อน แต่แต่ละร้านมีวิธีทำงานไม่เหมือนกัน",
+          "en": "Although I have worked in service before, each restaurant has different ways of working.",
+          "zh-TW": "雖然以前做過服務業，但每間餐廳的工作方式都不同。"
+        }
+      ]
+    },
+    {
+      "id": "story_028_pattern_02",
+      "name_en": "Respond to uncertainty",
+      "pattern_th": "ถ้าไม่แน่ใจ + ควร + action",
+      "explanation_en": "ควร introduces the recommended action in the story.",
+      "examples": [
+        {
+          "th": "เขาบอกว่าถ้าไม่แน่ใจ ควรถามก่อน เพราะการเดาอาจทำให้ส่งอาหารผิดโต๊ะ",
+          "en": "He says that if I am unsure, I should ask first because guessing could lead to food going to the wrong table.",
+          "zh-TW": "他說，不確定就該先問，因為猜測可能會送錯桌。"
+        }
+      ]
+    },
+    {
+      "id": "story_028_pattern_03",
+      "name_en": "Choose clarification",
+      "pattern_th": "แทนที่จะ + action + alternative",
+      "explanation_en": "The speaker replaces an unhelpful response with a clarifying action.",
+      "examples": [
+        {
+          "th": "แทนที่จะพยักหน้าไปเฉย ๆ ผมขอให้เพื่อนพูดซ้ำและชี้ให้ดู",
+          "en": "Instead of simply nodding, I ask my coworker to repeat the instructions and point things out.",
+          "zh-TW": "我沒有只是點頭，而是請同事再說一次，並指給我看。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_028_quiz_01",
+      "question_th": "ทำไมผมจึงต้องตั้งใจฟังแม้เคยทำงานบริการ",
+      "question_en": "Why must I listen carefully despite service experience?",
+      "hint_en": "Look at sentence 3; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะแต่ละร้านมีวิธีทำงานต่างกัน",
+          "en": "Because each restaurant works differently"
+        },
+        {
+          "id": "b",
+          "th": "เพราะไม่เคยเจอลูกค้า",
+          "en": "Because I have never met a customer"
+        },
+        {
+          "id": "c",
+          "th": "เพราะไม่ต้องทำงานจริง",
+          "en": "Because I do not have to work"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_028_sentence_03",
+      "explanation_en": "Although I have worked in service before, each restaurant has different ways of working.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_028_quiz_02",
+      "question_th": "ก่อนนำอาหารไปเสิร์ฟต้องตรวจอะไร",
+      "question_en": "What must I check before serving food?",
+      "hint_en": "Look at sentence 5; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "สีของเสื้อ",
+          "en": "My shirt colour"
+        },
+        {
+          "id": "b",
+          "th": "หมายเลขโต๊ะ",
+          "en": "The table number"
+        },
+        {
+          "id": "c",
+          "th": "วันเกิดเพื่อน",
+          "en": "A friend’s birthday"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_028_sentence_05",
+      "explanation_en": "A coworker teaches me to check the table number before serving food.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_028_quiz_03",
+      "question_th": "เมื่อฟังคำสั่งไม่ทัน ผมทำอย่างไร",
+      "question_en": "What do I do when I cannot catch instructions?",
+      "hint_en": "Look at sentence 8; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เดาแล้วทำต่อ",
+          "en": "Guess and continue"
+        },
+        {
+          "id": "b",
+          "th": "พยักหน้าอย่างเดียว",
+          "en": "Only nod"
+        },
+        {
+          "id": "c",
+          "th": "ขอให้พูดซ้ำและชี้ให้ดู",
+          "en": "Ask for repetition and pointing"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_028_sentence_08",
+      "explanation_en": "Instead of simply nodding, I ask my coworker to repeat the instructions and point things out.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_028_quiz_04",
+      "question_th": "เมื่อหยิบแก้วผิด ผมตอบสนองอย่างไร",
+      "question_en": "How do I respond after picking up the wrong glass?",
+      "hint_en": "Look at sentence 9; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "บอกเพื่อนและเปลี่ยนให้ถูกต้อง",
+          "en": "Tell my coworker and replace it correctly"
+        },
+        {
+          "id": "b",
+          "th": "ซ่อนแก้วไว้",
+          "en": "Hide the glass"
+        },
+        {
+          "id": "c",
+          "th": "โทษลูกค้า",
+          "en": "Blame the customer"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_028_sentence_09",
+      "explanation_en": "When I realize I have picked up the wrong glass, I quickly tell my coworker and replace it with the correct one.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_028_writing_01",
+        "en": "Use แม้ว่า + clause + แต่ + clause to express this meaning, then adapt it to your own situation: Although I have worked in service before, each restaurant has different ways of working.",
+        "zh-TW": "用「แม้ว่า + clause + แต่ + clause」表達以下意思，再改寫成自己的情境：雖然以前做過服務業，但每間餐廳的工作方式都不同。",
+        "suggested_answer_th": "แม้ว่าผมจะเคยทำงานบริการมาก่อน แต่แต่ละร้านมีวิธีทำงานไม่เหมือนกัน"
+      },
+      {
+        "id": "story_028_writing_02",
+        "en": "Use ถ้าไม่แน่ใจ + ควร + action to express this meaning, then adapt it to your own situation: He says that if I am unsure, I should ask first because guessing could lead to food going to the wrong table.",
+        "zh-TW": "用「ถ้าไม่แน่ใจ + ควร + action」表達以下意思，再改寫成自己的情境：他說，不確定就該先問，因為猜測可能會送錯桌。",
+        "suggested_answer_th": "เขาบอกว่าถ้าไม่แน่ใจ ควรถามก่อน เพราะการเดาอาจทำให้ส่งอาหารผิดโต๊ะ"
+      },
+      {
+        "id": "story_028_writing_03",
+        "en": "Use แทนที่จะ + action + alternative to express this meaning, then adapt it to your own situation: Instead of simply nodding, I ask my coworker to repeat the instructions and point things out.",
+        "zh-TW": "用「แทนที่จะ + action + alternative」表達以下意思，再改寫成自己的情境：我沒有只是點頭，而是請同事再說一次，並指給我看。",
+        "suggested_answer_th": "แทนที่จะพยักหน้าไปเฉย ๆ ผมขอให้เพื่อนพูดซ้ำและชี้ให้ดู"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own situation. Include a reason and a contrast or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_028_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_028_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_028_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a 45–60 second Thai retelling. Explain one choice and its reason, then compare it with your own experience."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "Prior higher-difficulty lessons and previously reviewed ALA Reading 2 chapters; current master bank version 1.",
+    "approach": "Final curriculum group, level 5 (not CEFR): twelve connected sentences, practical decisions, reasons, contrasts, conditions and reflection. Seven focus glossary entries per story, with scaffolded supporting vocabulary."
+  },
+  "paragraph_groups": [
+    [
+      "story_028_sentence_01",
+      "story_028_sentence_02",
+      "story_028_sentence_03",
+      "story_028_sentence_04"
+    ],
+    [
+      "story_028_sentence_05",
+      "story_028_sentence_06",
+      "story_028_sentence_07",
+      "story_028_sentence_08"
+    ],
+    [
+      "story_028_sentence_09",
+      "story_028_sentence_10",
+      "story_028_sentence_11",
+      "story_028_sentence_12"
+    ]
+  ],
+  "vocabulary_bank_reference": {
+    "file_name": "Thai_Vocabulary_Master_Bank.xlsx",
+    "library_file_id": "libfile_a52605a9cfa0819185d8e24a66728b13",
+    "version_id": "1",
+    "checked_on": "2026-11-03",
+    "entry_count": 137,
+    "matching_method": "Exact Thai entry match; กรุงเทพฯ explicitly mapped to กรุงเทพ. Presence in bank does not imply mastery. New lesson words are not added to the master bank."
+  }
+}

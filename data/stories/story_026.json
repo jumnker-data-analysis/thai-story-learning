@@ -1,0 +1,653 @@
+{
+  "schema_version": 1,
+  "id": "story_026",
+  "level": 5,
+  "topic": "planning_a_small_cafe",
+  "title": {
+    "th": "ร้านกาแฟเล็ก ๆ ของผม",
+    "en": "My Little Coffee Shop",
+    "zh-TW": "我的小咖啡店"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read twelve connected sentences in three groups of four.",
+    "Understand reasons, contrasting choices and conditional plans.",
+    "Explain answers using sentence evidence.",
+    "Write and retell a comparable personal situation."
+  ],
+  "sentences": [
+    {
+      "id": "story_026_sentence_01",
+      "th": "ผมอยากเปิดร้านกาแฟเล็ก ๆ ใกล้บ้าน เพราะชอบชงกาแฟและพูดคุยกับคนในชุมชน",
+      "en": "I want to open a small café near home because I enjoy making coffee and talking with people in the community.",
+      "zh-TW": "我想在家附近開一間小咖啡店，因為喜歡沖咖啡，也喜歡與社區居民聊天。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_026_sentence_02",
+      "th": "แม้ว่าตอนนี้ผมยังมีเงินและเวลาจำกัด แต่ผมเริ่มวางแผนทีละขั้นได้",
+      "en": "Although my money and time are currently limited, I can start planning one step at a time.",
+      "zh-TW": "雖然目前金錢和時間有限，但我可以開始一步一步規劃。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_026_sentence_03",
+      "th": "แทนที่จะเช่าร้านใหญ่ทันที ผมคิดว่าจะเริ่มจากมุมเล็ก ๆ ที่บ้านในวันหยุด",
+      "en": "Instead of renting a large shop straight away, I am thinking of starting with a small corner at home on my days off.",
+      "zh-TW": "我考慮先在休假時利用家裡的小角落開始，而不是立刻租一間大店面。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_026_sentence_04",
+      "th": "ก่อนตัดสินใจ ผมต้องตรวจสอบว่าพื้นที่และการขายเครื่องดื่มเหมาะสมกับข้อกำหนดที่เกี่ยวข้องหรือไม่",
+      "en": "Before deciding, I need to check whether the space and selling drinks meet the relevant requirements.",
+      "zh-TW": "決定前，我得先確認場地和販售飲品是否符合相關規定。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_026_sentence_05",
+      "th": "ผมเลือกเมนูไม่กี่อย่าง เพื่อให้เตรียมของง่ายและรักษาคุณภาพได้สม่ำเสมอ",
+      "en": "I choose just a few menu items so that preparation is easy and I can keep the quality consistent.",
+      "zh-TW": "我只選幾款品項，讓備料比較簡單，也能維持穩定品質。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_026_sentence_06",
+      "th": "กาแฟ ชา และเครื่องดื่มที่ไม่หวานมากจะเป็นตัวเลือกหลักในแผนแรก",
+      "en": "Coffee, tea, and drinks that are not very sweet will be the main choices in my initial plan.",
+      "zh-TW": "咖啡、茶和不太甜的飲品，會是初步計畫中的主要選項。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_026_sentence_07",
+      "th": "ผมจดค่าใช้จ่ายของวัตถุดิบแต่ละอย่าง แล้วคำนวณต้นทุนต่อแก้วก่อนตั้งราคา",
+      "en": "I write down the cost of each ingredient and calculate the cost per cup before setting prices.",
+      "zh-TW": "我記下各項原料費用，計算每杯成本後再訂價。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_026_sentence_08",
+      "th": "ถ้าต้นทุนสูงกว่าที่คาดไว้ ผมจะปรับแผนแทนที่จะลดคุณภาพโดยไม่คิดให้รอบคอบ",
+      "en": "If costs are higher than expected, I will revise the plan instead of lowering quality without careful thought.",
+      "zh-TW": "如果成本比預期高，我會調整計畫，而不是沒想清楚就降低品質。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_026_sentence_09",
+      "th": "จากนั้นผมชวนเพื่อนมาลองเครื่องดื่มและขอความคิดเห็นอย่างตรงไปตรงมา",
+      "en": "Then I invite friends to try the drinks and ask for honest feedback.",
+      "zh-TW": "接著我邀朋友試喝，請他們坦白給意見。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_026_sentence_10",
+      "th": "เพื่อนบอกว่ากาแฟรสดี แต่ป้ายเมนูควรอ่านง่ายกว่านี้",
+      "en": "My friends say the coffee tastes good, but the menu sign should be easier to read.",
+      "zh-TW": "朋友說咖啡味道不錯，但菜單招牌應該更容易閱讀。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_026_sentence_11",
+      "th": "ผมจึงแก้ป้ายและฝึกอธิบายเมนูเป็นภาษาไทยให้สุภาพและชัดเจน",
+      "en": "So I revise the sign and practise explaining the menu politely and clearly in Thai.",
+      "zh-TW": "因此我修改招牌，並練習用泰語禮貌、清楚地介紹菜單。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_026_sentence_12",
+      "th": "สำหรับผม ร้านเล็ก ๆ นี้ยังเป็นเพียงแผนทดลอง แต่เป็นโอกาสที่จะนำสิ่งที่ชอบมาใช้จริง",
+      "en": "For me, this small café is still only a trial plan, but it is a chance to put something I enjoy into practice.",
+      "zh-TW": "對我來說，這間小店目前只是試行計畫，卻是把喜好付諸實踐的機會。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional story. Events are lesson scenarios, not claims about your business or employment.",
+      "zh-TW": "本篇為原創虛構故事，情節是學習情境，不代表你的實際營業或工作狀況。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_436",
+      "th": "ต้นทุน",
+      "en": "cost of production",
+      "zh-TW": "成本",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_437",
+      "th": "วัตถุดิบ",
+      "en": "ingredient; raw material",
+      "zh-TW": "原料",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_438",
+      "th": "สม่ำเสมอ",
+      "en": "consistent",
+      "zh-TW": "穩定；一致",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_439",
+      "th": "ข้อกำหนด",
+      "en": "requirement",
+      "zh-TW": "規定",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_440",
+      "th": "รอบคอบ",
+      "en": "careful; thorough",
+      "zh-TW": "周全",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_441",
+      "th": "ความคิดเห็น",
+      "en": "opinion; feedback",
+      "zh-TW": "意見",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_442",
+      "th": "ทดลอง",
+      "en": "try out; trial",
+      "zh-TW": "試行；實驗",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_028",
+      "th": "กาแฟ",
+      "en": "coffee",
+      "zh-TW": "咖啡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 101,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_076",
+      "th": "ชา",
+      "en": "tea",
+      "zh-TW": "茶",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 100,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_443",
+      "th": "เช่า",
+      "en": "rent",
+      "zh-TW": "租借",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 106,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_444",
+      "th": "สุภาพ",
+      "en": "polite",
+      "zh-TW": "有禮貌",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 37,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_407",
+      "th": "โอกาส",
+      "en": "opportunity",
+      "zh-TW": "機會",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 47,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_445",
+      "th": "หวาน",
+      "en": "sweet",
+      "zh-TW": "甜",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 123,
+      "master_bank_source_provisional": true
+    },
+    {
+      "id": "word_209",
+      "th": "วันหยุด",
+      "en": "day off",
+      "zh-TW": "休息日",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 136,
+      "master_bank_source_provisional": true
+    },
+    {
+      "id": "word_446",
+      "th": "ชุมชน",
+      "en": "community",
+      "zh-TW": "社區",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_447",
+      "th": "จำกัด",
+      "en": "limited",
+      "zh-TW": "有限",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_448",
+      "th": "ทีละขั้น",
+      "en": "one step at a time",
+      "zh-TW": "一步一步",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_449",
+      "th": "คำนวณ",
+      "en": "calculate",
+      "zh-TW": "計算",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_450",
+      "th": "ต่อแก้ว",
+      "en": "per cup",
+      "zh-TW": "每杯",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_451",
+      "th": "ปรับแผน",
+      "en": "revise a plan",
+      "zh-TW": "調整計畫",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries introduce useful vocabulary. Supporting entries recycle words from the current master bank and earlier stories. Bank presence is recorded separately from earlier lesson exposure.",
+      "zh-TW": "七個重點詞引入實用詞彙；輔助詞複習目前單字庫及先前故事詞彙。「單字庫收錄」與「先前故事出現」分開標記。"
+    },
+    {
+      "en": "Some bank entries retain provisional source-photo flags. Their flags are preserved in the mapping; no uncertain school romanization is invented.",
+      "zh-TW": "部分單字庫項目仍保留原始照片待確認標記；對照表保留這些標記，不猜測學校音標。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j",
+      "long_vowels": "Repeat the short symbol, for example aa, ɔɔ, əə.",
+      "schwa": "ə"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_026_reading_01",
+        "th": "แทนที่จะเช่าร้านใหญ่ทันที ผมคิดว่าจะเริ่มจากมุมเล็ก ๆ ที่บ้านในวันหยุด",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around แทนที่จะ + action + alternative. แทนที่จะ introduces the action being replaced."
+      },
+      {
+        "id": "story_026_reading_02",
+        "th": "ผมเลือกเมนูไม่กี่อย่าง เพื่อให้เตรียมของง่ายและรักษาคุณภาพได้สม่ำเสมอ",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around action + เพื่อให้ + result. เพื่อให้ introduces the intended result."
+      },
+      {
+        "id": "story_026_reading_03",
+        "th": "ถ้าต้นทุนสูงกว่าที่คาดไว้ ผมจะปรับแผนแทนที่จะลดคุณภาพโดยไม่คิดให้รอบคอบ",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around ถ้า + condition + จะ + response. ถ้า introduces a condition and จะ marks the planned response."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_026_pattern_01",
+      "name_en": "Choose an alternative",
+      "pattern_th": "แทนที่จะ + action + alternative",
+      "explanation_en": "แทนที่จะ introduces the action being replaced.",
+      "examples": [
+        {
+          "th": "แทนที่จะเช่าร้านใหญ่ทันที ผมคิดว่าจะเริ่มจากมุมเล็ก ๆ ที่บ้านในวันหยุด",
+          "en": "Instead of renting a large shop straight away, I am thinking of starting with a small corner at home on my days off.",
+          "zh-TW": "我考慮先在休假時利用家裡的小角落開始，而不是立刻租一間大店面。"
+        }
+      ]
+    },
+    {
+      "id": "story_026_pattern_02",
+      "name_en": "Explain a purpose",
+      "pattern_th": "action + เพื่อให้ + result",
+      "explanation_en": "เพื่อให้ introduces the intended result.",
+      "examples": [
+        {
+          "th": "ผมเลือกเมนูไม่กี่อย่าง เพื่อให้เตรียมของง่ายและรักษาคุณภาพได้สม่ำเสมอ",
+          "en": "I choose just a few menu items so that preparation is easy and I can keep the quality consistent.",
+          "zh-TW": "我只選幾款品項，讓備料比較簡單，也能維持穩定品質。"
+        }
+      ]
+    },
+    {
+      "id": "story_026_pattern_03",
+      "name_en": "Plan conditionally",
+      "pattern_th": "ถ้า + condition + จะ + response",
+      "explanation_en": "ถ้า introduces a condition and จะ marks the planned response.",
+      "examples": [
+        {
+          "th": "ถ้าต้นทุนสูงกว่าที่คาดไว้ ผมจะปรับแผนแทนที่จะลดคุณภาพโดยไม่คิดให้รอบคอบ",
+          "en": "If costs are higher than expected, I will revise the plan instead of lowering quality without careful thought.",
+          "zh-TW": "如果成本比預期高，我會調整計畫，而不是沒想清楚就降低品質。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_026_quiz_01",
+      "question_th": "ทำไมผมจึงเลือกเมนูไม่กี่อย่าง",
+      "question_en": "Why do I choose only a few menu items?",
+      "hint_en": "Look at sentence 5; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อให้เตรียมของง่ายและรักษาคุณภาพ",
+          "en": "To simplify preparation and maintain quality"
+        },
+        {
+          "id": "b",
+          "th": "เพื่อไม่ต้องฟังลูกค้า",
+          "en": "To avoid listening to customers"
+        },
+        {
+          "id": "c",
+          "th": "เพราะเพื่อนไม่ชอบกาแฟ",
+          "en": "Because my friends dislike coffee"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_026_sentence_05",
+      "explanation_en": "I choose just a few menu items so that preparation is easy and I can keep the quality consistent.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_026_quiz_02",
+      "question_th": "ผมทำอะไรก่อนตั้งราคา",
+      "question_en": "What do I do before setting prices?",
+      "hint_en": "Look at sentence 7; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เช่าร้านใหญ่",
+          "en": "Rent a large shop"
+        },
+        {
+          "id": "b",
+          "th": "คำนวณต้นทุนต่อแก้ว",
+          "en": "Calculate the cost per cup"
+        },
+        {
+          "id": "c",
+          "th": "เลิกขายชา",
+          "en": "Stop selling tea"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_026_sentence_07",
+      "explanation_en": "I write down the cost of each ingredient and calculate the cost per cup before setting prices.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_026_quiz_03",
+      "question_th": "เพื่อนเสนอให้ปรับปรุงอะไร",
+      "question_en": "What do my friends suggest improving?",
+      "hint_en": "Look at sentence 10; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ตำแหน่งบ้าน",
+          "en": "The location of my home"
+        },
+        {
+          "id": "b",
+          "th": "เวลาวันหยุด",
+          "en": "My days off"
+        },
+        {
+          "id": "c",
+          "th": "ความอ่านง่ายของป้ายเมนู",
+          "en": "How easy the menu sign is to read"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_026_sentence_10",
+      "explanation_en": "My friends say the coffee tastes good, but the menu sign should be easier to read.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_026_quiz_04",
+      "question_th": "ข้อใดตรงกับสถานะของร้านตอนจบ",
+      "question_en": "Which describes the café at the end?",
+      "hint_en": "Look at sentence 12; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ยังเป็นแผนทดลอง",
+          "en": "It is still a trial plan"
+        },
+        {
+          "id": "b",
+          "th": "เป็นร้านใหญ่แล้ว",
+          "en": "It is already a large shop"
+        },
+        {
+          "id": "c",
+          "th": "ปิดกิจการไปแล้ว",
+          "en": "It has already closed"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_026_sentence_12",
+      "explanation_en": "For me, this small café is still only a trial plan, but it is a chance to put something I enjoy into practice.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_026_writing_01",
+        "en": "Use แทนที่จะ + action + alternative to express this meaning, then adapt it to your own situation: Instead of renting a large shop straight away, I am thinking of starting with a small corner at home on my days off.",
+        "zh-TW": "用「แทนที่จะ + action + alternative」表達以下意思，再改寫成自己的情境：我考慮先在休假時利用家裡的小角落開始，而不是立刻租一間大店面。",
+        "suggested_answer_th": "แทนที่จะเช่าร้านใหญ่ทันที ผมคิดว่าจะเริ่มจากมุมเล็ก ๆ ที่บ้านในวันหยุด"
+      },
+      {
+        "id": "story_026_writing_02",
+        "en": "Use action + เพื่อให้ + result to express this meaning, then adapt it to your own situation: I choose just a few menu items so that preparation is easy and I can keep the quality consistent.",
+        "zh-TW": "用「action + เพื่อให้ + result」表達以下意思，再改寫成自己的情境：我只選幾款品項，讓備料比較簡單，也能維持穩定品質。",
+        "suggested_answer_th": "ผมเลือกเมนูไม่กี่อย่าง เพื่อให้เตรียมของง่ายและรักษาคุณภาพได้สม่ำเสมอ"
+      },
+      {
+        "id": "story_026_writing_03",
+        "en": "Use ถ้า + condition + จะ + response to express this meaning, then adapt it to your own situation: If costs are higher than expected, I will revise the plan instead of lowering quality without careful thought.",
+        "zh-TW": "用「ถ้า + condition + จะ + response」表達以下意思，再改寫成自己的情境：如果成本比預期高，我會調整計畫，而不是沒想清楚就降低品質。",
+        "suggested_answer_th": "ถ้าต้นทุนสูงกว่าที่คาดไว้ ผมจะปรับแผนแทนที่จะลดคุณภาพโดยไม่คิดให้รอบคอบ"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own situation. Include a reason and a contrast or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_026_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_026_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_026_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a 45–60 second Thai retelling. Explain one choice and its reason, then compare it with your own experience."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "Prior higher-difficulty lessons and previously reviewed ALA Reading 2 chapters; current master bank version 1.",
+    "approach": "Final curriculum group, level 5 (not CEFR): twelve connected sentences, practical decisions, reasons, contrasts, conditions and reflection. Seven focus glossary entries per story, with scaffolded supporting vocabulary."
+  },
+  "paragraph_groups": [
+    [
+      "story_026_sentence_01",
+      "story_026_sentence_02",
+      "story_026_sentence_03",
+      "story_026_sentence_04"
+    ],
+    [
+      "story_026_sentence_05",
+      "story_026_sentence_06",
+      "story_026_sentence_07",
+      "story_026_sentence_08"
+    ],
+    [
+      "story_026_sentence_09",
+      "story_026_sentence_10",
+      "story_026_sentence_11",
+      "story_026_sentence_12"
+    ]
+  ],
+  "vocabulary_bank_reference": {
+    "file_name": "Thai_Vocabulary_Master_Bank.xlsx",
+    "library_file_id": "libfile_a52605a9cfa0819185d8e24a66728b13",
+    "version_id": "1",
+    "checked_on": "2026-11-03",
+    "entry_count": 137,
+    "matching_method": "Exact Thai entry match; กรุงเทพฯ explicitly mapped to กรุงเทพ. Presence in bank does not imply mastery. New lesson words are not added to the master bank."
+  }
+}

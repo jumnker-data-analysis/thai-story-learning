@@ -1,0 +1,653 @@
+{
+  "schema_version": 1,
+  "id": "story_030",
+  "level": 5,
+  "topic": "reflecting_on_life_in_bangkok",
+  "title": {
+    "th": "ชีวิตใหม่ในกรุงเทพฯ",
+    "en": "My New Life in Bangkok",
+    "zh-TW": "我在曼谷的新生活"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read twelve connected sentences in three groups of four.",
+    "Understand reasons, contrasting choices and conditional plans.",
+    "Explain answers using sentence evidence.",
+    "Write and retell a comparable personal situation."
+  ],
+  "sentences": [
+    {
+      "id": "story_030_sentence_01",
+      "th": "เมื่อย้อนคิดถึงวันแรกที่มาอยู่กรุงเทพฯ ผมยังจำได้ว่าตัวเองกังวลแม้แต่เรื่องสั่งอาหาร",
+      "en": "When I think back to my first day living in Bangkok, I still remember feeling anxious even about ordering food.",
+      "zh-TW": "回想剛來曼谷生活的第一天，我仍記得自己連點餐都感到擔心。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_030_sentence_02",
+      "th": "ตอนนั้นผมรู้คำศัพท์ไม่มาก จึงมักใช้ภาษาอังกฤษเมื่อไม่แน่ใจ",
+      "en": "At that time I knew few Thai words, so I often used English when I was unsure.",
+      "zh-TW": "當時我認識的泰語詞彙不多，不確定時就常改用英語。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_030_sentence_03",
+      "th": "ทุกวันนี้ผมยังพูดผิดและอ่านช้าอยู่บ้าง แต่เริ่มอธิบายความต้องการของตัวเองได้ชัดเจนขึ้น",
+      "en": "These days I still sometimes speak incorrectly and read slowly, but I am starting to explain my needs more clearly.",
+      "zh-TW": "現在我偶爾仍會說錯、讀得慢，但開始能更清楚表達自己的需求。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_030_sentence_04",
+      "th": "การเรียนที่โรงเรียนช่วยให้ผมเข้าใจโครงสร้างภาษา ส่วนการทำงานทำให้ได้ลองใช้ในสถานการณ์จริง",
+      "en": "School helps me understand language structures, while work lets me try using them in real situations.",
+      "zh-TW": "學校幫助我理解語言結構，工作則讓我有機會在真實情境中運用。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_030_sentence_05",
+      "th": "เพราะต้องแบ่งเวลาให้ทั้งงาน การเรียน และการพักผ่อน ผมจึงทำตามแผนเดิมไม่ได้ทุกวัน",
+      "en": "Because I must divide my time between work, study, and rest, I cannot follow my original plan every day.",
+      "zh-TW": "因為得把時間分給工作、學習和休息，我沒辦法每天都照原定計畫進行。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_030_sentence_06",
+      "th": "แทนที่จะเลิกทำเมื่อพลาดไปหนึ่งวัน ผมเลือกกลับมาเริ่มจากสิ่งเล็ก ๆ ที่ทำได้",
+      "en": "Instead of giving up after missing one day, I choose to return to something small that I can do.",
+      "zh-TW": "我不再因為中斷一天就放棄，而是選擇回來，先做一件能力所及的小事。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_030_sentence_07",
+      "th": "บางวันผมอ่านเพียงย่อหน้าเดียว แต่พยายามฟังให้เข้าใจและแต่งประโยคด้วยตัวเอง",
+      "en": "On some days I read only one paragraph, but I try to understand what I hear and make my own sentences.",
+      "zh-TW": "有些日子我只讀一段，但會試著聽懂內容，並自己造句。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_030_sentence_08",
+      "th": "เมื่อเจอคำที่ออกเสียงไม่ตรงกับที่คาด ผมจดไว้แล้วถามครู แทนที่จะเดาซ้ำ ๆ",
+      "en": "When I find a word pronounced differently from what I expected, I note it and ask my teacher instead of repeatedly guessing.",
+      "zh-TW": "遇到發音和預期不同的詞，我會記下來問老師，而不是一直猜。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_030_sentence_09",
+      "th": "ผมยังได้รู้จักเพื่อนที่ช่วยอธิบายสิ่งที่ไม่เข้าใจ และผมก็ช่วยพวกเขาในเรื่องที่ตัวเองถนัด",
+      "en": "I have also met friends who explain things I do not understand, and I help them with things I am good at.",
+      "zh-TW": "我也認識了願意解釋我不懂的事的朋友，而我會用自己擅長的事幫助他們。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_030_sentence_10",
+      "th": "แม้ชีวิตในเมืองใหม่จะมีเรื่องให้ปรับตัวเสมอ แต่ผมเริ่มรู้สึกว่าที่นี่เป็นส่วนหนึ่งของชีวิต",
+      "en": "Although life in a new city always brings things to adapt to, I am starting to feel that this place is part of my life.",
+      "zh-TW": "雖然新城市的生活總有需要適應的事，但我開始覺得這裡已是生活的一部分。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_030_sentence_11",
+      "th": "หลังอ่านครบสามสิบเรื่อง ผมอยากกลับไปอ่านเรื่องแรกอีกครั้งเพื่อดูว่าตัวเองเข้าใจมากขึ้นแค่ไหน",
+      "en": "After reading all thirty stories, I want to reread the first one to see how much more I understand.",
+      "zh-TW": "讀完三十篇故事後，我想重新讀第一篇，看看自己多理解了多少。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_030_sentence_12",
+      "th": "สำหรับผม ความสุขของชีวิตใหม่ไม่ได้อยู่ที่การทำทุกอย่างได้ทันที แต่อยู่ที่การค่อย ๆ เรียนรู้และมีแรงเดินต่อไป",
+      "en": "For me, the happiness of this new life comes not from being able to do everything immediately, but from learning gradually and having the energy to keep going.",
+      "zh-TW": "對我而言，新生活的幸福不在於立刻什麼都會，而在於慢慢學習，並有力氣繼續往前走。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional story. Events are lesson scenarios, not claims about your business or employment.",
+      "zh-TW": "本篇為原創虛構故事，情節是學習情境，不代表你的實際營業或工作狀況。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_488",
+      "th": "ย้อนคิด",
+      "en": "think back",
+      "zh-TW": "回想",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_489",
+      "th": "กังวล",
+      "en": "feel anxious",
+      "zh-TW": "擔心",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_490",
+      "th": "ความต้องการ",
+      "en": "need; desire",
+      "zh-TW": "需求",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_491",
+      "th": "โครงสร้าง",
+      "en": "structure",
+      "zh-TW": "結構",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_492",
+      "th": "สถานการณ์",
+      "en": "situation",
+      "zh-TW": "情境",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_493",
+      "th": "ถนัด",
+      "en": "be good at",
+      "zh-TW": "擅長",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_494",
+      "th": "ปรับตัว",
+      "en": "adapt",
+      "zh-TW": "適應",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_144",
+      "th": "กรุงเทพฯ",
+      "en": "Bangkok",
+      "zh-TW": "曼谷",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 53,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_495",
+      "th": "คิด",
+      "en": "think",
+      "zh-TW": "思考",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 98,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_103",
+      "th": "พูด",
+      "en": "speak",
+      "zh-TW": "說話",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 97,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_496",
+      "th": "ฟัง",
+      "en": "listen",
+      "zh-TW": "聽",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 99,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_497",
+      "th": "ครู",
+      "en": "teacher",
+      "zh-TW": "老師",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 68,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_186",
+      "th": "เพื่อน",
+      "en": "friend",
+      "zh-TW": "朋友",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 105,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_075",
+      "th": "ความสุข",
+      "en": "happiness",
+      "zh-TW": "幸福；快樂",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 42,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_498",
+      "th": "แบ่งเวลา",
+      "en": "divide one’s time",
+      "zh-TW": "分配時間",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_499",
+      "th": "พักผ่อน",
+      "en": "rest",
+      "zh-TW": "休息",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_347",
+      "th": "ย่อหน้า",
+      "en": "paragraph",
+      "zh-TW": "段落",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_500",
+      "th": "คาด",
+      "en": "expect",
+      "zh-TW": "預期",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_501",
+      "th": "ค่อย ๆ",
+      "en": "gradually",
+      "zh-TW": "慢慢地",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_502",
+      "th": "เดินต่อไป",
+      "en": "keep going",
+      "zh-TW": "繼續前進",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries introduce useful vocabulary. Supporting entries recycle words from the current master bank and earlier stories. Bank presence is recorded separately from earlier lesson exposure.",
+      "zh-TW": "七個重點詞引入實用詞彙；輔助詞複習目前單字庫及先前故事詞彙。「單字庫收錄」與「先前故事出現」分開標記。"
+    },
+    {
+      "en": "Some bank entries retain provisional source-photo flags. Their flags are preserved in the mapping; no uncertain school romanization is invented.",
+      "zh-TW": "部分單字庫項目仍保留原始照片待確認標記；對照表保留這些標記，不猜測學校音標。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j",
+      "long_vowels": "Repeat the short symbol, for example aa, ɔɔ, əə.",
+      "schwa": "ə"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_030_reading_01",
+        "th": "การเรียนที่โรงเรียนช่วยให้ผมเข้าใจโครงสร้างภาษา ส่วนการทำงานทำให้ได้ลองใช้ในสถานการณ์จริง",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around clause + ส่วน + clause. ส่วน contrasts two roles or aspects without requiring disagreement."
+      },
+      {
+        "id": "story_030_reading_02",
+        "th": "แทนที่จะเลิกทำเมื่อพลาดไปหนึ่งวัน ผมเลือกกลับมาเริ่มจากสิ่งเล็ก ๆ ที่ทำได้",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around แทนที่จะ + action + alternative. The speaker chooses a manageable alternative to giving up."
+      },
+      {
+        "id": "story_030_reading_03",
+        "th": "สำหรับผม ความสุขของชีวิตใหม่ไม่ได้อยู่ที่การทำทุกอย่างได้ทันที แต่อยู่ที่การค่อย ๆ เรียนรู้และมีแรงเดินต่อไป",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around ไม่ได้อยู่ที่...แต่อยู่ที่.... This pattern shifts the focus from one proposed source to another."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_030_pattern_01",
+      "name_en": "Compare complementary roles",
+      "pattern_th": "clause + ส่วน + clause",
+      "explanation_en": "ส่วน contrasts two roles or aspects without requiring disagreement.",
+      "examples": [
+        {
+          "th": "การเรียนที่โรงเรียนช่วยให้ผมเข้าใจโครงสร้างภาษา ส่วนการทำงานทำให้ได้ลองใช้ในสถานการณ์จริง",
+          "en": "School helps me understand language structures, while work lets me try using them in real situations.",
+          "zh-TW": "學校幫助我理解語言結構，工作則讓我有機會在真實情境中運用。"
+        }
+      ]
+    },
+    {
+      "id": "story_030_pattern_02",
+      "name_en": "Respond to a setback",
+      "pattern_th": "แทนที่จะ + action + alternative",
+      "explanation_en": "The speaker chooses a manageable alternative to giving up.",
+      "examples": [
+        {
+          "th": "แทนที่จะเลิกทำเมื่อพลาดไปหนึ่งวัน ผมเลือกกลับมาเริ่มจากสิ่งเล็ก ๆ ที่ทำได้",
+          "en": "Instead of giving up after missing one day, I choose to return to something small that I can do.",
+          "zh-TW": "我不再因為中斷一天就放棄，而是選擇回來，先做一件能力所及的小事。"
+        }
+      ]
+    },
+    {
+      "id": "story_030_pattern_03",
+      "name_en": "Explain what matters",
+      "pattern_th": "ไม่ได้อยู่ที่...แต่อยู่ที่...",
+      "explanation_en": "This pattern shifts the focus from one proposed source to another.",
+      "examples": [
+        {
+          "th": "สำหรับผม ความสุขของชีวิตใหม่ไม่ได้อยู่ที่การทำทุกอย่างได้ทันที แต่อยู่ที่การค่อย ๆ เรียนรู้และมีแรงเดินต่อไป",
+          "en": "For me, the happiness of this new life comes not from being able to do everything immediately, but from learning gradually and having the energy to keep going.",
+          "zh-TW": "對我而言，新生活的幸福不在於立刻什麼都會，而在於慢慢學習，並有力氣繼續往前走。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_030_quiz_01",
+      "question_th": "งานกับโรงเรียนช่วยต่างกันอย่างไรตามเรื่อง",
+      "question_en": "How do work and school help differently in the story?",
+      "hint_en": "Look at sentence 4; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "โรงเรียนช่วยเรื่องโครงสร้าง งานช่วยฝึกใช้จริง",
+          "en": "School helps with structures; work helps with real use"
+        },
+        {
+          "id": "b",
+          "th": "โรงเรียนสอนทำอาหารเท่านั้น",
+          "en": "School only teaches cooking"
+        },
+        {
+          "id": "c",
+          "th": "งานทำให้ไม่ต้องเรียนภาษา",
+          "en": "Work removes the need for language study"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_030_sentence_04",
+      "explanation_en": "School helps me understand language structures, while work lets me try using them in real situations.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_030_quiz_02",
+      "question_th": "เมื่อพลาดไปหนึ่งวัน ผมเลือกทำอย่างไร",
+      "question_en": "What do I choose after missing a day?",
+      "hint_en": "Look at sentence 6; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เลิกทำทั้งหมด",
+          "en": "Give up everything"
+        },
+        {
+          "id": "b",
+          "th": "เริ่มใหม่จากสิ่งเล็ก ๆ ที่ทำได้",
+          "en": "Start again with something small I can do"
+        },
+        {
+          "id": "c",
+          "th": "รอจนไม่มีงานเลย",
+          "en": "Wait until I have no work"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_030_sentence_06",
+      "explanation_en": "Instead of giving up after missing one day, I choose to return to something small that I can do.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_030_quiz_03",
+      "question_th": "เมื่อคำออกเสียงไม่ตรงกับที่คาด ผมทำอย่างไร",
+      "question_en": "What do I do when pronunciation differs from my expectation?",
+      "hint_en": "Look at sentence 8; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เดาซ้ำ ๆ เท่านั้น",
+          "en": "Only keep guessing"
+        },
+        {
+          "id": "b",
+          "th": "ข้ามทุกคำที่ยาก",
+          "en": "Skip every difficult word"
+        },
+        {
+          "id": "c",
+          "th": "จดไว้แล้วถามครู",
+          "en": "Note it and ask my teacher"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_030_sentence_08",
+      "explanation_en": "When I find a word pronounced differently from what I expected, I note it and ask my teacher instead of repeatedly guessing.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_030_quiz_04",
+      "question_th": "ทำไมผมจึงอยากกลับไปอ่านเรื่องแรก",
+      "question_en": "Why do I want to reread the first story?",
+      "hint_en": "Look at sentence 11; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อดูว่าตัวเองเข้าใจมากขึ้นแค่ไหน",
+          "en": "To see how much more I understand"
+        },
+        {
+          "id": "b",
+          "th": "เพราะไม่เคยอ่านเรื่องอื่น",
+          "en": "Because I have never read any others"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อจำราคาเครื่องดื่ม",
+          "en": "To memorize drink prices"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_030_sentence_11",
+      "explanation_en": "After reading all thirty stories, I want to reread the first one to see how much more I understand.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_030_writing_01",
+        "en": "Use clause + ส่วน + clause to express this meaning, then adapt it to your own situation: School helps me understand language structures, while work lets me try using them in real situations.",
+        "zh-TW": "用「clause + ส่วน + clause」表達以下意思，再改寫成自己的情境：學校幫助我理解語言結構，工作則讓我有機會在真實情境中運用。",
+        "suggested_answer_th": "การเรียนที่โรงเรียนช่วยให้ผมเข้าใจโครงสร้างภาษา ส่วนการทำงานทำให้ได้ลองใช้ในสถานการณ์จริง"
+      },
+      {
+        "id": "story_030_writing_02",
+        "en": "Use แทนที่จะ + action + alternative to express this meaning, then adapt it to your own situation: Instead of giving up after missing one day, I choose to return to something small that I can do.",
+        "zh-TW": "用「แทนที่จะ + action + alternative」表達以下意思，再改寫成自己的情境：我不再因為中斷一天就放棄，而是選擇回來，先做一件能力所及的小事。",
+        "suggested_answer_th": "แทนที่จะเลิกทำเมื่อพลาดไปหนึ่งวัน ผมเลือกกลับมาเริ่มจากสิ่งเล็ก ๆ ที่ทำได้"
+      },
+      {
+        "id": "story_030_writing_03",
+        "en": "Use ไม่ได้อยู่ที่...แต่อยู่ที่... to express this meaning, then adapt it to your own situation: For me, the happiness of this new life comes not from being able to do everything immediately, but from learning gradually and having the energy to keep going.",
+        "zh-TW": "用「ไม่ได้อยู่ที่...แต่อยู่ที่...」表達以下意思，再改寫成自己的情境：對我而言，新生活的幸福不在於立刻什麼都會，而在於慢慢學習，並有力氣繼續往前走。",
+        "suggested_answer_th": "สำหรับผม ความสุขของชีวิตใหม่ไม่ได้อยู่ที่การทำทุกอย่างได้ทันที แต่อยู่ที่การค่อย ๆ เรียนรู้และมีแรงเดินต่อไป"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own situation. Include a reason and a contrast or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_030_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_030_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_030_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a 45–60 second Thai retelling. Explain one choice and its reason, then compare it with your own experience."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "Prior higher-difficulty lessons and previously reviewed ALA Reading 2 chapters; current master bank version 1.",
+    "approach": "Final curriculum group, level 5 (not CEFR): twelve connected sentences, practical decisions, reasons, contrasts, conditions and reflection. Seven focus glossary entries per story, with scaffolded supporting vocabulary."
+  },
+  "paragraph_groups": [
+    [
+      "story_030_sentence_01",
+      "story_030_sentence_02",
+      "story_030_sentence_03",
+      "story_030_sentence_04"
+    ],
+    [
+      "story_030_sentence_05",
+      "story_030_sentence_06",
+      "story_030_sentence_07",
+      "story_030_sentence_08"
+    ],
+    [
+      "story_030_sentence_09",
+      "story_030_sentence_10",
+      "story_030_sentence_11",
+      "story_030_sentence_12"
+    ]
+  ],
+  "vocabulary_bank_reference": {
+    "file_name": "Thai_Vocabulary_Master_Bank.xlsx",
+    "library_file_id": "libfile_a52605a9cfa0819185d8e24a66728b13",
+    "version_id": "1",
+    "checked_on": "2026-11-03",
+    "entry_count": 137,
+    "matching_method": "Exact Thai entry match; กรุงเทพฯ explicitly mapped to กรุงเทพ. Presence in bank does not imply mastery. New lesson words are not added to the master bank."
+  }
+}

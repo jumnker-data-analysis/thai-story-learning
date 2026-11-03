@@ -1,0 +1,653 @@
+{
+  "schema_version": 1,
+  "id": "story_027",
+  "level": 5,
+  "topic": "serving_the_first_customer",
+  "title": {
+    "th": "ลูกค้าคนแรกของวันนี้",
+    "en": "The First Customer Today",
+    "zh-TW": "今天的第一位客人"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read twelve connected sentences in three groups of four.",
+    "Understand reasons, contrasting choices and conditional plans.",
+    "Explain answers using sentence evidence.",
+    "Write and retell a comparable personal situation."
+  ],
+  "sentences": [
+    {
+      "id": "story_027_sentence_01",
+      "th": "เช้าวันทดลองขาย ผมเตรียมตัวตั้งแต่เจ็ดโมงและตรวจดูเครื่องชงกาแฟอีกครั้ง",
+      "en": "On the morning of my trial sale, I get ready from seven and check the coffee machine once more.",
+      "zh-TW": "試賣那天早上，我從七點開始準備，再次檢查咖啡機。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_027_sentence_02",
+      "th": "ผมวางเมนูไว้ใกล้ประตู เพื่อให้คนที่เดินผ่านเห็นราคาได้ชัดเจน",
+      "en": "I place the menu near the door so that passers-by can see the prices clearly.",
+      "zh-TW": "我把菜單放在門附近，讓經過的人能清楚看見價格。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_027_sentence_03",
+      "th": "ไม่นานก็มีผู้หญิงคนหนึ่งหยุดอ่านเมนูแล้วถามว่ามีเครื่องดื่มอะไรบ้าง",
+      "en": "Before long, a woman stops to read the menu and asks what drinks are available.",
+      "zh-TW": "沒多久，一位女士停下來看菜單，問有哪些飲品。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_027_sentence_04",
+      "th": "เธอบอกว่าชอบกลิ่นกาแฟ แต่ไม่อยากดื่มอะไรที่หวานเกินไป",
+      "en": "She says she likes the aroma of coffee but does not want anything too sweet.",
+      "zh-TW": "她說喜歡咖啡香，但不想喝太甜的東西。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_027_sentence_05",
+      "th": "ผมจึงอธิบายความแตกต่างระหว่างกาแฟดำกับกาแฟใส่นม โดยใช้คำง่าย ๆ",
+      "en": "So I explain the difference between black coffee and coffee with milk using simple words.",
+      "zh-TW": "因此我用簡單的詞彙，說明黑咖啡與加奶咖啡的差別。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_027_sentence_06",
+      "th": "ก่อนรับรายการ ผมถามว่าเธอต้องการแบบร้อนหรือเย็น และต้องการเพิ่มน้ำตาลหรือไม่",
+      "en": "Before taking the order, I ask whether she wants it hot or iced and whether she wants added sugar.",
+      "zh-TW": "接單前，我問她要熱的還是冰的，以及是否需要加糖。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_027_sentence_07",
+      "th": "เธอเลือกกาแฟเย็นไม่ใส่น้ำตาลหนึ่งแก้ว และขอให้แยกนมไว้ต่างหาก",
+      "en": "She chooses one iced coffee without sugar and asks for the milk separately.",
+      "zh-TW": "她選了一杯不加糖的冰咖啡，並請我把牛奶另外放。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_027_sentence_08",
+      "th": "เพื่อไม่ให้เข้าใจผิด ผมทวนรายการและราคาก่อนเริ่มทำ",
+      "en": "To avoid misunderstanding, I repeat the order and price before making it.",
+      "zh-TW": "為避免誤會，製作前我先複述品項和價格。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_027_sentence_09",
+      "th": "ขณะชงกาแฟ ผมรู้สึกตื่นเต้นจนเกือบลืมเตรียมนมที่ลูกค้าขอ",
+      "en": "While making the coffee, I feel so nervous and excited that I almost forget the milk the customer requested.",
+      "zh-TW": "沖咖啡時，我緊張又興奮，差點忘記準備客人要的牛奶。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_027_sentence_10",
+      "th": "โชคดีที่ผมเขียนรายการไว้ จึงตรวจพบก่อนส่งเครื่องดื่ม",
+      "en": "Fortunately, I have written the order down, so I catch the omission before handing over the drink.",
+      "zh-TW": "幸好我記下了訂單，交付飲品前就發現漏了東西。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_027_sentence_11",
+      "th": "ลูกค้าขอบคุณแล้วบอกว่าจะชวนเพื่อนมาลองในครั้งหน้า",
+      "en": "The customer thanks me and says she will invite a friend to try it next time.",
+      "zh-TW": "客人道謝後，說下次會邀朋友來試試。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_027_sentence_12",
+      "th": "หลังเธอกลับ ผมจดสิ่งที่ต้องปรับปรุง เพราะอยากบริการลูกค้าคนต่อไปให้ดีขึ้น",
+      "en": "After she leaves, I note what needs improving because I want to serve the next customer better.",
+      "zh-TW": "她離開後，我記下需要改善的地方，希望下次能服務得更好。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional story. Events are lesson scenarios, not claims about your business or employment.",
+      "zh-TW": "本篇為原創虛構故事，情節是學習情境，不代表你的實際營業或工作狀況。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_452",
+      "th": "กลิ่น",
+      "en": "aroma; smell",
+      "zh-TW": "香氣；氣味",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_453",
+      "th": "ความแตกต่าง",
+      "en": "difference",
+      "zh-TW": "差異",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_072",
+      "th": "น้ำตาล",
+      "en": "sugar",
+      "zh-TW": "糖",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_454",
+      "th": "ต่างหาก",
+      "en": "separately",
+      "zh-TW": "另外",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_114",
+      "th": "ทวน",
+      "en": "repeat to check",
+      "zh-TW": "複述確認",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_455",
+      "th": "ตื่นเต้น",
+      "en": "excited; nervous",
+      "zh-TW": "興奮；緊張",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_456",
+      "th": "ปรับปรุง",
+      "en": "improve",
+      "zh-TW": "改善",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_457",
+      "th": "เตรียมตัว",
+      "en": "prepare oneself",
+      "zh-TW": "做準備",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 11,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_169",
+      "th": "ประตู",
+      "en": "door",
+      "zh-TW": "門",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 7,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_458",
+      "th": "ผู้หญิง",
+      "en": "woman",
+      "zh-TW": "女士；女性",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 128,
+      "master_bank_source_provisional": true
+    },
+    {
+      "id": "word_047",
+      "th": "ร้อน",
+      "en": "hot",
+      "zh-TW": "熱",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 80,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_459",
+      "th": "โชคดี",
+      "en": "fortunately; lucky",
+      "zh-TW": "幸運",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 40,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_367",
+      "th": "ขอบคุณ",
+      "en": "thank",
+      "zh-TW": "感謝",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 55,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_027",
+      "th": "ชอบ",
+      "en": "like",
+      "zh-TW": "喜歡",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 96,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_102",
+      "th": "ลูกค้า",
+      "en": "customer",
+      "zh-TW": "客人",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_113",
+      "th": "รายการ",
+      "en": "order; list item",
+      "zh-TW": "訂單；項目",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_071",
+      "th": "นม",
+      "en": "milk",
+      "zh-TW": "牛奶",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_460",
+      "th": "เข้าใจผิด",
+      "en": "misunderstand",
+      "zh-TW": "誤會",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_461",
+      "th": "ขณะ",
+      "en": "while",
+      "zh-TW": "當……時",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_462",
+      "th": "เกือบ",
+      "en": "almost",
+      "zh-TW": "差點",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries introduce useful vocabulary. Supporting entries recycle words from the current master bank and earlier stories. Bank presence is recorded separately from earlier lesson exposure.",
+      "zh-TW": "七個重點詞引入實用詞彙；輔助詞複習目前單字庫及先前故事詞彙。「單字庫收錄」與「先前故事出現」分開標記。"
+    },
+    {
+      "en": "Some bank entries retain provisional source-photo flags. Their flags are preserved in the mapping; no uncertain school romanization is invented.",
+      "zh-TW": "部分單字庫項目仍保留原始照片待確認標記；對照表保留這些標記，不猜測學校音標。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j",
+      "long_vowels": "Repeat the short symbol, for example aa, ɔɔ, əə.",
+      "schwa": "ə"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_027_reading_01",
+        "th": "ผมจึงอธิบายความแตกต่างระหว่างกาแฟดำกับกาแฟใส่นม โดยใช้คำง่าย ๆ",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around ความแตกต่างระหว่าง + A + กับ + B. ระหว่าง...กับ... names the two things being compared."
+      },
+      {
+        "id": "story_027_reading_02",
+        "th": "เพื่อไม่ให้เข้าใจผิด ผมทวนรายการและราคาก่อนเริ่มทำ",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around action + เพื่อไม่ให้ + outcome. เพื่อไม่ให้ introduces the outcome the speaker wants to prevent."
+      },
+      {
+        "id": "story_027_reading_03",
+        "th": "ขณะชงกาแฟ ผมรู้สึกตื่นเต้นจนเกือบลืมเตรียมนมที่ลูกค้าขอ",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around ...จนเกือบ.... จนเกือบ connects a strong feeling to something that almost happens."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_027_pattern_01",
+      "name_en": "Compare two choices",
+      "pattern_th": "ความแตกต่างระหว่าง + A + กับ + B",
+      "explanation_en": "ระหว่าง...กับ... names the two things being compared.",
+      "examples": [
+        {
+          "th": "ผมจึงอธิบายความแตกต่างระหว่างกาแฟดำกับกาแฟใส่นม โดยใช้คำง่าย ๆ",
+          "en": "So I explain the difference between black coffee and coffee with milk using simple words.",
+          "zh-TW": "因此我用簡單的詞彙，說明黑咖啡與加奶咖啡的差別。"
+        }
+      ]
+    },
+    {
+      "id": "story_027_pattern_02",
+      "name_en": "Avoid an outcome",
+      "pattern_th": "action + เพื่อไม่ให้ + outcome",
+      "explanation_en": "เพื่อไม่ให้ introduces the outcome the speaker wants to prevent.",
+      "examples": [
+        {
+          "th": "เพื่อไม่ให้เข้าใจผิด ผมทวนรายการและราคาก่อนเริ่มทำ",
+          "en": "To avoid misunderstanding, I repeat the order and price before making it.",
+          "zh-TW": "為避免誤會，製作前我先複述品項和價格。"
+        }
+      ]
+    },
+    {
+      "id": "story_027_pattern_03",
+      "name_en": "Describe a near result",
+      "pattern_th": "...จนเกือบ...",
+      "explanation_en": "จนเกือบ connects a strong feeling to something that almost happens.",
+      "examples": [
+        {
+          "th": "ขณะชงกาแฟ ผมรู้สึกตื่นเต้นจนเกือบลืมเตรียมนมที่ลูกค้าขอ",
+          "en": "While making the coffee, I feel so nervous and excited that I almost forget the milk the customer requested.",
+          "zh-TW": "沖咖啡時，我緊張又興奮，差點忘記準備客人要的牛奶。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_027_quiz_01",
+      "question_th": "ลูกค้าไม่อยากดื่มอะไร",
+      "question_en": "What does the customer not want?",
+      "hint_en": "Look at sentence 4; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เครื่องดื่มที่หวานเกินไป",
+          "en": "A drink that is too sweet"
+        },
+        {
+          "id": "b",
+          "th": "เครื่องดื่มเย็นทุกชนิด",
+          "en": "Any cold drink"
+        },
+        {
+          "id": "c",
+          "th": "กาแฟทุกชนิด",
+          "en": "Any coffee"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_027_sentence_04",
+      "explanation_en": "She says she likes the aroma of coffee but does not want anything too sweet.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_027_quiz_02",
+      "question_th": "ลูกค้าขอให้จัดนมอย่างไร",
+      "question_en": "How does the customer want the milk served?",
+      "hint_en": "Look at sentence 7; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ผสมลงไปทั้งหมด",
+          "en": "Mix all of it in"
+        },
+        {
+          "id": "b",
+          "th": "แยกไว้ต่างหาก",
+          "en": "Serve it separately"
+        },
+        {
+          "id": "c",
+          "th": "ไม่ต้องเตรียมเลย",
+          "en": "Do not prepare it at all"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_027_sentence_07",
+      "explanation_en": "She chooses one iced coffee without sugar and asks for the milk separately.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_027_quiz_03",
+      "question_th": "อะไรช่วยให้ผมพบสิ่งที่เกือบลืม",
+      "question_en": "What helps me notice what I almost forgot?",
+      "hint_en": "Look at sentence 10; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "คำถามจากเพื่อน",
+          "en": "A friend’s question"
+        },
+        {
+          "id": "b",
+          "th": "ราคาบนประตู",
+          "en": "The price at the door"
+        },
+        {
+          "id": "c",
+          "th": "รายการที่เขียนไว้",
+          "en": "The written order"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_027_sentence_10",
+      "explanation_en": "Fortunately, I have written the order down, so I catch the omission before handing over the drink.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_027_quiz_04",
+      "question_th": "ทำไมผมจึงจดสิ่งที่ต้องปรับปรุง",
+      "question_en": "Why do I note improvements?",
+      "hint_en": "Look at sentence 12; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อบริการลูกค้าคนต่อไปให้ดีขึ้น",
+          "en": "To serve the next customer better"
+        },
+        {
+          "id": "b",
+          "th": "เพราะจะเลิกชงกาแฟ",
+          "en": "Because I will stop making coffee"
+        },
+        {
+          "id": "c",
+          "th": "เพื่อเปลี่ยนชื่อเพื่อน",
+          "en": "To change a friend’s name"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_027_sentence_12",
+      "explanation_en": "After she leaves, I note what needs improving because I want to serve the next customer better.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_027_writing_01",
+        "en": "Use ความแตกต่างระหว่าง + A + กับ + B to express this meaning, then adapt it to your own situation: So I explain the difference between black coffee and coffee with milk using simple words.",
+        "zh-TW": "用「ความแตกต่างระหว่าง + A + กับ + B」表達以下意思，再改寫成自己的情境：因此我用簡單的詞彙，說明黑咖啡與加奶咖啡的差別。",
+        "suggested_answer_th": "ผมจึงอธิบายความแตกต่างระหว่างกาแฟดำกับกาแฟใส่นม โดยใช้คำง่าย ๆ"
+      },
+      {
+        "id": "story_027_writing_02",
+        "en": "Use action + เพื่อไม่ให้ + outcome to express this meaning, then adapt it to your own situation: To avoid misunderstanding, I repeat the order and price before making it.",
+        "zh-TW": "用「action + เพื่อไม่ให้ + outcome」表達以下意思，再改寫成自己的情境：為避免誤會，製作前我先複述品項和價格。",
+        "suggested_answer_th": "เพื่อไม่ให้เข้าใจผิด ผมทวนรายการและราคาก่อนเริ่มทำ"
+      },
+      {
+        "id": "story_027_writing_03",
+        "en": "Use ...จนเกือบ... to express this meaning, then adapt it to your own situation: While making the coffee, I feel so nervous and excited that I almost forget the milk the customer requested.",
+        "zh-TW": "用「...จนเกือบ...」表達以下意思，再改寫成自己的情境：沖咖啡時，我緊張又興奮，差點忘記準備客人要的牛奶。",
+        "suggested_answer_th": "ขณะชงกาแฟ ผมรู้สึกตื่นเต้นจนเกือบลืมเตรียมนมที่ลูกค้าขอ"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own situation. Include a reason and a contrast or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_027_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_027_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_027_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a 45–60 second Thai retelling. Explain one choice and its reason, then compare it with your own experience."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "Prior higher-difficulty lessons and previously reviewed ALA Reading 2 chapters; current master bank version 1.",
+    "approach": "Final curriculum group, level 5 (not CEFR): twelve connected sentences, practical decisions, reasons, contrasts, conditions and reflection. Seven focus glossary entries per story, with scaffolded supporting vocabulary."
+  },
+  "paragraph_groups": [
+    [
+      "story_027_sentence_01",
+      "story_027_sentence_02",
+      "story_027_sentence_03",
+      "story_027_sentence_04"
+    ],
+    [
+      "story_027_sentence_05",
+      "story_027_sentence_06",
+      "story_027_sentence_07",
+      "story_027_sentence_08"
+    ],
+    [
+      "story_027_sentence_09",
+      "story_027_sentence_10",
+      "story_027_sentence_11",
+      "story_027_sentence_12"
+    ]
+  ],
+  "vocabulary_bank_reference": {
+    "file_name": "Thai_Vocabulary_Master_Bank.xlsx",
+    "library_file_id": "libfile_a52605a9cfa0819185d8e24a66728b13",
+    "version_id": "1",
+    "checked_on": "2026-11-03",
+    "entry_count": 137,
+    "matching_method": "Exact Thai entry match; กรุงเทพฯ explicitly mapped to กรุงเทพ. Presence in bank does not imply mastery. New lesson words are not added to the master bank."
+  }
+}

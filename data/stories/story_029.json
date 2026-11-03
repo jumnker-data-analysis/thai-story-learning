@@ -1,0 +1,653 @@
+{
+  "schema_version": 1,
+  "id": "story_029",
+  "level": 5,
+  "topic": "a_restful_beach_holiday",
+  "title": {
+    "th": "วันหยุดที่ทะเล",
+    "en": "A Holiday at the Beach",
+    "zh-TW": "海邊的假期"
+  },
+  "content_status": "draft",
+  "fictional_scenario": true,
+  "learning_goals": [
+    "Read twelve connected sentences in three groups of four.",
+    "Understand reasons, contrasting choices and conditional plans.",
+    "Explain answers using sentence evidence.",
+    "Write and retell a comparable personal situation."
+  ],
+  "sentences": [
+    {
+      "id": "story_029_sentence_01",
+      "th": "หลังทำงานติดต่อกันหลายวัน ผมกับเพื่อนตกลงว่าจะไปเที่ยวทะเลในวันหยุด",
+      "en": "After working several days in a row, my friends and I agree to visit the beach on our day off.",
+      "zh-TW": "連續工作好幾天後，我和朋友約好休假時去海邊。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_029_sentence_02",
+      "th": "เราเลือกพักหนึ่งคืน เพื่อจะได้มีเวลาเดินเล่นโดยไม่ต้องรีบกลับกรุงเทพฯในวันเดียว",
+      "en": "We choose to stay one night so that we can walk around without rushing back to Bangkok the same day.",
+      "zh-TW": "我們決定住一晚，才有時間散步，不必當天急著趕回曼谷。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_029_sentence_03",
+      "th": "ก่อนจองที่พัก ผมเปรียบเทียบราคาและดูว่าจากสถานีไปถึงที่พักสะดวกหรือไม่",
+      "en": "Before booking accommodation, I compare prices and check whether it is easy to get there from the station.",
+      "zh-TW": "訂住宿前，我比較價格，並確認從車站到住處是否方便。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_029_sentence_04",
+      "th": "ส่วนเพื่อนตรวจพยากรณ์อากาศ เพราะถ้าฝนตกหนัก เราอาจต้องเปลี่ยนกิจกรรม",
+      "en": "Meanwhile, a friend checks the weather forecast because heavy rain might make us change our activities.",
+      "zh-TW": "朋友則查看天氣預報，因為如果下大雨，可能得改變活動。",
+      "paragraph": 1
+    },
+    {
+      "id": "story_029_sentence_05",
+      "th": "เมื่อไปถึง อากาศร้อนกว่าที่คิด เราจึงวางกระเป๋าแล้วหาที่นั่งพักก่อน",
+      "en": "When we arrive, it is hotter than expected, so we put down our bags and find somewhere to sit and rest first.",
+      "zh-TW": "抵達時比想像中熱，因此我們放下行李，先找地方坐著休息。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_029_sentence_06",
+      "th": "ช่วงบ่ายผมอยากเดินถ่ายรูป แต่เพื่อนอยากนั่งฟังเสียงคลื่นเงียบ ๆ",
+      "en": "In the afternoon I want to walk around taking photos, but my friend wants to sit quietly listening to the waves.",
+      "zh-TW": "下午我想散步拍照，朋友卻想安靜坐著聽海浪。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_029_sentence_07",
+      "th": "แทนที่จะทำทุกอย่างด้วยกัน เราตกลงแยกกันพักแล้วค่อยเจอกันตอนเย็น",
+      "en": "Instead of doing everything together, we agree to spend time separately and meet in the evening.",
+      "zh-TW": "我們沒有勉強所有活動都一起做，而是約好各自休息，傍晚再見面。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_029_sentence_08",
+      "th": "ก่อนแยกกัน เราเลือกจุดนัดพบใกล้ร้านอาหารและส่งตำแหน่งไว้ในกลุ่ม",
+      "en": "Before separating, we choose a meeting point near a restaurant and share its location in our group chat.",
+      "zh-TW": "分開前，我們選定餐廳附近的集合點，並把位置傳到群組。",
+      "paragraph": 2
+    },
+    {
+      "id": "story_029_sentence_09",
+      "th": "พอถึงเวลานัด ฝนก็เริ่มตก เราจึงเข้าไปกินปลาและข้าวในร้านแทนการนั่งข้างนอก",
+      "en": "At our meeting time it starts raining, so we go inside for fish and rice instead of sitting outdoors.",
+      "zh-TW": "到了約定時間，雨開始下了，因此我們進店裡吃魚和飯，不坐戶外。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_029_sentence_10",
+      "th": "แม้จะไม่ได้เห็นพระอาทิตย์ตกตามแผน แต่เราก็มีเวลาคุยกันโดยไม่ต้องมองนาฬิกาตลอดเวลา",
+      "en": "Although we do not see the sunset as planned, we have time to talk without constantly watching the clock.",
+      "zh-TW": "雖然沒能照計畫看夕陽，但我們有時間聊天，不必一直盯著時鐘。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_029_sentence_11",
+      "th": "คืนนั้นผมนอนหลับเร็ว และตื่นมาพร้อมความรู้สึกว่าได้พักจริง ๆ",
+      "en": "That night I fall asleep early and wake up feeling that I have truly rested.",
+      "zh-TW": "那晚我很早入睡，醒來時覺得自己真的休息到了。",
+      "paragraph": 3
+    },
+    {
+      "id": "story_029_sentence_12",
+      "th": "ก่อนกลับ ผมคิดว่าวันหยุดที่ดีไม่จำเป็นต้องทำกิจกรรมครบทุกอย่าง แค่ได้พักในแบบที่เหมาะกับตัวเองก็พอ",
+      "en": "Before returning, I think that a good holiday does not require completing every activity; resting in a way that suits me is enough.",
+      "zh-TW": "回程前，我想，好的假期不一定要完成所有活動，能用適合自己的方式休息就夠了。",
+      "paragraph": 3
+    }
+  ],
+  "language_notes": [
+    {
+      "en": "Original fictional story. Events are lesson scenarios, not claims about your business or employment.",
+      "zh-TW": "本篇為原創虛構故事，情節是學習情境，不代表你的實際營業或工作狀況。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "word_476",
+      "th": "ติดต่อกัน",
+      "en": "consecutively",
+      "zh-TW": "連續地",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_477",
+      "th": "ที่พัก",
+      "en": "accommodation",
+      "zh-TW": "住宿",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_478",
+      "th": "พยากรณ์อากาศ",
+      "en": "weather forecast",
+      "zh-TW": "天氣預報",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_479",
+      "th": "คลื่น",
+      "en": "wave",
+      "zh-TW": "海浪",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_480",
+      "th": "จุดนัดพบ",
+      "en": "meeting point",
+      "zh-TW": "集合點",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_481",
+      "th": "ตำแหน่ง",
+      "en": "location; position",
+      "zh-TW": "位置",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_482",
+      "th": "พระอาทิตย์ตก",
+      "en": "sunset",
+      "zh-TW": "日落",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": true,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_483",
+      "th": "ไปเที่ยว",
+      "en": "go on a trip",
+      "zh-TW": "出去玩",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 112,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_040",
+      "th": "อากาศ",
+      "en": "weather; air",
+      "zh-TW": "天氣；空氣",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 46,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_047",
+      "th": "ร้อน",
+      "en": "hot",
+      "zh-TW": "熱",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 80,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_484",
+      "th": "ปลา",
+      "en": "fish",
+      "zh-TW": "魚",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 5,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_485",
+      "th": "กลุ่ม",
+      "en": "group",
+      "zh-TW": "群組",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 15,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_486",
+      "th": "นอนหลับ",
+      "en": "sleep",
+      "zh-TW": "睡覺",
+      "entry_type": "word",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 137,
+      "master_bank_source_provisional": true
+    },
+    {
+      "id": "word_144",
+      "th": "กรุงเทพฯ",
+      "en": "Bangkok",
+      "zh-TW": "曼谷",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": true,
+      "master_bank_id": 53,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_348",
+      "th": "เปรียบเทียบ",
+      "en": "compare",
+      "zh-TW": "比較",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_222",
+      "th": "ตกลง",
+      "en": "agree",
+      "zh-TW": "約定",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_281",
+      "th": "แยกกัน",
+      "en": "separately",
+      "zh-TW": "分開",
+      "entry_type": "word",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_487",
+      "th": "ตามแผน",
+      "en": "according to plan",
+      "zh-TW": "按照計畫",
+      "entry_type": "phrase",
+      "introduced_before_story": false,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_343",
+      "th": "ไม่จำเป็นต้อง",
+      "en": "do not have to",
+      "zh-TW": "不必",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    },
+    {
+      "id": "word_432",
+      "th": "เหมาะกับ",
+      "en": "suit; be suitable for",
+      "zh-TW": "適合",
+      "entry_type": "phrase",
+      "introduced_before_story": true,
+      "priority": false,
+      "in_master_bank": false,
+      "master_bank_id": null,
+      "master_bank_source_provisional": false
+    }
+  ],
+  "vocabulary_notes": [
+    {
+      "en": "Seven focus entries introduce useful vocabulary. Supporting entries recycle words from the current master bank and earlier stories. Bank presence is recorded separately from earlier lesson exposure.",
+      "zh-TW": "七個重點詞引入實用詞彙；輔助詞複習目前單字庫及先前故事詞彙。「單字庫收錄」與「先前故事出現」分開標記。"
+    },
+    {
+      "en": "Some bank entries retain provisional source-photo flags. Their flags are preserved in the mapping; no uncertain school romanization is invented.",
+      "zh-TW": "部分單字庫項目仍保留原始照片待確認標記；對照表保留這些標記，不猜測學校音標。"
+    }
+  ],
+  "pronunciation": {
+    "system": "ALA school-style notation",
+    "review_status": "reading_notes_only_transcription_not_added",
+    "conventions": {
+      "ก": "k",
+      "บ": "b",
+      "ป": "p",
+      "พ ผ ภ": "ph",
+      "ง": "ŋ",
+      "vowel_initial": "ʔ",
+      "tones": {
+        "mid": "a",
+        "low": "à",
+        "falling": "â",
+        "high": "á",
+        "rising": "ǎ"
+      },
+      "จ": "j",
+      "long_vowels": "Repeat the short symbol, for example aa, ɔɔ, əə.",
+      "schwa": "ə"
+    },
+    "reading_advice_en": "Read whole phrases in context first. School romanization is not supplied in this draft. Your confirmed convention remains ก = k.",
+    "notes": [
+      {
+        "id": "story_029_reading_01",
+        "th": "ส่วนเพื่อนตรวจพยากรณ์อากาศ เพราะถ้าฝนตกหนัก เราอาจต้องเปลี่ยนกิจกรรม",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around ถ้า + condition + อาจ + result. อาจ marks possibility rather than a certain result."
+      },
+      {
+        "id": "story_029_reading_02",
+        "th": "แทนที่จะทำทุกอย่างด้วยกัน เราตกลงแยกกันพักแล้วค่อยเจอกันตอนเย็น",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around แทนที่จะ...ตกลง.... The group agrees on an alternative rather than insisting on the first idea."
+      },
+      {
+        "id": "story_029_reading_03",
+        "th": "แม้จะไม่ได้เห็นพระอาทิตย์ตกตามแผน แต่เราก็มีเวลาคุยกันโดยไม่ต้องมองนาฬิกาตลอดเวลา",
+        "school_reading": "",
+        "note_en": "Pause at meaningful clause boundaries around แม้จะ...แต่.... The pair links an unfulfilled plan to a positive experience."
+      }
+    ]
+  },
+  "sentence_patterns": [
+    {
+      "id": "story_029_pattern_01",
+      "name_en": "Express a possible result",
+      "pattern_th": "ถ้า + condition + อาจ + result",
+      "explanation_en": "อาจ marks possibility rather than a certain result.",
+      "examples": [
+        {
+          "th": "ส่วนเพื่อนตรวจพยากรณ์อากาศ เพราะถ้าฝนตกหนัก เราอาจต้องเปลี่ยนกิจกรรม",
+          "en": "Meanwhile, a friend checks the weather forecast because heavy rain might make us change our activities.",
+          "zh-TW": "朋友則查看天氣預報，因為如果下大雨，可能得改變活動。"
+        }
+      ]
+    },
+    {
+      "id": "story_029_pattern_02",
+      "name_en": "Negotiate a different plan",
+      "pattern_th": "แทนที่จะ...ตกลง...",
+      "explanation_en": "The group agrees on an alternative rather than insisting on the first idea.",
+      "examples": [
+        {
+          "th": "แทนที่จะทำทุกอย่างด้วยกัน เราตกลงแยกกันพักแล้วค่อยเจอกันตอนเย็น",
+          "en": "Instead of doing everything together, we agree to spend time separately and meet in the evening.",
+          "zh-TW": "我們沒有勉強所有活動都一起做，而是約好各自休息，傍晚再見面。"
+        }
+      ]
+    },
+    {
+      "id": "story_029_pattern_03",
+      "name_en": "Contrast a change with a benefit",
+      "pattern_th": "แม้จะ...แต่...",
+      "explanation_en": "The pair links an unfulfilled plan to a positive experience.",
+      "examples": [
+        {
+          "th": "แม้จะไม่ได้เห็นพระอาทิตย์ตกตามแผน แต่เราก็มีเวลาคุยกันโดยไม่ต้องมองนาฬิกาตลอดเวลา",
+          "en": "Although we do not see the sunset as planned, we have time to talk without constantly watching the clock.",
+          "zh-TW": "雖然沒能照計畫看夕陽，但我們有時間聊天，不必一直盯著時鐘。"
+        }
+      ]
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "story_029_quiz_01",
+      "question_th": "ทำไมจึงเลือกพักหนึ่งคืน",
+      "question_en": "Why do we choose to stay one night?",
+      "hint_en": "Look at sentence 2; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพื่อไม่ต้องรีบกลับในวันเดียว",
+          "en": "So we do not have to rush back the same day"
+        },
+        {
+          "id": "b",
+          "th": "เพราะต้องทำงานที่ทะเล",
+          "en": "Because we must work at the beach"
+        },
+        {
+          "id": "c",
+          "th": "เพราะไม่มีรถกลับเลย",
+          "en": "Because there is no transport back at all"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_029_sentence_02",
+      "explanation_en": "We choose to stay one night so that we can walk around without rushing back to Bangkok the same day.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_029_quiz_02",
+      "question_th": "เมื่ออยากทำกิจกรรมต่างกัน เราตกลงอย่างไร",
+      "question_en": "What do we agree when we want different activities?",
+      "hint_en": "Look at sentence 7; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ให้ทุกคนถ่ายรูปตลอดวัน",
+          "en": "Make everyone take photos all day"
+        },
+        {
+          "id": "b",
+          "th": "แยกกันพักแล้วเจอกันตอนเย็น",
+          "en": "Spend time separately and meet in the evening"
+        },
+        {
+          "id": "c",
+          "th": "กลับบ้านทันที",
+          "en": "Go home immediately"
+        }
+      ],
+      "correct_choice_id": "b",
+      "evidence_sentence_id": "story_029_sentence_07",
+      "explanation_en": "Instead of doing everything together, we agree to spend time separately and meet in the evening.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_029_quiz_03",
+      "question_th": "ทำไมจึงเข้าไปกินในร้าน",
+      "question_en": "Why do we eat indoors?",
+      "hint_en": "Look at sentence 9; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "เพราะร้านข้างนอกปิดหมด",
+          "en": "Because all outdoor places are closed"
+        },
+        {
+          "id": "b",
+          "th": "เพราะลืมเวลานัด",
+          "en": "Because we forget the meeting time"
+        },
+        {
+          "id": "c",
+          "th": "เพราะเริ่มมีฝนตก",
+          "en": "Because it starts raining"
+        }
+      ],
+      "correct_choice_id": "c",
+      "evidence_sentence_id": "story_029_sentence_09",
+      "explanation_en": "At our meeting time it starts raining, so we go inside for fish and rice instead of sitting outdoors.",
+      "question_type": "reading_comprehension_with_evidence"
+    },
+    {
+      "id": "story_029_quiz_04",
+      "question_th": "ตอนจบ ผมมองวันหยุดที่ดีอย่างไร",
+      "question_en": "How do I view a good holiday at the end?",
+      "hint_en": "Look at sentence 12; explain the relevant reason, action or contrast.",
+      "choices": [
+        {
+          "id": "a",
+          "th": "ได้พักในแบบที่เหมาะกับตัวเอง",
+          "en": "Resting in a way that suits me"
+        },
+        {
+          "id": "b",
+          "th": "ต้องทำกิจกรรมครบทุกอย่าง",
+          "en": "Completing every activity is required"
+        },
+        {
+          "id": "c",
+          "th": "ต้องถ่ายรูปมากที่สุด",
+          "en": "Taking as many photos as possible"
+        }
+      ],
+      "correct_choice_id": "a",
+      "evidence_sentence_id": "story_029_sentence_12",
+      "explanation_en": "Before returning, I think that a good holiday does not require completing every activity; resting in a way that suits me is enough.",
+      "question_type": "reading_comprehension_with_evidence"
+    }
+  ],
+  "writing": {
+    "instructions_en": "Build Thai sentences using the requested pattern. Compare meaning and structure with the suggested answer; other appropriate answers may be valid. No automatic writing grading is supplied.",
+    "prompts": [
+      {
+        "id": "story_029_writing_01",
+        "en": "Use ถ้า + condition + อาจ + result to express this meaning, then adapt it to your own situation: Meanwhile, a friend checks the weather forecast because heavy rain might make us change our activities.",
+        "zh-TW": "用「ถ้า + condition + อาจ + result」表達以下意思，再改寫成自己的情境：朋友則查看天氣預報，因為如果下大雨，可能得改變活動。",
+        "suggested_answer_th": "ส่วนเพื่อนตรวจพยากรณ์อากาศ เพราะถ้าฝนตกหนัก เราอาจต้องเปลี่ยนกิจกรรม"
+      },
+      {
+        "id": "story_029_writing_02",
+        "en": "Use แทนที่จะ...ตกลง... to express this meaning, then adapt it to your own situation: Instead of doing everything together, we agree to spend time separately and meet in the evening.",
+        "zh-TW": "用「แทนที่จะ...ตกลง...」表達以下意思，再改寫成自己的情境：我們沒有勉強所有活動都一起做，而是約好各自休息，傍晚再見面。",
+        "suggested_answer_th": "แทนที่จะทำทุกอย่างด้วยกัน เราตกลงแยกกันพักแล้วค่อยเจอกันตอนเย็น"
+      },
+      {
+        "id": "story_029_writing_03",
+        "en": "Use แม้จะ...แต่... to express this meaning, then adapt it to your own situation: Although we do not see the sunset as planned, we have time to talk without constantly watching the clock.",
+        "zh-TW": "用「แม้จะ...แต่...」表達以下意思，再改寫成自己的情境：雖然沒能照計畫看夕陽，但我們有時間聊天，不必一直盯著時鐘。",
+        "suggested_answer_th": "แม้จะไม่ได้เห็นพระอาทิตย์ตกตามแผน แต่เราก็มีเวลาคุยกันโดยไม่ต้องมองนาฬิกาตลอดเวลา"
+      }
+    ],
+    "personalization_en": "Write two additional sentences about your own situation. Include a reason and a contrast or condition.",
+    "pronoun_note_en": "The narrator uses ผม. Use ฉัน or another suitable self-reference when appropriate."
+  },
+  "speaking": {
+    "tasks": [
+      {
+        "id": "story_029_speaking_01",
+        "instruction_en": "Read the twelve sentences aloud, pausing between meaningful groups."
+      },
+      {
+        "id": "story_029_speaking_02",
+        "instruction_en": "Retell the story without translating every sentence; include one reason and one result."
+      },
+      {
+        "id": "story_029_speaking_03",
+        "instruction_en": "Describe a similar personal experience in four to six Thai sentences using two target patterns."
+      }
+    ],
+    "optional_task_en": "Record a 45–60 second Thai retelling. Explain one choice and its reason, then compare it with your own experience."
+  },
+  "study_schedule": [
+    {
+      "day": 1,
+      "task_en": "Read the Thai story first, then check the translations.",
+      "task_zh-TW": "先讀泰語故事，再查看翻譯。"
+    },
+    {
+      "day": 2,
+      "task_en": "Study seven focus entries and review reading groups.",
+      "task_zh-TW": "學習七個重點詞並複習詞組。"
+    },
+    {
+      "day": 3,
+      "task_en": "Answer four questions and complete three writing prompts.",
+      "task_zh-TW": "回答四道問題並完成三道寫作練習。"
+    },
+    {
+      "day": 4,
+      "task_en": "Read aloud and retell the story in your own words.",
+      "task_zh-TW": "朗讀並用自己的話重述故事。"
+    }
+  ],
+  "difficulty_reference": {
+    "reference": "Prior higher-difficulty lessons and previously reviewed ALA Reading 2 chapters; current master bank version 1.",
+    "approach": "Final curriculum group, level 5 (not CEFR): twelve connected sentences, practical decisions, reasons, contrasts, conditions and reflection. Seven focus glossary entries per story, with scaffolded supporting vocabulary."
+  },
+  "paragraph_groups": [
+    [
+      "story_029_sentence_01",
+      "story_029_sentence_02",
+      "story_029_sentence_03",
+      "story_029_sentence_04"
+    ],
+    [
+      "story_029_sentence_05",
+      "story_029_sentence_06",
+      "story_029_sentence_07",
+      "story_029_sentence_08"
+    ],
+    [
+      "story_029_sentence_09",
+      "story_029_sentence_10",
+      "story_029_sentence_11",
+      "story_029_sentence_12"
+    ]
+  ],
+  "vocabulary_bank_reference": {
+    "file_name": "Thai_Vocabulary_Master_Bank.xlsx",
+    "library_file_id": "libfile_a52605a9cfa0819185d8e24a66728b13",
+    "version_id": "1",
+    "checked_on": "2026-11-03",
+    "entry_count": 137,
+    "matching_method": "Exact Thai entry match; กรุงเทพฯ explicitly mapped to กรุงเทพ. Presence in bank does not imply mastery. New lesson words are not added to the master bank."
+  }
+}
